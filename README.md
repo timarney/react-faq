@@ -1,5 +1,13 @@
 # React FAQ
 
+#Why use React
+
+**What so good about React?**
+
+https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-about
+
+https://facebook.github.io/react/contributing/design-principles.html
+
 #Refs
 see: https://facebook.github.io/react/docs/more-about-refs.html
 
@@ -11,6 +19,7 @@ https://news.ycombinator.com/edit?id=12093234
 **How do I handle state?**
 
 https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.dwz84fx9s
+https://twitter.com/dan_abramov/status/749710501916139520
 
 #PATENTS
 **What's all this stuff I hear about Facebook PATENTS clause?**
@@ -19,6 +28,8 @@ https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc
 
 #Higher-Order Components
 **What are Higher-Order Components (HOC)?**
+
+https://www.sitepoint.com/react-higher-order-components/
 
 https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.prpfdo79n
 
@@ -37,6 +48,35 @@ https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html
 
 **How do I decide what type of Component to use?**
 
-https://toddmotto.com/react-create-class-versus-component/
+https://toddmotto.com/react-create-class-versus-component
+
+
+https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
+
+#Internationalization 
+
+**How should I handle internationalization?**
+
+https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.bcfxgycwv
+
+#Third Party Libraries
+
+**How do I use third party libraries?**
+
+https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
+
+#Performance
+
+**How can I make my app faster?**
+
+https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.gvyat7vkb
+
+https://twitter.com/dan_abramov/status/759383530120110080
+
+#Binding
+
+**What is this bind thing?**
+
+https://daveceddia.com/avoid-bind-when-passing-props/
 
 
