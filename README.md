@@ -146,3 +146,21 @@ https://twitter.com/dan_abramov/status/737036433215610880
 
 https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application
 
+#Video Courses
+
+**What are some good video resources/courses to learn React?**
+
+https://reactforbeginners.com
+
+https://egghead.io/courses/react-fundamentals (they have a bunch)
+
+https://frontendmasters.com/courses/react-intro (they have a bunch)
+
+http://courses.reactjsprogram.com/courses/reactjsprogrambundle
+
+#Training
+
+**Where can I get React training?**
+
+https://reactjs-training.com/
+
