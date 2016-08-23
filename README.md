@@ -90,6 +90,8 @@ https://medium.com/modus-create-front-end-development/component-rendering-perfor
 
 https://twitter.com/dan_abramov/status/759383530120110080
 
+https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.hewsz120q
+
 #Binding
 
 **What is this bind thing?**
