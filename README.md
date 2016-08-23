@@ -176,6 +176,8 @@ https://frontendmasters.com/courses/react-intro (they have a bunch)
 
 http://courses.reactjsprogram.com/courses/reactjsprogrambundle
 
+https://LearnRedux.com
+
 #Training
 
 **Where can I get React training?**
