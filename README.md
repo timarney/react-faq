@@ -187,3 +187,7 @@ https://reactjs-training.com
 **Where can I find some good books about React?**
 
 http://www.reactenlightenment.com
+
+https://survivejs.com
+
+https://www.fullstackreact.com
