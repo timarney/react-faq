@@ -1,5 +1,11 @@
 # React FAQ
 
+#Creating a React Project
+
+**What's the recommend way to start a new React project?**
+
+https://github.com/facebookincubator/create-react-app
+
 #Why use React
 
 **What so good about React?**
@@ -7,6 +13,11 @@
 https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-about
 
 https://facebook.github.io/react/contributing/design-principles.html
+
+#JSX
+**What's JSX?**
+
+https://facebook.github.io/react/docs/jsx-in-depth.html
 
 #Learning
 
