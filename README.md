@@ -6,6 +6,10 @@
 
 https://github.com/facebookincubator/create-react-app
 
+**Can I play around with React Online?**
+
+http://codepen.io/Arney/pen/OXYqWb
+
 #Why use React
 
 **What so good about React?**
