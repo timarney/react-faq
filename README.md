@@ -162,5 +162,24 @@ http://courses.reactjsprogram.com/courses/reactjsprogrambundle
 
 **Where can I get React training?**
 
-https://reactjs-training.com/
+https://reactjs-training.com
+
+#CSS and React
+
+**What about styling things in React?**
+
+https://facebook.github.io/react/tips/inline-styles.html
+
+http://shoptalkshow.com/episodes/180-panel-on-inline-styles (PANEL ON 'INLINE STYLES')
+
+https://blog.grommet.io/post/2016/08/10/css-in-js-may-not-be-the-solution-to-all-your-problems
+
+http://www.dadsindev.com/12 (CSS in JS + CSS Modules)
+
+https://www.youtube.com/watch?v=BXOF_8jDdf8 (CSS in JS tech chat)
+
+**Are there any tools available to convert 'css' to 'CSS in JS'**
+
+https://jsbin.com/tedaxo/edit?js,output
+
 
