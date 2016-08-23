@@ -8,8 +8,23 @@ https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-ab
 
 https://facebook.github.io/react/contributing/design-principles.html
 
+#Learning
+
+**How should I tackle the React ecosystem?**
+
+https://github.com/petehunt/react-howto
+
+#Gotchas
+
+**What are some React Gotchas?**
+
+https://daveceddia.com/react-gotchas/
+
 #Refs
-see: https://facebook.github.io/react/docs/more-about-refs.html
+
+https://facebook.github.io/react/docs/more-about-refs.html
+
+https://twitter.com/dan_abramov/status/752936646602031104
 
 **Why are string refs are bad?**
 
@@ -50,6 +65,8 @@ https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html
 
 https://toddmotto.com/react-create-class-versus-component
 
+https://reactjsnews.com/composing-components
+
 
 https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
 
@@ -78,5 +95,19 @@ https://twitter.com/dan_abramov/status/759383530120110080
 **What is this bind thing?**
 
 https://daveceddia.com/avoid-bind-when-passing-props/
+
+#Rendering
+
+**What should go in the render function?**
+
+https://medium.com/@SimonRadionov/return-as-soon-as-you-know-the-answer-dec6369b9b67#.82kxymyki
+
+#Lifecycle Methods
+
+**What are Lifecycle Methods?**
+
+https://medium.com/@notrab/going-further-with-react-lifecycle-methods-2ffdc5bdf52c#.bu0ufrosb
+
+https://facebook.github.io/react/docs/component-specs.html
 
 
