@@ -8,7 +8,8 @@ https://github.com/facebookincubator/create-react-app
 
 **Can I play around with React Online?**
 
-http://codepen.io/Arney/pen/OXYqWb
+http://codepen.io/Arney/pen/OXYqWb // App extends React.Component style
+http://codepen.io/Arney/pen/QERoaQ // React.createClass style
 
 #Why use React
 
