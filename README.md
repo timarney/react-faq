@@ -22,11 +22,11 @@ https://daveceddia.com/react-gotchas/
 
 #Refs
 
+**Whar are refs and are string refs are bad?**
+
 https://facebook.github.io/react/docs/more-about-refs.html
 
 https://twitter.com/dan_abramov/status/752936646602031104
-
-**Why are string refs are bad?**
 
 https://news.ycombinator.com/edit?id=12093234
 
@@ -109,5 +109,19 @@ https://medium.com/@SimonRadionov/return-as-soon-as-you-know-the-answer-dec6369b
 https://medium.com/@notrab/going-further-with-react-lifecycle-methods-2ffdc5bdf52c#.bu0ufrosb
 
 https://facebook.github.io/react/docs/component-specs.html
+
+https://twitter.com/pbesh/status/738008776805060608
+
+#Animations
+
+**How do I animate things in React?**
+
+https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-562fa8a91935#.g8qmlz5d6
+
+#Redux and Mobx
+
+**What's (Redux/Mobx)?**
+
+https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/d46k2bl
 
 
