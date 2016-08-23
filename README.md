@@ -27,7 +27,7 @@ https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-component
 
 https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5
 
-#Mixns
+#Mixins
 
 **Why are Mixins Considered Harmful?**
 
