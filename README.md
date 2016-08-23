@@ -14,7 +14,9 @@ https://facebook.github.io/react/contributing/design-principles.html
 
 https://github.com/petehunt/react-howto
 
-http://media.bemyapp.com/intro-react-js-core-concepts/
+http://media.bemyapp.com/intro-react-js-core-concepts
+
+https://github.com/reactjs/react-basic/blob/master/README.md (Basic Theoretical Concepts)
 
 https://medium.com/react-ecosystem/components-the-war-horses-of-react-1085dddc14e5#.egkrhoxtz
 
