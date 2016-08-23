@@ -10,9 +10,13 @@ https://facebook.github.io/react/contributing/design-principles.html
 
 #Learning
 
-**How should I tackle the React ecosystem?**
+**What do I need to know about React to get started?**
 
 https://github.com/petehunt/react-howto
+
+http://media.bemyapp.com/intro-react-js-core-concepts/
+
+https://medium.com/react-ecosystem/components-the-war-horses-of-react-1085dddc14e5#.egkrhoxtz
 
 #Gotchas
 
@@ -47,6 +51,8 @@ https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc
 https://www.sitepoint.com/react-higher-order-components/
 
 https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.prpfdo79n
+
+http://engineering.blogfoster.com/higher-order-components-theory-and-practice
 
 #Function as Child Components
 **What are Function as Child Components?**
@@ -92,6 +98,8 @@ https://twitter.com/dan_abramov/status/759383530120110080
 
 https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.hewsz120q
 
+http://jamesknelson.com/should-i-use-shouldcomponentupdate/
+
 #Binding
 
 **What is this bind thing?**
@@ -114,6 +122,8 @@ https://facebook.github.io/react/docs/component-specs.html
 
 https://twitter.com/pbesh/status/738008776805060608
 
+https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk
+
 #Animations
 
 **How do I animate things in React?**
@@ -129,4 +139,10 @@ https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/d46k2bl
 **Do I need to use (Redux/Mobx)?**
 
 https://twitter.com/dan_abramov/status/737036433215610880
+
+#Add to an existing app
+
+**How do I start adding React to an existing app?**
+
+https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application
 
