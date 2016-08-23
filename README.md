@@ -126,4 +126,7 @@ https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-
 
 https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/d46k2bl
 
+**Do I need to use (Redux/Mobx)?**
+
+https://twitter.com/dan_abramov/status/737036433215610880
 
