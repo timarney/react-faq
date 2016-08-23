@@ -178,8 +178,8 @@ http://www.dadsindev.com/12 (CSS in JS + CSS Modules)
 
 https://www.youtube.com/watch?v=BXOF_8jDdf8 (CSS in JS tech chat)
 
-**Are there any tools available to convert 'css' to 'CSS in JS'**
+**Are there any tools available to convert 'css' to 'CSS in JS'?**
 
-https://jsbin.com/tedaxo/edit?js,output
+https://jsbin.com/dugija/edit?js,output
 
 
