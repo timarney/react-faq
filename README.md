@@ -45,7 +45,7 @@ https://daveceddia.com/react-gotchas/
 
 #Refs
 
-**Whar are refs and are string refs are bad?**
+**What are refs and are string refs are bad?**
 
 https://facebook.github.io/react/docs/more-about-refs.html
 
