@@ -174,7 +174,7 @@ https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-
 
 **What's (Redux/Mobx)?**
 
-https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/d46k2bl
+https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/
 
 **Do I need to use (Redux/Mobx)?**
 
