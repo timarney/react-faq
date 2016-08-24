@@ -48,6 +48,8 @@ https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.dw
 
 https://twitter.com/dan_abramov/status/749710501916139520
 
+http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html
+
 #Passing Data
 
 **How do I pass props?**
