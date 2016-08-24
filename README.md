@@ -93,20 +93,6 @@ https://news.ycombinator.com/edit?id=12093234
 
 https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc
 
-#Higher-Order Components
-**What are Higher-Order Components (HOC)?**
-
-https://www.sitepoint.com/react-higher-order-components/
-
-https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.prpfdo79n
-
-http://engineering.blogfoster.com/higher-order-components-theory-and-practice
-
-#Function as Child Components
-**What are Function as Child Components?**
-
-https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5
-
 #Mixins
 
 **Why are Mixins Considered Harmful?**
@@ -128,6 +114,22 @@ https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
 Presentational and Container Components
 
 https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.xo2al5187
+
+*Higher-Order Components*
+
+https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.mpb29ree6
+
+https://www.sitepoint.com/react-higher-order-components/
+
+https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.prpfdo79n
+
+http://engineering.blogfoster.com/higher-order-components-theory-and-practice
+
+*Function as Child Components*
+
+https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5
+
+
 
 #Internationalization 
 
