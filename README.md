@@ -113,8 +113,11 @@ https://toddmotto.com/react-create-class-versus-component
 
 https://reactjsnews.com/composing-components
 
-
 https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
+
+Presentational and Container Components
+
+https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.xo2al5187
 
 #Internationalization 
 
