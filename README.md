@@ -218,6 +218,8 @@ http://courses.reactjsprogram.com/courses/reactjsprogrambundle
 
 https://LearnRedux.com
 
+https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
+
 #Training
 
 **Where can I get React training?**
