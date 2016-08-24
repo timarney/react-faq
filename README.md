@@ -119,6 +119,8 @@ https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html
 
 https://toddmotto.com/react-create-class-versus-component
 
+https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles
+
 https://reactjsnews.com/composing-components
 
 https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
