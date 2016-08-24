@@ -2,15 +2,19 @@
 
 #Start
 
-**I don't know React what should I read before I start?**
+**I don't know React what should I watch / read before I start?**
 
 https://facebook.github.io/react/docs/thinking-in-react.html
 
+https://www.youtube.com/watch?v=x7cQ3mrcKaY (Pete Hunt: React: Rethinking best practices)
+
 #Creating a React Project
 
-**What's the recommend way to start a new React project?**
+**How do I create a new React project?**
 
-https://github.com/facebookincubator/create-react-app
+https://github.com/facebookincubator/create-react-app (official)
+
+https://github.com/insin/nwb (if you need more control of the setup / config)
 
 **Can I play around with React Online?**
 
