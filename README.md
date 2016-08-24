@@ -40,11 +40,13 @@ https://twitter.com/dan_abramov/status/749710501916139520
 
 #Passing Data
 
+**How do I pass props?**
+
+https://facebook.github.io/react/docs/transferring-props.html
+
 **Should I use import, props, or context in React?**
 
 http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942
-
-https://facebook.github.io/react/docs/transferring-props.html
 
 #Learning
 
