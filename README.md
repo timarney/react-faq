@@ -1,5 +1,11 @@
 # React FAQ
 
+#Start
+
+**I don't know React what should I read before I start?**
+
+https://facebook.github.io/react/docs/thinking-in-react.html
+
 #Creating a React Project
 
 **What's the recommend way to start a new React project?**
@@ -24,6 +30,21 @@ https://facebook.github.io/react/contributing/design-principles.html
 **What's JSX?**
 
 https://facebook.github.io/react/docs/jsx-in-depth.html
+
+#State
+**How do I handle state?**
+
+https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.dwz84fx9s
+
+https://twitter.com/dan_abramov/status/749710501916139520
+
+#Passing Data
+
+**Should I use import, props, or context in React?**
+
+http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942
+
+https://facebook.github.io/react/docs/transferring-props.html
 
 #Learning
 
@@ -52,12 +73,6 @@ https://facebook.github.io/react/docs/more-about-refs.html
 https://twitter.com/dan_abramov/status/752936646602031104
 
 https://news.ycombinator.com/edit?id=12093234
-
-#State
-**How do I handle state?**
-
-https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.dwz84fx9s
-https://twitter.com/dan_abramov/status/749710501916139520
 
 #PATENTS
 **What's all this stuff I hear about Facebook PATENTS clause?**
