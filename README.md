@@ -4,7 +4,7 @@ This guide aims to pull together some resources from around the web into a centr
 
 In the future it might cover patterns and best practices (how and why to use).
 
-For now enjoy the links and please *share/link*  back to this repo.  If it helped you it might help someome else.
+For now enjoy the links and please *share/link*  back to this repo.  If it helped you it might help someone else.
 
 #Start
 
