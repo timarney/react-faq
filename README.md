@@ -1,5 +1,11 @@
 # React FAQ
 
+This guide aims to pull together some resources from around the web into a central location for quick reference.  It aims to point to quality content to help understand React core concepts.  
+
+In the future it might cover patterns and best practices (how and why to use).
+
+For now enjoy the links and please *share/link*  back to this repo.  If it helped you it might help someome else.
+
 #Start
 
 **I don't know React what should I watch / read before I start?**
