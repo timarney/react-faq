@@ -234,6 +234,14 @@ https://www.youtube.com/watch?v=BXOF_8jDdf8 (CSS in JS tech chat)
 
 https://jsbin.com/dugija/edit?js,output
 
+
+#Testing
+
+Testing React Applications w/Jack Franklin
+https://www.youtube.com/watch?v=eWN8F_WOBAQ
+
+https://twitter.com/dan_abramov/status/762257231471579136
+
 #Video Courses
 
 **What are some good video resources/courses to learn React?**
@@ -250,9 +258,14 @@ https://LearnRedux.com
 
 https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
 
+#A11Y
+
+https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631
+
 #Training
 
 **Where can I get React training?**
+<hr>
 
 *Micheal Jackson* @mjackson & *Ryan Florence* @ryanflorence
 
