@@ -180,7 +180,7 @@ https://twitter.com/pbesh/status/738008776805060608
 https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk
 
 #Context
-⚠️ Context is an **advanced and experimenta**l feature. The API is likely to change in future releases. The rumours of its existence are true but be careful!
+⚠️ Context is an **advanced and experimental** feature. The API is likely to change in future releases. The rumours of its existence are true but be careful!
 
 https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwgxxy0d
 
@@ -190,7 +190,7 @@ https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwg
 
 https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-562fa8a91935#.g8qmlz5d6
 
-**Is there delarative api for animations?**
+**Is there declarative api for animations?**
 
 https://github.com/chenglou/react-motion
 
