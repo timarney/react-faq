@@ -261,7 +261,7 @@ https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
 
 **What about accessibility?**
 
-How to design for accessibility (*Note: not specific to React but a solid primer on the topic*)
+How to design for accessibility (*Note:* not specific to React but a solid primer on the topic*)
 
 http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility 
 
@@ -270,7 +270,7 @@ http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility
 **How do I handle A11y in React**
 https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631
 
-Bringing the Web Back to the Blind by Ryan Florence https://www.youtube.com/watch?v=YuzS-g6Qvq8
+Bringing the Web Back to the Blind by Ryan Florence https://www.youtube.com/watch?v=YuzS-g6Qvq8 (*Note:* not specific to React)
 
 #Training
 
