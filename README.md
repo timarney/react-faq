@@ -60,6 +60,10 @@ https://facebook.github.io/react/docs/transferring-props.html
 
 http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942
 
+**How do I pass boolean values?**
+
+https://twitter.com/Jack_Franklin/status/768735664485568512
+
 #Learning
 
 **What do I need to know about React to get started?**
