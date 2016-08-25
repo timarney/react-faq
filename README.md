@@ -234,7 +234,6 @@ https://www.youtube.com/watch?v=BXOF_8jDdf8 (CSS in JS tech chat)
 
 https://jsbin.com/dugija/edit?js,output
 
-
 #Testing
 
 Testing React Applications w/Jack Franklin
@@ -261,6 +260,8 @@ https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
 #A11Y
 
 https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631
+
+Bringing the Web Back to the Blind by Ryan Florence https://www.youtube.com/watch?v=YuzS-g6Qvq8
 
 #Training
 
