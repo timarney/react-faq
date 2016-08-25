@@ -190,6 +190,12 @@ https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwg
 
 https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-562fa8a91935#.g8qmlz5d6
 
+**Is there delarative api for animations?**
+
+https://github.com/chenglou/react-motion
+
+https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.aio7blbsi
+
 #Redux and Mobx
 
 **What's (Redux/Mobx)?**
