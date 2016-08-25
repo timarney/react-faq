@@ -147,6 +147,8 @@ https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.bcfx
 
 https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
 
+Ryan Florence - Don't Rewrite, React!  https://www.youtube.com/watch?v=BF58ZJ1ZQxY
+
 #Performance
 
 **How can I make my app faster?**
