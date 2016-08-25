@@ -133,8 +133,6 @@ http://engineering.blogfoster.com/higher-order-components-theory-and-practice
 
 https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5
 
-
-
 #Internationalization 
 
 **How should I handle internationalization?**
@@ -146,8 +144,6 @@ https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.bcfx
 **How do I use third party libraries?**
 
 https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
-
-Ryan Florence - Don't Rewrite, React!  https://www.youtube.com/watch?v=BF58ZJ1ZQxY
 
 #Performance
 
@@ -217,6 +213,8 @@ https://twitter.com/dan_abramov/status/737036433215610880
 **How do I start adding React to an existing app?**
 
 https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application
+
+Ryan Florence - Don't Rewrite, React!  https://www.youtube.com/watch?v=BF58ZJ1ZQxY
 
 #CSS and React
 
