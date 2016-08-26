@@ -45,6 +45,10 @@ Enjoy the links and please *share/link*  back to this repo.  If it helped you it
 * https://twitter.com/dan_abramov/status/749710501916139520
 * http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html
 
+**How can I decouple state and UI?**
+
+* https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7l8ji1wer
+
 #Passing Data
 
 **How do I pass props?**
