@@ -173,6 +173,7 @@ Enjoy the links and please *share/link*  back to this repo.  If it helped you it
 
 **How do I animate things in React?**
 
+* 🔥 💯 https://youtu.be/Fk--XUEorvc?t=2344 Sarah Drasner @sarah_edo
 * https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-562fa8a91935#.g8qmlz5d6
 
 **Is there declarative api for animations?**
