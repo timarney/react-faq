@@ -12,7 +12,7 @@ Enjoy the links and please *share/link*  back to this repo.  If it helped you it
 
 * https://facebook.github.io/react/docs/thinking-in-react.html
 * https://www.youtube.com/watch?v=x7cQ3mrcKaY (Pete Hunt: React: Rethinking best practices)
-* https://youtu.be/Fk--XUEorvc?t=20666 (All the terrible things I did the first time I wrote a complex React App @raquelxmoss) 
+* 🔥 https://youtu.be/Fk--XUEorvc?t=20666 (All the terrible things I did the first time I wrote a complex React App @raquelxmoss) 
 
 #Creating a React Project
 
