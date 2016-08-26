@@ -2,9 +2,9 @@
 
 This guide aims to pull together some resources from around the web into a central location for quick reference.  It aims to point to quality content to help understand React core concepts.  
 
-In the future it might cover patterns and best practices (how and why to use).
+In the future it might cover best practices and how and why to use patterns and styles.  Patterns etc... are still being discovered, it's okay if you don't know all the terms.  Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn.
 
-For now enjoy the links and please *share/link*  back to this repo.  If it helped you it might help someone else.
+Enjoy the links and please *share/link*  back to this repo.  If it helped you it might help someone else.
 
 #Start
 
