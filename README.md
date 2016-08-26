@@ -256,8 +256,7 @@ http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility
 
 * https://btholt.github.io/es6-react-pres
 * https://btholt.github.io/complete-intro-to-react
-
-https://github.com/btholt/react-redux-workshop
+* https://github.com/btholt/react-redux-workshop
 
 #Books
 
