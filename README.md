@@ -37,6 +37,7 @@ Enjoy the links and please *share/link*  back to this repo.  If it helped you it
 **What's JSX?**
 
 * https://facebook.github.io/react/docs/jsx-in-depth.html
+* https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98#.i5rmd9h07
 
 #State
 **How do I handle state?**
