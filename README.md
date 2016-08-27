@@ -95,6 +95,7 @@ Enjoy the links and please *share/link*  back to this repo.  If it helped you it
 **What is this bind thing?**
 
 * https://daveceddia.com/avoid-bind-when-passing-props/
+* [5 Approaches for Handling Binding](https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.4z71l0kmb)
 
 #Rendering
 
