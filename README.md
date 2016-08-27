@@ -91,6 +91,8 @@ Enjoy the links and please *share/link*  back to this repo.  If it helped you it
 
 **Stateless Function** -> http://reactpatterns.com/#Stateless%20function
 
+* https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq
+
 #Binding
 
 **What is this bind thing?**
