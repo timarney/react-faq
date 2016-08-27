@@ -231,6 +231,8 @@ https://www.youtube.com/watch?v=eWN8F_WOBAQ
 **What are some good video resources/courses to learn React?**
 
 * https://reactforbeginners.com
+* https://app.pluralsight.com/courses/react-redux-react-router-es6
+* https://www.pluralsight.com/courses/react-flux-building-applications
 * https://egghead.io/courses/react-fundamentals (they have a bunch)
 * https://frontendmasters.com/courses/react-intro (they have a bunch)
 * http://courses.reactjsprogram.com/courses/reactjsprogrambundle
