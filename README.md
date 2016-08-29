@@ -39,6 +39,12 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
 * [React’s JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98#.i5rmd9h07) Cory House @housecor
 
+
+#The Virtual DOM
+**What is the Virtual DOM**
+
+* [The one thing that no one properly explains about React — Why Virtual DOM](https://hashnode.com/post/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom-cisczhfj41bmssp53mvfwmgrq) Sai Kishore Komanduri @saiki
+
 #State
 **How do I handle state?**
 
