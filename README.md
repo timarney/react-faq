@@ -61,21 +61,21 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **How do I pass props?**
 
-* https://facebook.github.io/react/docs/transferring-props.html
+* [Transferring Props](https://facebook.github.io/react/docs/transferring-props.html) Jack Franklin @Jack_Franklin
 
 **Should I use import, props, or context in React?**
 
-* http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942
+* [Differences between require() and passing an object via prop or context](http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942) Dan Abramov @dan_abramov
 
 **How do I pass boolean values?**
 
-* https://twitter.com/Jack_Franklin/status/768735664485568512
+* [JSX <Foo bar={true} /> and <Foo bar> are equivalent](https://twitter.com/Jack_Franklin/status/768735664485568512)
 
 #Component Types
 
 **What types of components are there?**
 
-[React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26)
+* [React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26)
 
 
 **Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#Container%20component)  
