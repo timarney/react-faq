@@ -148,68 +148,68 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **What are refs and are string refs are bad?**
 
-* https://facebook.github.io/react/docs/more-about-refs.html
-* https://twitter.com/dan_abramov/status/752936646602031104
-* https://news.ycombinator.com/edit?id=12093234
+* [Refs to Components](https://facebook.github.io/react/docs/more-about-refs.html)
+* [Why do you use findDOMNode()?](https://twitter.com/dan_abramov/status/752936646602031104) Dan Abramov @dan_abramov
+* [String refs are bad in quite a few ways](https://news.ycombinator.com/edit?id=12093234) Dan Abramov @dan_abramov
 
 #PATENTS
 **What's all this stuff I hear about Facebook PATENTS clause?**
 
-* https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc
+* [Some links to point people to when they misinterpret PATENTS clause or spread false claims](https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc) Dan Abramov @dan_abramov
 
 #Mixins
 
 **Why are Mixins Considered Harmful?**
 
-* https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html
+* [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html) Dan Abramov @dan_abramov
 
 #Internationalization 
 
 **How should I handle internationalization?**
 
-* https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.bcfxgycwv
+* [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.bcfxgycwv) Preethi Kasireddy
 
 #Third Party Libraries
 
 **How do I use third party libraries?**
 
-* https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
+* [Integration with Third Party Libraries](https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a) Rally Coding
 
 #Performance
 
 **How can I make my app faster?**
 
-* https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.gvyat7vkb
-* https://twitter.com/dan_abramov/status/759383530120110080
-* https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.hewsz120q
-* http://jamesknelson.com/should-i-use-shouldcomponentupdate/
+* [Component Rendering Performance in React](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.gvyat7vkb) Grgur Grisogono
+* [Don‘t use PureComponent everywhere. Measure](https://twitter.com/dan_abramov/status/759383530120110080) Dan Abramov @dan_abramov
+* [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.hewsz120q)
+* [Should I use shouldComponentUpdate?](http://jamesknelson.com/should-i-use-shouldcomponentupdate) James K Nelson @james_k_nelson
 
 #Context
 ⚠️ Context is an **advanced and experimental** feature. The API is likely to change in future releases. The rumours of its existence are true but be careful!
 
-* https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwgxxy0d
+* [How to handle React context in a reliable way](https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwgxxy0d) Osmel Mora @osmel_mora
 
 #Animations
 
 **How do I animate things in React?**
 
-* 🔥 💯 https://youtu.be/Fk--XUEorvc?t=2344 Sarah Drasner @sarah_edo
-* https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-562fa8a91935#.g8qmlz5d6
+* 🔥 💯 [Animating In React](https://youtu.be/Fk--XUEorvc?t=2344 Sarah Drasner) @sarah_edo
+* [UI Animations with React — The Right Way](https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-562fa8a91935#.g8qmlz5d6) Joe Davis
 
 **Is there declarative api for animations?**
 
-* https://github.com/chenglou/react-motion
-* https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.aio7blbsi
+* [React Motion](https://github.com/chenglou/react-motion)
+* [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.aio7blbsi)
 
 #Redux and Mobx
 
 **What's (Redux/Mobx)?**
 
-* https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/
+* [Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx)
 
 **Do I need to use (Redux/Mobx)?**
 
-* https://twitter.com/dan_abramov/status/737036433215610880
+* [You don’t need Redux if your data never changes. The whole point of it is managing changes. htt](https://twitter.com/dan_abramov/status/737036433215610880) Dan Abramov @dan_abramov
 
 #Add to an existing app
 
