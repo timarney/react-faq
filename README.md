@@ -209,35 +209,34 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **Do I need to use (Redux/Mobx)?**
 
-* [You don’t need Redux if your data never changes. The whole point of it is managing changes. htt](https://twitter.com/dan_abramov/status/737036433215610880) Dan Abramov @dan_abramov
+* [You don’t need Redux if your data never changes. The whole point of it is managing changes.](https://twitter.com/dan_abramov/status/737036433215610880) Dan Abramov @dan_abramov
 
 #Add to an existing app
 
 **How do I start adding React to an existing app?**
 
-* https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application
-* Ryan Florence - Don't Rewrite, React!  https://www.youtube.com/watch?v=BF58ZJ1ZQxY
+* [How to Sprinkle ReactJS into an Existing Web Application](https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application) Andrew Del Prete @andrewdelprete
+* [Don't Rewrite, React!](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) Ryan Florence
 
 #CSS and React
 
 **What about styling things in React?**
 
-* https://facebook.github.io/react/tips/inline-styles.html
-* http://shoptalkshow.com/episodes/180-panel-on-inline-styles (PANEL ON 'INLINE STYLES')
-* https://blog.grommet.io/post/2016/08/10/css-in-js-may-not-be-the-solution-to-all-your-problems
-* http://www.dadsindev.com/12 (CSS in JS + CSS Modules)
-
-https://www.youtube.com/watch?v=BXOF_8jDdf8 (CSS in JS tech chat)
+* [Inline Styles](https://facebook.github.io/react/tips/inline-styles.html)
+* [PANEL ON 'INLINE STYLES'](http://shoptalkshow.com/episodes/180-panel-on-inline-styles) @ShopTalkShow
+* [CSS in JS may not be the solution to all your problems](https://blog.grommet.io/post/2016/08/10/css-in-js-may-not-be-the-solution-to-all-your-problems) Alan Souza
+* [CSS in JS + CSS Modules](http://www.dadsindev.com/12) 
+* [CSS in JS tech chat](https://www.youtube.com/watch?v=BXOF_8jDdf8) Kent C. Dodds & Sarah Drasner
 
 **Are there any tools available to convert 'css' to 'CSS in JS'?**
 
-* https://jsbin.com/dugija/edit?js,output
+* [convert 'css' to 'CSS in JS'](https://jsbin.com/dugija/edit?js,output) Kent C. Dodds
 
 #Testing
 
-* Testing React Applications w/Jack Franklin
-https://www.youtube.com/watch?v=eWN8F_WOBAQ
-* https://twitter.com/dan_abramov/status/762257231471579136
+* [Testing React Applications](https://www.youtube.com/watch?v=eWN8F_WOBAQ) Jack Franklin
+
+* [People seem to laugh at this but I think it’s actually pretty reasonable](https://twitter.com/dan_abramov/status/762257231471579136) Dan Abramov @dan_abramov
 
 #Video Courses
 
@@ -256,14 +255,14 @@ https://www.youtube.com/watch?v=eWN8F_WOBAQ
 
 **What about accessibility?**
 
-* How to design for accessibility (*Note:* not specific to React but a solid primer on the topic*)
-http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility 
+* [How to design for accessibility](http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility ) *Note:* not specific to React but a solid primer on the topic
+
 
 <hr>
 
 **How do I handle A11y in React**
-* https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631
-* Bringing the Web Back to the Blind by Ryan Florence https://www.youtube.com/watch?v=YuzS-g6Qvq8 (*Note:* not specific to React)
+* [Excerpt from React.js Conf 2015 - Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631) Ryan Florence
+* [Bringing the Web Back to the Blind by Ryan Florence ](https://www.youtube.com/watch?v=YuzS-g6Qvq8) *Note:* not specific to React
 
 #Training
 
