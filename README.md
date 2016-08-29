@@ -12,13 +12,13 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 * [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
 * [Pete Hunt: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-* [ 🔥 All the terrible things I did the first time I wrote a complex React App @raquelxmoss](https://youtu.be/Fk--XUEorvc?t=20666)
+* 🔥 [All the terrible things I did the first time I wrote a complex React App ](https://youtu.be/Fk--XUEorvc?t=20666) Raquel @raquelxmoss
 
 #Creating a React Project
 
 **How do I create a new React project?**
 
-* [💯 create-react-app](https://github.com/facebookincubator/create-react-app)
+* 💯 [create-react-app](https://github.com/facebookincubator/create-react-app)
 * [nwb](https://github.com/insin/nwb) if you need more control of the setup / config
 
 **Can I play around with React Online?**
@@ -30,26 +30,26 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **What so good about React?**
 
-* https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-about
-* https://facebook.github.io/react/contributing/design-principles.html
+* [7 Strengths of React Every Programmer Should Know About](https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-about) Samuel Hapák @samuha
+* [Design Principles](https://facebook.github.io/react/contributing/design-principles.html)
 
 #JSX
 **What's JSX?**
 
-* https://facebook.github.io/react/docs/jsx-in-depth.html
-* https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98#.i5rmd9h07
+* [JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+* [React’s JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98#.i5rmd9h07) Cory House @housecor
 
 #State
 **How do I handle state?**
 
-* https://medium.freecodecamp.com/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00#.8k7tc37cs
-* https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.dwz84fx9s
-* https://twitter.com/dan_abramov/status/749710501916139520
-* http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html
+* [Where to Hold React Component Data: state, store, static, and this](https://medium.freecodecamp.com/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00#.8k7tc37cs) Sam Corcos
+* [How to handle state in React. The missing FAQ](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.dwz84fx9s) Osmel Mora @osmel_mora
+* [Should I keep something in React component state? I made a small cheatsheet.](https://twitter.com/dan_abramov/status/749710501916139520) Dan Abramov @dan_abramov
+* [Best Practices for Component State in React.js](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html) Gabe Scholz @gabescholz
 
 **How can I decouple state and UI?**
 
-* https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7l8ji1wer
+* [How to decouple state and UI](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7l8ji1wer) Michel Weststrate @mweststrate
 
 #Passing Data
 
