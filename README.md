@@ -73,20 +73,18 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 #Component Types
 
-**How do I decide what type of Component to use?**
+**What types of components are there?**
 
-* https://toddmotto.com/react-create-class-versus-component
-* https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles
-* https://reactjsnews.com/composing-components
-* https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
+[React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26)
 
-**Presentational and Container Components** -> http://reactpatterns.com/#Container%20component
 
-* https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.xo2al5187
+**Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#Container%20component)  
 
-**Higher-Order Components** -> http://reactpatterns.com/#Higher-order%20component
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.xo2al5187) Dan Abramov @dan_abramov
 
-* https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.mpb29ree6
+**Higher-Order Components** [```<Code />```](http://reactpatterns.com/#Higher-order%20component)  
+
+* [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.mpb29ree6) @franleplant
 * https://www.sitepoint.com/react-higher-order-components/
 * https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.prpfdo79n
 * http://engineering.blogfoster.com/higher-order-components-theory-and-practice
@@ -98,6 +96,13 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **Stateless Function** -> http://reactpatterns.com/#Stateless%20function
 
 * https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq
+
+**How do I decide what type of Component to use?**
+
+* https://toddmotto.com/react-create-class-versus-component
+* https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles
+* https://reactjsnews.com/composing-components
+* https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
 
 #Binding
 
