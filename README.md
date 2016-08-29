@@ -107,42 +107,42 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **What is this bind thing?**
 
-* https://daveceddia.com/avoid-bind-when-passing-props/
+* [Don't Use Bind When Passing Props](https://daveceddia.com/avoid-bind-when-passing-props) Dave Ceddia
 * [5 Approaches for Handling Binding](https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.4z71l0kmb)
 
 #Rendering
 
 **What should go in the render function?**
 
-* https://medium.com/@SimonRadionov/return-as-soon-as-you-know-the-answer-dec6369b9b67#.82kxymyki
+* [Return as soon as you know the answer](https://medium.com/@SimonRadionov/return-as-soon-as-you-know-the-answer-dec6369b9b67#.82kxymyki) @SimonRadionov
 
 #Lifecycle Methods
 
 **What are Lifecycle Methods?**
 
-* https://medium.com/@notrab/going-further-with-react-lifecycle-methods-2ffdc5bdf52c#.bu0ufrosb
-* https://facebook.github.io/react/docs/component-specs.html
-* https://twitter.com/pbesh/status/738008776805060608
-* https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk
+* [Going further with React lifecycle methods](https://medium.com/@notrab/going-further-with-react-lifecycle-methods-2ffdc5bdf52c#.bu0ufrosb) Jamie Barton
+* [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
+* [My #reactjs component lifecycle cheatsheet for quick reference](https://twitter.com/pbesh/status/738008776805060608) Peter Beshai @pbesh
+* [React component’s lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk) Osmel Mora @osmel_mora
 
 #Patterns
 
-* http://reactpatterns.com
+* [React Patterns](http://reactpatterns.com) @chantastic
 
 #Learning
 
 **What do I need to know about React to get started?**
 
-* https://github.com/petehunt/react-howto
-* http://media.bemyapp.com/intro-react-js-core-concepts
-* https://github.com/reactjs/react-basic/blob/master/README.md (Basic Theoretical Concepts)
-* https://medium.com/react-ecosystem/components-the-war-horses-of-react-1085dddc14e5#.egkrhoxtz
+* [react-howto](https://github.com/petehunt/react-howto) Pete Hunt
+* [Intro to React.JS Core Concepts](http://media.bemyapp.com/intro-react-js-core-concepts) Pascal Weiland @bitcrowd / Tony Alito
+* [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic/blob/master/README.md)
+* [Components, the war horses of React](https://medium.com/react-ecosystem/components-the-war-horses-of-react-1085dddc14e5#.egkrhoxtz) Osmel Mora @osmel_mora
 
 #Gotchas
 
 **What are some React Gotchas?**
 
-* https://daveceddia.com/react-gotchas/
+* [React Gotchas](https://daveceddia.com/react-gotchas) Dave Ceddia
 
 #Refs
 
