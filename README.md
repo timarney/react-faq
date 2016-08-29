@@ -1,30 +1,30 @@
 # React FAQ
 
-This guide aims to pull together some resources from around the web into a central location for quick reference.  It aims to point to quality content to help understand React core concepts.  
+This guide aims to pull together quality content about React core concepts into a central location for quick reference.  
 
-In the future it might cover best practices and how and why to use patterns and styles.  Patterns etc... are still being discovered, it's okay if you don't know all the terms.  Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn.
+In the future it might cover best practices and how and why to use different patterns and techniques.  For now enjoy the links and please *share/link*  back to this repo.
 
-Enjoy the links and please *share/link*  back to this repo.  If it helped you it might help someone else.
+Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay if you don't know all the terms.
 
 #Start
 
 **I don't know React what should I watch / read before I start?**
 
-* https://facebook.github.io/react/docs/thinking-in-react.html
-* https://www.youtube.com/watch?v=x7cQ3mrcKaY (Pete Hunt: React: Rethinking best practices)
-* 🔥 https://youtu.be/Fk--XUEorvc?t=20666 (All the terrible things I did the first time I wrote a complex React App @raquelxmoss) 
+* [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
+* [Pete Hunt: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+* [ 🔥 All the terrible things I did the first time I wrote a complex React App @raquelxmoss](https://youtu.be/Fk--XUEorvc?t=20666)
 
 #Creating a React Project
 
 **How do I create a new React project?**
 
-* https://github.com/facebookincubator/create-react-app (official)
-* https://github.com/insin/nwb (if you need more control of the setup / config)
+* [💯 create-react-app](https://github.com/facebookincubator/create-react-app)
+* [nwb](https://github.com/insin/nwb) if you need more control of the setup / config
 
 **Can I play around with React Online?**
 
-* http://codepen.io/Arney/pen/OXYqWb // App extends React.Component style
-* http://codepen.io/Arney/pen/QERoaQ // React.createClass style
+* [extends React.Component style](http://codepen.io/Arney/pen/OXYqWb)
+* [React.createClass style](http://codepen.io/Arney/pen/QERoaQ)
 
 #Why use React
 
