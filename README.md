@@ -85,24 +85,23 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **Higher-Order Components** [```<Code />```](http://reactpatterns.com/#Higher-order%20component)  
 
 * [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.mpb29ree6) @franleplant
-* https://www.sitepoint.com/react-higher-order-components/
-* https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.prpfdo79n
-* http://engineering.blogfoster.com/higher-order-components-theory-and-practice
+* [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components) Jack Franklin @Jack_Franklin
+* [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.prpfdo79n) Dan Abramov @dan_abramov
+* [Higher Order Components: Theory and Practice](http://engineering.blogfoster.com/higher-order-components-theory-and-practice)
 
-**Function as Child Components** -> http://reactpatterns.com/#Function%20as%20children
+**Function as Child Components** [```<Code />```](http://reactpatterns.com/#Function%20as%20children)
 
-* https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5
+* [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5) Merrick Christensen @iammerrick
 
-**Stateless Function** -> http://reactpatterns.com/#Stateless%20function
+**Stateless Function** [```<Code />```](http://reactpatterns.com/#Stateless%20function)
 
-* https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq
+* [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq) Cory House @housecor
 
 **How do I decide what type of Component to use?**
 
-* https://toddmotto.com/react-create-class-versus-component
-* https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles
-* https://reactjsnews.com/composing-components
-* https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a
+* [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component) Todd Motto
+* [4 different kinds of React component styles](https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles) Peter Bengtsson @peterbe
+* [React.Component vs React.createClass](https://reactjsnews.com/composing-components) Naman Goel & Zach Silveira
 
 #Binding
 
