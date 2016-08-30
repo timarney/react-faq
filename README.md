@@ -133,6 +133,12 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m
 
+#Forms
+
+**How can I build forms with React?**
+
+[Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms) James K Nelson @james_k_nelson
+
 #Patterns
 
 * [React Patterns](http://reactpatterns.com) @chantastic
