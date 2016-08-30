@@ -137,6 +137,7 @@ https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_p
 
 * [React Patterns](http://reactpatterns.com) @chantastic
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns) Krasimir Tsonev
+* [Patterns For Style Composition In React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react) Brent Jackson @jxnblk
 
 #Learning
 
