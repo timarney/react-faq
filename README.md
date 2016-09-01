@@ -130,6 +130,12 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [Don't Use Bind When Passing Props](https://daveceddia.com/avoid-bind-when-passing-props) Dave Ceddia
 * [5 Approaches for Handling Binding](https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.4z71l0kmb)
 
+#Events
+
+**How does the event system work in React?**
+
+[React events in depth](https://www.youtube.com/watch?v=dRo_egw7tBc) Kent C. Dodds, Ben Alpert, & Dan Abramov
+
 #Rendering
 
 **What should go in the render function?**
