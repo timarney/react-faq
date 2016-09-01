@@ -26,6 +26,11 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * 💯 [create-react-app](https://github.com/facebookincubator/create-react-app)
 * [nwb](https://github.com/insin/nwb) if you need more control of the setup / config
 
+**Where can I find videos for using React Create App?**
+
+[React Create App + Express](https://www.youtube.com/watch?v=gbVhmaW04bc&feature=youtu.be) @sprjrx @ladyleet
+
+
 **Can I play around with React Online?**
 
 * [extends React.Component style](http://codepen.io/Arney/pen/OXYqWb)
