@@ -109,6 +109,14 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [4 different kinds of React component styles](https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles) Peter Bengtsson @peterbe
 * [React.Component vs React.createClass](https://reactjsnews.com/composing-components) Naman Goel & Zach Silveira
 
+
+#Finding Components
+
+**Where are some good places to find components?**
+
+* [React Components Catalog](https://github.com/brillout/awesome-react-components)
+* [React Rocks](https://react.rocks)
+
 #Binding
 
 **What is this bind thing?**
@@ -173,6 +181,7 @@ https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_p
 * [String refs are bad in quite a few ways](https://news.ycombinator.com/edit?id=12093234) Dan Abramov @dan_abramov
 
 #PATENTS
+
 **What's all this stuff I hear about Facebook PATENTS clause?**
 
 * [Some links to point people to when they misinterpret PATENTS clause or spread false claims](https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc) Dan Abramov @dan_abramov
@@ -224,9 +233,10 @@ https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_p
 
 #SVG & React
 
-**How do I work with SVG's in React**
+**How do I work with SVG's in React?**
 
 [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.lmbz3v9ic)
+[Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react) @sarah_edo
 
 #Redux and Mobx
 
@@ -272,7 +282,10 @@ https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_p
 * [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 
 #Contributing to React JS
-[Contributing to React JS](https://www.youtube.com/watch?v=wUpPsEcGsg8) Kent C. Dodds
+
+**Where can I learn about Contributing to React JS?**
+
+* [Contributing to React JS](https://www.youtube.com/watch?v=wUpPsEcGsg8) Kent C. Dodds
 
 #Video Courses
 
