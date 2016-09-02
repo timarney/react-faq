@@ -326,6 +326,9 @@ https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_p
 * [Excerpt from React.js Conf 2015 - Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631) Ryan Florence
 * [Bringing the Web Back to the Blind by Ryan Florence ](https://www.youtube.com/watch?v=YuzS-g6Qvq8) *Note:* not specific to React
 
+#Talks
+* [React to the Future -  Slide Deck](http://elijahmanor.com/talks/react-to-the-future/dist) @elijahmanor
+
 #Training
 
 **Where can I get React training?**
