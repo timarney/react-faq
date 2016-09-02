@@ -328,7 +328,8 @@ https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_p
 * [Bringing the Web Back to the Blind by Ryan Florence ](https://www.youtube.com/watch?v=YuzS-g6Qvq8) *Note:* not specific to React
 
 #Talks
-* [React to the Future -  Slide Deck](http://elijahmanor.com/talks/react-to-the-future/dist) @elijahmanor
+* [React to the Future - Slide Deck](http://elijahmanor.com/talks/react-to-the-future/dist) Elijah Manor @elijahmanor
+* [React Things - PDF Slides](https://react.rocks/blog/images/React_Intro_sept_2016.pdf) Jeff Winkler @winkler1 
 
 #Training
 
