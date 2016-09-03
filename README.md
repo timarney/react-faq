@@ -138,7 +138,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **How does the event system work in React?**
 
-[React events in depth](https://www.youtube.com/watch?v=dRo_egw7tBc) Kent C. Dodds, Ben Alpert, & Dan Abramov
+* [React events in depth](https://www.youtube.com/watch?v=dRo_egw7tBc) Kent C. Dodds, Ben Alpert, & Dan Abramov
 
 #Rendering
 
@@ -159,7 +159,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **Why can't i put key in default props (or define the default somewhere else)?**
 
-[Why can't i put key in default props](https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m)
+* [Why can't i put key in default props](https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m)
 
 **What should I use for a key?**
 
@@ -167,13 +167,13 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **What are some examples where I should manually change a key?**
 
-[The key is using key](https://twitter.com/timarney/status/730785238654287873) Tim Arney @timarney
+* [The key is using key](https://twitter.com/timarney/status/730785238654287873) Tim Arney @timarney
 
 #Forms
 
 **How can I build forms with React?**
 
-[Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms) James K Nelson @james_k_nelson
+* [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms) James K Nelson @james_k_nelson
 
 #Patterns
 
@@ -259,8 +259,8 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **How do I work with SVG's in React?**
 
-[Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.lmbz3v9ic)
-[Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react) @sarah_edo
+* [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.lmbz3v9ic)
+* [Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react) @sarah_edo
 
 #Redux and Mobx
 
@@ -329,7 +329,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **What about accessibility?**
 
 * [How to design for accessibility](http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility ) *Note:* not specific to React but a solid primer on the topic
-
 
 <hr>
 
