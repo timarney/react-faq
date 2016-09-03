@@ -54,7 +54,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 [This is the sort of stuff JSX saves you from having to manage](https://gist.github.com/insin/8e72bed793772d82ca8d) Jonny Buchanan ‏@jbscript
 
-
 #The Virtual DOM
 **What is the Virtual DOM**
 
@@ -95,7 +94,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 * [React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26)
 
-
 **Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#Container%20component)  
 
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.xo2al5187) Dan Abramov @dan_abramov
@@ -120,7 +118,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component) Todd Motto
 * [4 different kinds of React component styles](https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles) Peter Bengtsson @peterbe
 * [React.Component vs React.createClass](https://reactjsnews.com/composing-components) Naman Goel & Zach Silveira
-
 
 #Finding Components
 
@@ -158,11 +155,19 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [My #reactjs component lifecycle cheatsheet for quick reference](https://twitter.com/pbesh/status/738008776805060608) Peter Beshai @pbesh
 * [React component’s lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk) Osmel Mora @osmel_mora
 
-#Key
+#Keys
 
 **Why can't i put key in default props (or define the default somewhere else)?**
 
-https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m
+[Why can't i put key in default props](https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m)
+
+**What should I use for a key?**
+
+* [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318#.y4ru46ikc) Robin Pokorný @robinpokorny
+
+**What are some examples where I should manually change a key?**
+
+[The key is using key](https://twitter.com/timarney/status/730785238654287873) Tim Arney @timarney
 
 #Forms
 
