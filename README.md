@@ -360,6 +360,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **Where can I find some good books about React?**
 
-* http://www.reactenlightenment.com
-* https://survivejs.com
-* https://www.fullstackreact.com
+* [React Enlightenment ](http://www.reactenlightenment.com) Cody Lindley @codylindley
+* [Build your first real world React.js application](http://academy.plot.ly/#react) Max Stoiber @mxstbr
+* [SurviveJS React](http://survivejs.com/react/introduction)
+* [Fullstack React](https://www.fullstackreact.com)
