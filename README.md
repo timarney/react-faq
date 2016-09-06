@@ -260,6 +260,10 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [React Motion](https://github.com/chenglou/react-motion)
 * [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.aio7blbsi)
 
+**How can I animate Page Transitions?**
+
+* [React Page Transition Animations](https://medium.com/front-end-hacking/react-page-transition-animations-9d18c90a9831#.lc9943ajq) Huan Ji
+
 #SVG & React
 
 **How do I work with SVG's in React?**
