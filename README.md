@@ -316,6 +316,11 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 * [Contributing to React JS](https://www.youtube.com/watch?v=wUpPsEcGsg8) Kent C. Dodds
 
+
+#Universal React
+
+* [React on the Server for Beginners](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app) Luciano Mammino @loige
+
 #Video Courses
 
 **What are some good video resources/courses to learn React?**
