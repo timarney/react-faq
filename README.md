@@ -36,6 +36,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 * [extends React.Component style](http://codepen.io/Arney/pen/OXYqWb)
 * [React.createClass style](http://codepen.io/Arney/pen/QERoaQ)
+* [React JSBin](http://react.jsbin.com/?html,css,js,output)
 
 #Why use React
 
