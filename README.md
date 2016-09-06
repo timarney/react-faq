@@ -75,7 +75,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 * [How to decouple state and UI](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7l8ji1wer) Michel Weststrate @mweststrate
 
-#Passing Data
+#Props
 
 **How do I pass props?**
 
@@ -88,6 +88,9 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **How do I pass boolean values?**
 
 * [JSX <Foo bar={true} /> and <Foo bar> are equivalent](https://twitter.com/Jack_Franklin/status/768735664485568512)
+
+**How do I validate props?**
+* [Better Prop Validation in React](https://medium.com/@MoeSattler/better-prop-validation-in-react-cc83590d311f#.wdhbsrlgj) Moe Sattler @travelperk
 
 #Component Types
 
