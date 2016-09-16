@@ -285,7 +285,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **How to scale React-Redux apps?**
 
-* [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
+* [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) Max Stoiber @mxstbr 
 
 #Add to an existing app
 
