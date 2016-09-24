@@ -115,6 +115,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **Function as Child Components** [```<Code />```](http://reactpatterns.com/#Function%20as%20children)
 
 * [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5) Merrick Christensen @iammerrick
+* [I've mentioned this before, but I'm a big fan of child functions in React](https://twitter.com/brian_d_vaughn/status/779362701596164097) Brian Vaughn @brian_d_vaughn
 
 **Stateless Function** [```<Code />```](http://reactpatterns.com/#Stateless%20function)
 
