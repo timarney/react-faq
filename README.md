@@ -99,7 +99,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **What types of components are there?**
 
-* [React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26)
+* [React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26) Anthony Comito @a_comito
 
 **Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#Container%20component)  
 
