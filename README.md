@@ -62,6 +62,23 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [The one thing that no one properly explains about React — Why Virtual DOM](https://hashnode.com/post/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom-cisczhfj41bmssp53mvfwmgrq) Sai Kishore Komanduri @saiki
 * [The VirtualDOM and why it’s so dang fast!](http://thereactionary.net/faster-than-a-speeding-repaint-the-virtualdom-and-why-its-so-dang-fast) Zac Braddy @reactionaryjs
 
+#Props
+
+**How do I pass props?**
+
+* [Transferring Props](https://facebook.github.io/react/docs/transferring-props.html)
+
+**Should I use import, props, or context in React?**
+
+* [Differences between require() and passing an object via prop or context](http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942) Dan Abramov @dan_abramov
+
+**How do I pass boolean values?**
+
+* [JSX <Foo bar={true} /> and <Foo bar> are equivalent](https://twitter.com/Jack_Franklin/status/768735664485568512) Jack Franklin @Jack_Franklin
+
+**How do I validate props?**
+* [Better Prop Validation in React](https://medium.com/@MoeSattler/better-prop-validation-in-react-cc83590d311f#.wdhbsrlgj) Moe Sattler @travelperk
+
 #State
 **How do I handle state?**
 
@@ -77,23 +94,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **How can I decouple state and UI?**
 
 * [How to decouple state and UI](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7l8ji1wer) Michel Weststrate @mweststrate
-
-#Props
-
-**How do I pass props?**
-
-* [Transferring Props](https://facebook.github.io/react/docs/transferring-props.html) Jack Franklin @Jack_Franklin
-
-**Should I use import, props, or context in React?**
-
-* [Differences between require() and passing an object via prop or context](http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942) Dan Abramov @dan_abramov
-
-**How do I pass boolean values?**
-
-* [JSX <Foo bar={true} /> and <Foo bar> are equivalent](https://twitter.com/Jack_Franklin/status/768735664485568512)
-
-**How do I validate props?**
-* [Better Prop Validation in React](https://medium.com/@MoeSattler/better-prop-validation-in-react-cc83590d311f#.wdhbsrlgj) Moe Sattler @travelperk
 
 #Component Types
 
