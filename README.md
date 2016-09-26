@@ -270,6 +270,12 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 * [React Page Transition Animations](https://medium.com/front-end-hacking/react-page-transition-animations-9d18c90a9831#.lc9943ajq) Huan Ji
 
+**What are some good repos to checkout for animation in React?**
+* [react-animations](https://github.com/FormidableLabs/react-animations)
+* [react-anime](https://github.com/stelatech/react-anime)
+* [react-motion](https://github.com/chenglou/react-motion)
+* [velocity-react](https://github.com/twitter-fabric/velocity-react)
+
 #SVG & React
 
 **How do I work with SVG's in React?**
