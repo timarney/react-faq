@@ -139,6 +139,10 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 #Binding
 
+**What should you use for binding methods in React classes?**
+
+* [fat Arrow vS Autobind VS bind](https://www.reddit.com/r/reactjs/comments/54xnao/fat_arrow_vs_autobind_vs_bindbindbindbindbind/d85wj0l) Dan Abramov @dan_abramov
+
 **What is this bind thing?**
 
 * [Don't Use Bind When Passing Props](https://daveceddia.com/avoid-bind-when-passing-props) Dave Ceddia
@@ -341,7 +345,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **Where can I learn about Contributing to React JS?**
 
 * [Contributing to React JS](https://www.youtube.com/watch?v=wUpPsEcGsg8) Kent C. Dodds
-
 
 #Universal React
 
