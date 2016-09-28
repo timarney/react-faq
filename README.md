@@ -15,6 +15,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [Pete Hunt: The Secrets of React's Virtual DOM (FutureJS 2014)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * 🔥 [All the terrible things I did the first time I wrote a complex React App ](https://youtu.be/Fk--XUEorvc?t=20666) Raquel @raquelxmoss
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes) this is a slightly dated but still really good starter
+* [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) Eric W. Greene / Microsoft Virtual Academy
 * [Books](#books)
 
 #History
