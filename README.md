@@ -124,6 +124,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **Stateless Function** [```<Code />```](http://reactpatterns.com/#Stateless%20function)
 
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq) Cory House @housecor
+* [Embracing Functions in React](https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30#.igvxagy0e) A. Sharif @sharifsbeat
 
 **How do I decide what type of Component to use?**
 
