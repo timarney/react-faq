@@ -178,7 +178,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [My #reactjs component lifecycle cheatsheet for quick reference](https://twitter.com/pbesh/status/738008776805060608) Peter Beshai @pbesh
 * [React component’s lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk) Osmel Mora @osmel_mora
 
-
 #Keys
 
 **Why can't i put key in default props (or define the default somewhere else)?**
@@ -295,6 +294,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [react-anime](https://github.com/stelatech/react-anime)
 * [react-motion](https://github.com/chenglou/react-motion)
 * [velocity-react](https://github.com/twitter-fabric/velocity-react)
+* [state-transitions](https://github.com/jacobp100/state-transitions)
 
 #SVG & React
 
