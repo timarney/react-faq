@@ -81,6 +81,11 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 **How do I validate props?**
 * [Better Prop Validation in React](https://medium.com/@MoeSattler/better-prop-validation-in-react-cc83590d311f#.wdhbsrlgj) Moe Sattler @travelperk
 
+#PropTypes
+
+**What are PropTypes?**
+* [What are PropTypes?](https://themeteorchef.com/snippets/what-are-proptypes) Ryan Glover @themeteorchef
+
 #State
 **How do I handle state?**
 
