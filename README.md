@@ -362,6 +362,10 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 * [React on the Server for Beginners](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app) Luciano Mammino @loige
 
+#Deep Dive
+* [Implementation Notes - How React Really Works](https://facebook.github.io/react/contributing/implementation-notes.html) Dan Abramov @dan_abramov
+* [Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg) Paul O'Shannessy @zpao
+
 #Video Courses
 
 **What are some good video resources/courses to learn React?**
