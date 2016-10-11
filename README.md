@@ -367,6 +367,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg) Paul O'Shannessy @zpao
 * Experimental - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) Andrew Clark @acdlite
 * Experimental - [What's Next for React](https://www.youtube.com/watch?v=aV1271hd9ew) Andrew Clark @acdlite
+* [React Architecture – OSCON](http://blog.vjeux.com/2014/javascript/react-architecture-oscon.html) Christopher Chedeau @vjeux
 
 #Video Courses
 
