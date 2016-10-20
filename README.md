@@ -379,10 +379,10 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **What are some good video resources/courses to learn React?**
 
+* https://egghead.io/courses/react-fundamentals (they have a bunch)
 * https://reactforbeginners.com
 * https://app.pluralsight.com/courses/react-redux-react-router-es6
 * https://www.pluralsight.com/courses/react-flux-building-applications
-* https://egghead.io/courses/react-fundamentals (they have a bunch)
 * https://frontendmasters.com/courses/react-intro (they have a bunch)
 * http://courses.reactjsprogram.com/courses/reactjsprogrambundle
 * https://LearnRedux.com
