@@ -87,6 +87,11 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [What are PropTypes?](https://themeteorchef.com/snippets/what-are-proptypes) Ryan Glover @themeteorchef
 
 #State
+
+**What is state in React?**
+
+* [A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react) Dave Ceddia @dceddia
+
 **How do I handle state?**
 
 * [The 5 Types Of React Application State](http://jamesknelson.com/5-types-react-application-state) James K Nelson @james_k_nelson
