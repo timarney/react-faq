@@ -63,6 +63,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 * [The one thing that no one properly explains about React — Why Virtual DOM](https://hashnode.com/post/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom-cisczhfj41bmssp53mvfwmgrq) Sai Kishore Komanduri @saiki
 * [The VirtualDOM and why it’s so dang fast!](http://thereactionary.net/faster-than-a-speeding-repaint-the-virtualdom-and-why-its-so-dang-fast) Zac Braddy @reactionaryjs
+* [React's diff algorithm](http://calendar.perfplanet.com/2013/diff/) Christopher Chedeau @vjeux
 
 #Props
 
