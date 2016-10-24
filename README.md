@@ -71,9 +71,9 @@ https://twitter.com/dan_abramov/status/790326092582252544
 https://twitter.com/acdlite/status/779693791607336960
 
 > I wonder if we can reclaim the VDOM term to mean "Value DOM", as in Value Type, instead of "Virtual DOM"...? More accurate. **@sebmarkbage**
-
+<hr>
 > It doesn't improve perf over hand written DOM code but it's hard to write on scale. React scales well. **@dan_abramov**
-
+<hr>
 > React ultimately has to call browser APIs at some point, it can't possibly be faster than writing the same exact calls by hand **@dan_abramov**
 
 **Key Takeaway:**
