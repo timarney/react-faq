@@ -79,6 +79,8 @@ https://twitter.com/acdlite/status/779693791607336960
 > It doesn't improve perf over hand written DOM code but it's hard to write on scale. React scales well. **@dan_abramov**
 <hr>
 > React ultimately has to call browser APIs at some point, it can't possibly be faster than writing the same exact calls by hand **@dan_abramov**
+<hr>
+>React will not do anything that you cannot. By definition everything it does can be reproduced (and some people have with other libraries/frameworks that follow similar conventions). The point is not that React does something that you can't, but rather that by introducing React to your application you are relieved of having to worry about manually handling your DOM, manually determining how to update it efficiently, minimizing traversals, etc. - [Sean Grogg](https://www.quora.com/Is-ReactJS-faster-than-direct-DOM-manipulation-with-JavaScript-or-jQuery)
 
 **Key Takeaway:**
 
