@@ -135,6 +135,24 @@ See :  https://twitter.com/mxstbr/status/790084862954864640 Max Stoiber @mxstbr
 * [React component’s lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk) Osmel Mora @osmel_mora
 
 #Component Types
+> There are two main types of components Functional and Class Components
+
+```
+// Functional Component
+function Welcome(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+
+// Class Component
+
+class Welcome extends React.Component {
+  render() {
+    return <h1>Hello, {this.props.name}</h1>;
+  }
+}
+```
+
+Components can be used (composed) in many ways see the following links for patterns and thoughts on creating Components.
 
 **How do I decide what type of Component to use?**
 
@@ -142,9 +160,10 @@ See :  https://twitter.com/mxstbr/status/790084862954864640 Max Stoiber @mxstbr
 * [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component) Todd Motto
 * [4 different kinds of React component styles](https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles) Peter Bengtsson @peterbe
 
-**What types of components are there?**
+**Stateless Function** [```<Code />```](http://reactpatterns.com/#Stateless%20function)
 
-* [React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26) Anthony Comito @a_comito
+* [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq) Cory House @housecor
+* [Embracing Functions in React](https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30#.igvxagy0e) A. Sharif @sharifsbeat
 
 **Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#Container%20component)  
 
@@ -164,10 +183,9 @@ See :  https://twitter.com/mxstbr/status/790084862954864640 Max Stoiber @mxstbr
 * [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5) Merrick Christensen @iammerrick
 * [I've mentioned this before, but I'm a big fan of child functions in React](https://twitter.com/brian_d_vaughn/status/779362701596164097) Brian Vaughn @brian_d_vaughn
 
-**Stateless Function** [```<Code />```](http://reactpatterns.com/#Stateless%20function)
+**What types of components are there?**
 
-* [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq) Cory House @housecor
-* [Embracing Functions in React](https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30#.igvxagy0e) A. Sharif @sharifsbeat
+* [React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26) Anthony Comito @a_comito
 
 #Finding Components
 
