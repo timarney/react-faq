@@ -40,7 +40,17 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 * [React.createClass style](http://codepen.io/Arney/pen/QERoaQ)
 * [React JSBin](http://react.jsbin.com/?html,css,js,output)
 
-#Why use React
+#Why use React?
+
+> 
+* Composable components
+* Easy to use with existing projects
+* Declarative
+* Functional / Immutable friendly
+  
+
+**Is it fast?**
+* [Is React.js fast? Faster than {framework}? … or are there more relevant questions to be asking?](https://medium.com/react-weekly/is-react-js-fast-faster-than-framework-or-are-there-more-relevant-questions-to-be-asking-bcf40211f89b#.ll2aubhbi) Jeff Barczewski @jeffbski 
 
 **What so good about React?**
 
