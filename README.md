@@ -279,6 +279,14 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [Return as soon as you know the answer](https://medium.com/@SimonRadionov/return-as-soon-as-you-know-the-answer-dec6369b9b67#.82kxymyki) @SimonRadionov
 
 #Keys
+>React uses [keys](https://facebook.github.io/react/docs/reconciliation.html#keys) to help with Reconciliation (i.e. how it calculates the DOM diff for each render). 
+
+```
+<ul>
+  <li key="2015">Duke</li>
+  <li key="2016">Villanova</li>
+</ul>
+```
 
 **Why can't i put key in default props (or define the default somewhere else)?**
 
