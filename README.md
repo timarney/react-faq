@@ -83,25 +83,30 @@ https://twitter.com/acdlite/status/779693791607336960
 
 #Props
 
+**What are props?**
+>props (short for properties) are a Component's configuration, its options if you may. They are received from above and immutable as far as the Component receiving them is concerned. - react-guide
+
+See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+
 **How do I pass props?**
 
 * [Transferring Props](https://facebook.github.io/react/docs/transferring-props.html)
-
-**Should I use import, props, or context in React?**
-
-* [Differences between require() and passing an object via prop or context](http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942) Dan Abramov @dan_abramov
 
 **How do I pass boolean values?**
 
 * [JSX `<Foo bar={true} />` and `<Foo bar>` are equivalent](https://twitter.com/Jack_Franklin/status/768735664485568512) Jack Franklin @Jack_Franklin
 
-**How do I validate props?**
-* [Better Prop Validation in React](https://medium.com/@MoeSattler/better-prop-validation-in-react-cc83590d311f#.wdhbsrlgj) Moe Sattler @travelperk
+**Should I use import, props, or context in React?**
+
+* [Differences between require() and passing an object via prop or context](http://stackoverflow.com/questions/39111775/differences-between-require-and-passing-an-object-via-prop-or-context/39111942) Dan Abramov @dan_abramov
 
 #PropTypes
 
 **What are PropTypes?**
 * [What are PropTypes?](https://themeteorchef.com/snippets/what-are-proptypes) Ryan Glover @themeteorchef
+
+**How do I validate props?**
+* [Better Prop Validation in React](https://medium.com/@MoeSattler/better-prop-validation-in-react-cc83590d311f#.wdhbsrlgj) Moe Sattler @travelperk
 
 #State
 
