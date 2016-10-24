@@ -307,6 +307,7 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.hewsz120q)
 * [Should I use shouldComponentUpdate?](http://jamesknelson.com/should-i-use-shouldcomponentupdate) James K Nelson @james_k_nelson
 * [Reconciliation](https://facebook.github.io/react/docs/reconciliation.html)
+* [Quick slides on #reactjs performance](http://presentations.survivejs.com/react-performance/#/?_k=ivqhoe) Juho Vepsäläinen @bebraw
 
 #Context
 ⚠️ Context is an **advanced and experimental** feature. The API is likely to change in future releases. The rumours of its existence are true but be careful!
