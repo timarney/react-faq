@@ -67,7 +67,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 *No* see:
 
-https://twitter.com/dan_abramov/status/790332950730670080
+https://twitter.com/dan_abramov/status/790326092582252544
 https://twitter.com/acdlite/status/779693791607336960
 
 > I wonder if we can reclaim the VDOM term to mean "Value DOM", as in Value Type, instead of "Virtual DOM"...? More accurate. **@sebmarkbage**
