@@ -2,9 +2,8 @@
 
 This guide aims to pull together quality content about React core concepts into a central location for quick reference.  
 
-In the future it might cover best practices and how and why to use different patterns and techniques.  For now enjoy the links and please *share/link*  back to this repo.
+Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
-Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay if you don't know all the terms.
 
 #Start
 
