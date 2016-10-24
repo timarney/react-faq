@@ -223,6 +223,8 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 
 #State
 
+> In one sense, “state” means the current visual representation of the app on screen... In the React sense, “state” is an object that represents the parts of the app that can change. Each component can maintain its own state, which lives in an object called this.state. - Dave Ceddia
+
 **What is state in React?**
 
 * [A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react) Dave Ceddia @dceddia
