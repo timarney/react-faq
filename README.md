@@ -246,9 +246,10 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [How to decouple state and UI](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7l8ji1wer) Michel Weststrate @mweststrate
 
 #Binding
+>The JavaScript bind method has several uses. Typically, it is used to preserve execution context for a function that executes in another context.
 
 **What should you use for binding methods in React classes?**
-
+* [To bind or not to bind?](https://twitter.com/dan_abramov/status/790612782471319553) Dan Abramov @dan_abramov
 * [fat Arrow vS Autobind VS bind](https://www.reddit.com/r/reactjs/comments/54xnao/fat_arrow_vs_autobind_vs_bindbindbindbindbind/d85wj0l) Dan Abramov @dan_abramov
 
 **What is this bind thing?**
