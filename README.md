@@ -332,15 +332,6 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [Patterns For Style Composition In React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react) Brent Jackson @jxnblk
 * [Make Your React Components Pretty](https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.ctwfvx379) Mark Brouch @markbrouch
 
-#Learning
-
-**What do I need to know about React to get started?**
-
-* [react-howto](https://github.com/petehunt/react-howto) Pete Hunt
-* [Intro to React.JS Core Concepts](http://media.bemyapp.com/intro-react-js-core-concepts) Pascal Weiland @bitcrowd / Tony Alito
-* [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic/blob/master/README.md)
-* [Components, the war horses of React](https://medium.com/react-ecosystem/components-the-war-horses-of-react-1085dddc14e5#.egkrhoxtz) Osmel Mora @osmel_mora
-
 #Gotchas
 
 **What are some React Gotchas?**
