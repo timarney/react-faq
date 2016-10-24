@@ -79,7 +79,9 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay), Learn. It's okay i
 
 **Is the Virtual DOM all about speed?**
 
-*No* see:
+*No*
+
+See : 
 
 https://twitter.com/dan_abramov/status/790326092582252544
 https://twitter.com/acdlite/status/779693791607336960
@@ -96,6 +98,22 @@ https://twitter.com/acdlite/status/779693791607336960
 
 > React keeps your product reasonably fast without you having to think about it all the time, or to jump through the hoops **@dan_abramov**
 
+
+#Components
+> Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. - [React Docs](https://facebook.github.io/react/docs/components-and-props.html)
+
+**What are some of your best practices when working with components?**
+
+> * Keep it (F)ocused.
+* Keep it (I)ndependent.
+* Keep it (R)eusable.
+* Keep it (S)mall.
+* Keep it (T)estable.
+* or in short, `FIRST`. 
+
+> — Addy Osmani https://addyosmani.com/first
+
+See :  https://twitter.com/mxstbr/status/790084862954864640 Max Stoiber @mxstbr
 
 #Props
 
