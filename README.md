@@ -159,6 +159,7 @@ Components can be used (composed) in many ways see the following links for patte
 * [React.Component vs React.createClass](https://reactjsnews.com/composing-components) Naman Goel & Zach Silveira
 * [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component) Todd Motto
 * [4 different kinds of React component styles](https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles) Peter Bengtsson @peterbe
+* [Functions as Child Components and Higher Order Components](http://rea.tech/functions-as-child-components-and-higher-order-components) Ken Ding
 
 **Stateless Function** [```<Code />```](http://reactpatterns.com/#Stateless%20function)
 
