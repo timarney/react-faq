@@ -115,6 +115,18 @@ https://twitter.com/acdlite/status/779693791607336960
 
 See :  https://twitter.com/mxstbr/status/790084862954864640 Max Stoiber @mxstbr
 
+#Lifecycle Methods
+
+>Components have several "lifecycle methods" that allow you to override / run code at particular times.
+
+**What are Lifecycle Methods?**
+
+* [React components lifecycle diagram](http://codepen.io/eduardoboucas/full/jqWbdb) Eduardo Bouças @eduardoboucas
+* [Going further with React lifecycle methods](https://medium.com/@notrab/going-further-with-react-lifecycle-methods-2ffdc5bdf52c#.bu0ufrosb) Jamie Barton
+* [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
+* [My #reactjs component lifecycle cheatsheet for quick reference](https://twitter.com/pbesh/status/738008776805060608) Peter Beshai @pbesh
+* [React component’s lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk) Osmel Mora @osmel_mora
+
 #Component Types
 
 **How do I decide what type of Component to use?**
@@ -228,16 +240,6 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 **What should go in the render function?**
 
 * [Return as soon as you know the answer](https://medium.com/@SimonRadionov/return-as-soon-as-you-know-the-answer-dec6369b9b67#.82kxymyki) @SimonRadionov
-
-#Lifecycle Methods
-
-**What are Lifecycle Methods?**
-
-* [React components lifecycle diagram](http://codepen.io/eduardoboucas/full/jqWbdb) Eduardo Bouças @eduardoboucas
-* [Going further with React lifecycle methods](https://medium.com/@notrab/going-further-with-react-lifecycle-methods-2ffdc5bdf52c#.bu0ufrosb) Jamie Barton
-* [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
-* [My #reactjs component lifecycle cheatsheet for quick reference](https://twitter.com/pbesh/status/738008776805060608) Peter Beshai @pbesh
-* [React component’s lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk) Osmel Mora @osmel_mora
 
 #Keys
 
