@@ -300,6 +300,21 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 
 * [The key is using key](https://twitter.com/timarney/status/730785238654287873) Tim Arney @timarney
 
+#Refs
+
+**What are refs and are string refs are bad?**
+
+* [Refs to Components](https://facebook.github.io/react/docs/more-about-refs.html)
+* [Why do you use findDOMNode()?](https://twitter.com/dan_abramov/status/752936646602031104) Dan Abramov @dan_abramov
+* [String refs are bad in quite a few ways](https://news.ycombinator.com/edit?id=12093234) Dan Abramov @dan_abramov
+
+#Context
+⚠️ Context is an **advanced and experimental** feature. The API is likely to change in future releases. The rumours of its existence are true but be careful!
+
+* [How to handle React context in a reliable way](https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwgxxy0d) Osmel Mora @osmel_mora
+* [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.m6v9tsgub) Michel Weststrate @mweststrate
+* [Context all the things with React](https://www.youtube.com/watch?v=k9AhBMwj1w4) Stephen Rivas Jr. (@sprjrx)
+
 #Forms
 
 **How can I build forms with React?**
@@ -330,14 +345,6 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 **What are some React Gotchas?**
 
 * [React Gotchas](https://daveceddia.com/react-gotchas) Dave Ceddia
-
-#Refs
-
-**What are refs and are string refs are bad?**
-
-* [Refs to Components](https://facebook.github.io/react/docs/more-about-refs.html)
-* [Why do you use findDOMNode()?](https://twitter.com/dan_abramov/status/752936646602031104) Dan Abramov @dan_abramov
-* [String refs are bad in quite a few ways](https://news.ycombinator.com/edit?id=12093234) Dan Abramov @dan_abramov
 
 #PATENTS
 
@@ -373,13 +380,6 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [Should I use shouldComponentUpdate?](http://jamesknelson.com/should-i-use-shouldcomponentupdate) James K Nelson @james_k_nelson
 * [Reconciliation](https://facebook.github.io/react/docs/reconciliation.html)
 * [Quick slides on #reactjs performance](http://presentations.survivejs.com/react-performance/#/?_k=ivqhoe) Juho Vepsäläinen @bebraw
-
-#Context
-⚠️ Context is an **advanced and experimental** feature. The API is likely to change in future releases. The rumours of its existence are true but be careful!
-
-* [How to handle React context in a reliable way](https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwgxxy0d) Osmel Mora @osmel_mora
-* [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.m6v9tsgub) Michel Weststrate @mweststrate
-* [Context all the things with React](https://www.youtube.com/watch?v=k9AhBMwj1w4) Stephen Rivas Jr. (@sprjrx)
 
 #Animations
 
