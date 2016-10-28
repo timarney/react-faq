@@ -465,10 +465,20 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 #Deep Dive
 * [Implementation Notes - How React Really Works](https://facebook.github.io/react/contributing/implementation-notes.html) Dan Abramov @dan_abramov
 * [Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg) Paul O'Shannessy @zpao
-* Experimental - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) Andrew Clark @acdlite
-* Experimental - [What's Next for React](https://www.youtube.com/watch?v=aV1271hd9ew) Andrew Clark @acdlite
 * [React Architecture – OSCON](http://blog.vjeux.com/2014/javascript/react-architecture-oscon.html) Christopher Chedeau @vjeux
 * [ReactJS: Under The Hood](https://www.youtube.com/watch?v=xsKYAa1ZXpQ) Boris Dinkevich @BorisDinkevich
+
+#React Fiber
+
+**What is React Fiber?**
+
+* Experimental - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) Andrew Clark @acdlite
+* Experimental - [What's Next for React](https://www.youtube.com/watch?v=aV1271hd9ew) Andrew Clark @acdlite
+
+**Is Fiber ready yet?**
+http://isfiberreadyyet.com
+
+
 
 #Video Courses
 
