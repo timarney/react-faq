@@ -476,9 +476,10 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * Experimental - [What's Next for React](https://www.youtube.com/watch?v=aV1271hd9ew) Andrew Clark @acdlite
 
 **Is Fiber ready yet?**
-http://isfiberreadyyet.com
+* http://isfiberreadyyet.com
 
-
+**How can I contribute to Fiber?**
+* [Fiber Principles: Contributing To Fiber](https://github.com/facebook/react/issues/7942)
 
 #Video Courses
 
