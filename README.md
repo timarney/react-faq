@@ -395,6 +395,7 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [react-motion](https://github.com/chenglou/react-motion)
 * [velocity-react](https://github.com/twitter-fabric/velocity-react)
 * [state-transitions](https://github.com/jacobp100/state-transitions)
+* [react-tween](https://github.com/clari/react-tween)
 
 #SVG & React
 
