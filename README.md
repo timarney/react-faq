@@ -404,6 +404,14 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.lmbz3v9ic)
 * [Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react) @sarah_edo
 
+#React Style Guides
+
+**Where can I find some good React  style guides?**
+
+* [Eventbrite React & JSX Coding Style Guide](https://github.com/eventbrite/javascript/tree/master/react)
+* [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+
+
 #Redux and Mobx
 
 **What's (Redux/Mobx)?**
