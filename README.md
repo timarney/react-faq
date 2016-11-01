@@ -354,6 +354,7 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 **How should I handle internationalization?**
 
 * [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.bcfxgycwv) Preethi Kasireddy
+* [react-localize](https://github.com/sprjr/react-localize) @sprjrx
 
 #Third Party Libraries
 
