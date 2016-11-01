@@ -429,7 +429,7 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 
 * [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) Max Stoiber @mxstbr 
 
-#Add to an existing app
+#Adding React to an existing app
 
 **How do I start adding React to an existing app?**
 
