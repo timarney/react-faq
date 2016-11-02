@@ -607,3 +607,4 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [React Status](http://react.statuscode.com)
 * [Fullstack React](http://newsletter.fullstackreact.com) 
 * [This Week In React](https://thisweekinreact.com)
+* [React Digest](http://reactdigest.net)
