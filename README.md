@@ -27,6 +27,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Refs](#refs)
 - [Context](#context)
 - [Forms](#forms)
+- [React Ajax](#react-ajax)
 - [Patterns](#patterns)
 - [Gotchas](#gotchas)
 - [PATENTS](#patents)
@@ -374,6 +375,13 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [Elegant Form Validation Using React](https://spin.atomicobject.com/2016/10/05/form-validation-react) Jordan Schaenzle
 * [Building validated forms with great UX in React](https://youtu.be/1Urj4TZ5BLI?t=2437) Marcela Hrdá
 * [react-validation](https://github.com/vacuumlabs/react-validation)
+
+#React Ajax
+
+**What is the best practice for getting server data into React components?**
+>It depends! See: [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) Andrew H Farmer @ahfarmer
+
+* [Loading and Using External Data in React](http://mediatemple.net/blog/tips/loading-and-using-external-data-in-react) Chris Coyier @chriscoyier 
 
 #Patterns
 
