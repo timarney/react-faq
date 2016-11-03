@@ -51,6 +51,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Training](#training)
 - [Books](#books)
 - [Newsletters](#newsletters)
+- [Interview Questions](#interview-questions)
 
 
 #Start
@@ -608,3 +609,12 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [Fullstack React](http://newsletter.fullstackreact.com) 
 * [This Week In React](https://thisweekinreact.com)
 * [React Digest](http://reactdigest.net)
+
+# Interview Questions
+
+* [12 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
+* [React Interview Questions](https://github.com/eltonjuan/react-interview-questions/blob/master/ReactInterviewQuestions.md)
+* [quiz.md](https://gist.github.com/gaearon/8fa9fdd2c4197ee0b52894877bf587a4) Dan Abramov @dan_abramov
+* [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
+* [The Vital Guide to React.js Interviewing](https://chandanpandey.com/2016/10/27/the-vital-guide-to-react-js-interviewing)
+
