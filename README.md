@@ -27,6 +27,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Refs](#refs)
 - [Context](#context)
 - [Forms](#forms)
+- [Controlled Components](#controlled-components)
 - [React Ajax](#react-ajax)
 - [Patterns](#patterns)
 - [Gotchas](#gotchas)
@@ -375,6 +376,21 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [Elegant Form Validation Using React](https://spin.atomicobject.com/2016/10/05/form-validation-react) Jordan Schaenzle
 * [Building validated forms with great UX in React](https://youtu.be/1Urj4TZ5BLI?t=2437) Marcela Hrdá
 * [react-validation](https://github.com/vacuumlabs/react-validation)
+
+
+#Controlled Components
+
+**What is a controlled component?**
+
+Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components)
+
+>A controlled component has two aspects:
+
+1. Controlled components have functions to govern the data going into them on every onChange event, rather than grabbing the data only once, e.g. when a user clicks a submit button. This 'governed' data is then saved to state (in this case, the parent/container component's state).
+
+2. Data displayed by a controlled component is received through props passed down from it's parent/container component.
+
+> This is a one-way loop – from (1) child component input (2) to parent component state and (3) back down to the child component via props – is what is meant by unidirectional data flow in React.js application architecture. 
 
 #React Ajax
 
