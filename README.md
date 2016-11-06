@@ -1,8 +1,11 @@
 # React FAQ
 
-This guide aims to pull together quality content about React core concepts into a central location for quick reference.  
+This guide aims to pull together quality content about React core concepts into a central location for quick reference.
 
 Remember we're all learning.  Read, Try, Mess Up (it's okay).
+
+### Other Languages
+[🇪🇸 Español](https://github.com/xDae/react-faq)
 
 ## Contents
 
@@ -92,15 +95,15 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
 #Why use React?
 
-> 
+>
 * Composable components
 * Easy to use with existing projects
 * Declarative
 * Functional / Immutable friendly
-  
+
 
 **Is it fast?**
-* [Is React.js fast? Faster than {framework}? … or are there more relevant questions to be asking?](https://medium.com/react-weekly/is-react-js-fast-faster-than-framework-or-are-there-more-relevant-questions-to-be-asking-bcf40211f89b#.ll2aubhbi) Jeff Barczewski @jeffbski 
+* [Is React.js fast? Faster than {framework}? … or are there more relevant questions to be asking?](https://medium.com/react-weekly/is-react-js-fast-faster-than-framework-or-are-there-more-relevant-questions-to-be-asking-bcf40211f89b#.ll2aubhbi) Jeff Barczewski @jeffbski
 
 **What so good about React?**
 
@@ -134,7 +137,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
 *No*
 
-See : 
+See :
 
 https://twitter.com/dan_abramov/status/790326092582252544
 https://twitter.com/acdlite/status/779693791607336960
@@ -152,12 +155,12 @@ https://twitter.com/acdlite/status/779693791607336960
 > React keeps your product reasonably fast without you having to think about it all the time, or to jump through the hoops **@dan_abramov**
 
 #React elements
-> Elements are the smallest building blocks of React apps. 
-> Elements are what components are "made of ..." 
+> Elements are the smallest building blocks of React apps.
+> Elements are what components are "made of ..."
 — [React Docs](https://facebook.github.io/react/docs/rendering-elements.html)
 
 * [What makes an 'Element' an 'Element' vs a component?](https://twitter.com/timarney/status/790540834466701312) Tim Arney @timarney
-* [Understanding the Difference Between React Elements and Components](https://quickleft.com/blog/understanding-the-difference-between-react-elements-and-components) Alex Johnson 
+* [Understanding the Difference Between React Elements and Components](https://quickleft.com/blog/understanding-the-difference-between-react-elements-and-components) Alex Johnson
 
 #Components
 > Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. - [React Docs](https://facebook.github.io/react/docs/components-and-props.html)
@@ -169,7 +172,7 @@ https://twitter.com/acdlite/status/779693791607336960
 * Keep it (R)eusable.
 * Keep it (S)mall.
 * Keep it (T)estable.
-* or in short, `FIRST`. 
+* or in short, `FIRST`.
 
 > — Addy Osmani https://addyosmani.com/first
 
@@ -219,11 +222,11 @@ Components can be used (composed) in many ways see the following links for patte
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq) Cory House @housecor
 * [Embracing Functions in React](https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30#.igvxagy0e) A. Sharif @sharifsbeat
 
-**Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#Container%20component)  
+**Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#Container%20component)
 
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.xo2al5187) Dan Abramov @dan_abramov
 
-**Higher-Order Components** [```<Code />```](http://reactpatterns.com/#Higher-order%20component)  
+**Higher-Order Components** [```<Code />```](http://reactpatterns.com/#Higher-order%20component)
 
 * [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.mpb29ree6) @franleplant
 * [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components) Jack Franklin @Jack_Franklin
@@ -329,7 +332,7 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [Return as soon as you know the answer](https://medium.com/@SimonRadionov/return-as-soon-as-you-know-the-answer-dec6369b9b67#.82kxymyki) @SimonRadionov
 
 #Keys
->React uses [keys](https://facebook.github.io/react/docs/reconciliation.html#keys) to help with Reconciliation (i.e. how it calculates the DOM diff for each render). 
+>React uses [keys](https://facebook.github.io/react/docs/reconciliation.html#keys) to help with Reconciliation (i.e. how it calculates the DOM diff for each render).
 
 ```
 <ul>
@@ -390,14 +393,14 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 
 2. Data displayed by a controlled component is received through props passed down from it's parent/container component.
 
-> This is a one-way loop – from (1) child component input (2) to parent component state and (3) back down to the child component via props – is what is meant by unidirectional data flow in React.js application architecture. 
+> This is a one-way loop – from (1) child component input (2) to parent component state and (3) back down to the child component via props – is what is meant by unidirectional data flow in React.js application architecture.
 
 #React Ajax
 
 **What is the best practice for getting server data into React components?**
 >It depends! See: [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) Andrew H Farmer @ahfarmer
 
-* [Loading and Using External Data in React](http://mediatemple.net/blog/tips/loading-and-using-external-data-in-react) Chris Coyier @chriscoyier 
+* [Loading and Using External Data in React](http://mediatemple.net/blog/tips/loading-and-using-external-data-in-react) Chris Coyier @chriscoyier
 
 #Patterns
 
@@ -425,7 +428,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 
 * [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html) Dan Abramov @dan_abramov
 
-#Internationalization 
+#Internationalization
 
 **How should I handle internationalization?**
 
@@ -506,7 +509,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 
 **How to scale React-Redux apps?**
 
-* [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) Max Stoiber @mxstbr 
+* [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) Max Stoiber @mxstbr
 
 #Adding React to an existing app
 
@@ -524,7 +527,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 * [Inline Styles](https://facebook.github.io/react/tips/inline-styles.html)
 * [PANEL ON 'INLINE STYLES'](http://shoptalkshow.com/episodes/180-panel-on-inline-styles) @ShopTalkShow
 * [CSS in JS may not be the solution to all your problems](https://blog.grommet.io/post/2016/08/10/css-in-js-may-not-be-the-solution-to-all-your-problems) Alan Souza
-* [CSS in JS + CSS Modules](http://www.dadsindev.com/12) 
+* [CSS in JS + CSS Modules](http://www.dadsindev.com/12)
 * [CSS in JS tech chat](https://www.youtube.com/watch?v=BXOF_8jDdf8) Kent C. Dodds & Sarah Drasner
 
 **Are there any tools available to convert 'css' to 'CSS in JS'?**
@@ -556,7 +559,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 * [Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg) Paul O'Shannessy @zpao
 * [React Architecture – OSCON](http://blog.vjeux.com/2014/javascript/react-architecture-oscon.html) Christopher Chedeau @vjeux
 * [ReactJS: Under The Hood](https://www.youtube.com/watch?v=xsKYAa1ZXpQ) Boris Dinkevich @BorisDinkevich
-* [REACT INTERNALS](https://zackargyle.github.io/react-internals-slides/#/?_k=7f19z9) Zack Argyle @ZackArgyle 
+* [REACT INTERNALS](https://zackargyle.github.io/react-internals-slides/#/?_k=7f19z9) Zack Argyle @ZackArgyle
 
 #React Fiber
 
@@ -598,7 +601,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 
 #Talks
 * [React to the Future - Slide Deck](http://elijahmanor.com/talks/react-to-the-future/dist) Elijah Manor @elijahmanor
-* [React Things - PDF Slides](https://react.rocks/blog/images/React_Intro_sept_2016.pdf) Jeff Winkler @winkler1 
+* [React Things - PDF Slides](https://react.rocks/blog/images/React_Intro_sept_2016.pdf) Jeff Winkler @winkler1
 
 #Training
 
@@ -631,7 +634,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 
 * [React.js Newsletter](http://reactjsnewsletter.com)
 * [React Status](http://react.statuscode.com)
-* [Fullstack React](http://newsletter.fullstackreact.com) 
+* [Fullstack React](http://newsletter.fullstackreact.com)
 * [This Week In React](https://thisweekinreact.com)
 * [React Digest](http://reactdigest.net)
 
@@ -642,4 +645,3 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 * [quiz.md](https://gist.github.com/gaearon/8fa9fdd2c4197ee0b52894877bf587a4) Dan Abramov @dan_abramov
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 * [The Vital Guide to React.js Interviewing](https://chandanpandey.com/2016/10/27/the-vital-guide-to-react-js-interviewing)
-
