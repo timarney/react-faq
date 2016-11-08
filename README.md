@@ -47,6 +47,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Testing](#testing)
 - [Conference Videos](#conference-videos)
 - [Contributing to React JS](#contributing-to-react-js)
+- [Core Notes](#core-notes)
 - [Universal React](#universal-react)
 - [Deep Dive](#deep-dive)
 - [React Fiber](#react-fiber)
@@ -549,6 +550,11 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 **Where can I learn about Contributing to React JS?**
 
 * [Contributing to React JS](https://www.youtube.com/watch?v=wUpPsEcGsg8) Kent C. Dodds
+
+#Core Notes
+
+**Where can I find out what's going on with React / Upcoming versions?**
+* [core-notes](https://github.com/reactjs/core-notes/)
 
 #Universal React
 
