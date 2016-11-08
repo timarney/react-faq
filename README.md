@@ -213,6 +213,11 @@ Components can be used (composed) in many ways see the following links for patte
 
 **How do I decide what type of Component to use?**
 
+>This comes down to a few factors... a primary one being you need to decide what a component should do.  
+See: [Some Thoughts on Function Components in React](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7#.2oazdyli1) from A. Sharif @sharifsbeat for some help deciding.
+
+Also:
+
 * [React.Component vs React.createClass](https://reactjsnews.com/composing-components) Naman Goel & Zach Silveira
 * [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component) Todd Motto
 * [4 different kinds of React component styles](https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles) Peter Bengtsson @peterbe
