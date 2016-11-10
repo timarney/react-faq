@@ -597,6 +597,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 * http://courses.reactjsprogram.com/courses/reactjsprogrambundle
 * https://LearnRedux.com
 * https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
+* https://www.udemy.com/react-redux/
 
 #A11Y
 
