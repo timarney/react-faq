@@ -23,6 +23,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Props](#props)
 - [PropTypes](#proptypes)
 - [State](#state)
+- [Children API](#children-api)
 - [Binding](#binding)
 - [Events](#events)
 - [Rendering](#rendering)
@@ -234,6 +235,7 @@ Also:
 
 **Higher-Order Components** [```<Code />```](http://reactpatterns.com/#Higher-order%20component)
 
+* [ReactCasts #1 - Higher Order Components](https://www.youtube.com/watch?v=LTunyI2Oyzw) Cassio Zen @cassiozen
 * [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.mpb29ree6) @franleplant
 * [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components) Jack Franklin @Jack_Franklin
 * [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.prpfdo79n) Dan Abramov @dan_abramov
@@ -243,6 +245,7 @@ Also:
 
 **Function as Child Components** [```<Code />```](http://reactpatterns.com/#Function%20as%20children)
 
+* [ReactCasts #2 - Function as Child Components](https://www.youtube.com/watch?v=WE3XAt9P8Ek) Cassio Zen @cassiozen
 * [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5) Merrick Christensen @iammerrick
 * [I've mentioned this before, but I'm a big fan of child functions in React](https://twitter.com/brian_d_vaughn/status/779362701596164097) Brian Vaughn @brian_d_vaughn
 
@@ -312,6 +315,10 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 
 * [How to decouple state and UI](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7l8ji1wer) Michel Weststrate @mweststrate
 
+#Children API
+
+* [ReactCasts #3 - React's Children API](https://www.youtube.com/watch?v=DJ53-G8EbxE) Cassio Zen @cassiozen
+
 #Binding
 >The JavaScript bind method has several uses. Typically, it is used to preserve execution context for a function that executes in another context.
 
@@ -371,6 +378,7 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 #Context
 ⚠️ Context is an **advanced and experimental** feature. The API is likely to change in future releases. The rumours of its existence are true but be careful!
 
+* [ReactCasts #4 - Context (Part 1)](https://www.youtube.com/watch?v=lxq938kqIss&t=1s) Cassio Zen @cassiozen
 * [How to handle React context in a reliable way](https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwgxxy0d) Osmel Mora @osmel_mora
 * [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.m6v9tsgub) Michel Weststrate @mweststrate
 * [Context all the things with React](https://www.youtube.com/watch?v=k9AhBMwj1w4) Stephen Rivas Jr. (@sprjrx)
@@ -512,7 +520,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 * [You don’t need Redux if your data never changes. The whole point of it is managing changes.](https://twitter.com/dan_abramov/status/737036433215610880) Dan Abramov @dan_abramov
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.kgnqdp8p6) Dan Abramov @dan_abramov
 * [Redux or MobX: An attempt to dissolve the Confusion](http://www.robinwieruch.de/redux-mobx-confusion/) Robin Wieruch @rwieruch
-
+A
 **How to scale React-Redux apps?**
 
 * [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) Max Stoiber @mxstbr
