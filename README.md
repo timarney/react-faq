@@ -536,7 +536,7 @@ A
 #CSS and React
 
 **What about styling things in React?**
-
+* [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) Michele Bertoli @MicheleBertoli
 * [Reusable React Component with Overridable Inline CSS Styles](http://staxmanade.com/2016/06/reusable-react-component-with-overridable-inline-css-styles/)
 * [Inline Styles](https://facebook.github.io/react/tips/inline-styles.html)
 * [PANEL ON 'INLINE STYLES'](http://shoptalkshow.com/episodes/180-panel-on-inline-styles) @ShopTalkShow
