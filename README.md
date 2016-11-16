@@ -524,6 +524,7 @@ A
 **How to scale React-Redux apps?**
 
 * [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) Max Stoiber @mxstbr
+* [How to choose between Redux's store and React's state?](https://github.com/reactjs/redux/issues/1287)
 
 #Adding React to an existing app
 
