@@ -556,7 +556,7 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 
 **What repos should I checkout for styling at the component level?**
 
-* [styled-components](https://github.com/styled-components/styled-components)
+* [styled-components](https://github.com/styled-components/styled-components) + [Styling React Applications](https://youtu.be/1Urj4TZ5BLI) @mxstbr 
 * [glamor](https://github.com/threepointone/glamor) @threepointone
 
 **What about using CSS Modules for styling?**
