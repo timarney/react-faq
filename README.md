@@ -559,6 +559,11 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 * [styled-components](https://github.com/styled-components/styled-components)
 * [glamor](https://github.com/threepointone/glamor) @threepointone
 
+**What about using CSS Modules for styling?**
+* [css-modules](https://github.com/css-modules/css-modules) @markdalgleish
+* [CSS Modules by Example](http://andrewhfarmer.com/css-modules-by-example) Andrew H Farmer
+
+
 **I just need some simple inline styles ... What's the most basic way to use inline styles with React?**
 
 * [React Docs Inline styles](https://facebook.github.io/react/docs/dom-elements.html#style)
