@@ -225,16 +225,16 @@ Also:
 * [4 different kinds of React component styles](https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles) Peter Bengtsson @peterbe
 * [Functions as Child Components and Higher Order Components](http://rea.tech/functions-as-child-components-and-higher-order-components) Ken Ding
 
-**Stateless Function** [```<Code />```](http://reactpatterns.com/#Stateless%20function)
+**Stateless Function** [```<Code />```](http://reactpatterns.com/#stateless-function)
 
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.iydj782xq) Cory House @housecor
 * [Embracing Functions in React](https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30#.igvxagy0e) A. Sharif @sharifsbeat
 
-**Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#Container%20component)
+**Presentational and Container Components**  [```<Code />```](http://reactpatterns.com/#container-component)
 
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.xo2al5187) Dan Abramov @dan_abramov
 
-**Higher-Order Components** [```<Code />```](http://reactpatterns.com/#Higher-order%20component)
+**Higher-Order Components** [```<Code />```](http://reactpatterns.com/#higher-order-component)
 
 * [ReactCasts #1 - Higher Order Components](https://www.youtube.com/watch?v=LTunyI2Oyzw) Cassio Zen @cassiozen
 * [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.mpb29ree6) @franleplant
@@ -244,7 +244,7 @@ Also:
 * [Real World Examples of Higher-Order Components](http://rea.tech/reactjs-real-world-examples-of-higher-order-components/) Mehdi Mollaverdi @mehdimollaverdi
 * [Start Reacting: HOC](https://www.youtube.com/watch?v=ymJOm5jY1tQ) OliverFencott @OliverFencott
 
-**Function as Child Components** [```<Code />```](http://reactpatterns.com/#Function%20as%20children)
+**Function as Child Components** [```<Code />```](http://reactpatterns.com/#function-as-children)
 
 * [ReactCasts #2 - Function as Child Components](https://www.youtube.com/watch?v=WE3XAt9P8Ek) Cassio Zen @cassiozen
 * [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5) Merrick Christensen @iammerrick
