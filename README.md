@@ -549,6 +549,7 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 * [What to use for React styling? ](http://andrewhfarmer.com/how-to-style-react) Andrew H Farmer
 * [Styling React](http://survivejs.com/react/advanced-techniques/styling-react) survivejs.com
 * [Styling in React](https://www.kirupa.com/react/styling_in_react.htm) kirupa
+* [Styling React Components in JavaScript](https://www.youtube.com/watch?v=0aBv8dsZs84) Michael Chan
 
 ### Component Level Styling
 
@@ -570,8 +571,9 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 * [React Docs Inline styles](https://facebook.github.io/react/docs/dom-elements.html#style)
 * [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together. @JedWatson
 
-**Where can I find a React CSS in JS techniques comparison guide?** 
+**There's too many CSS in JS options how can I compare them?** 
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) Michele Bertoli @MicheleBertoli
+* [Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/tree/master/docs/comparison - radium)
 
 **How can I style/build a component that's very reusable customizable?**
 * [Reusable React Component with Overridable Inline CSS Styles](http://staxmanade.com/2016/06/reusable-react-component-with-overridable-inline-css-styles/)
