@@ -562,8 +562,8 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 * [glamor](https://github.com/threepointone/glamor) @threepointone
 
 
-**What's the difference between what’s called "inline styles" and what's called “CSS-in-JS”**
-*[Writing your styles in JS ≠ writing inline styles](http://mxstbr.blog/2016/11/inline-styles-vs-css-in-js) Max Stoiber @mxstbr
+**What's the difference between what’s called "inline styles" and what's called “CSS-in-JS”?**
+* [Writing your styles in JS ≠ writing inline styles](http://mxstbr.blog/2016/11/inline-styles-vs-css-in-js) Max Stoiber @mxstbr
 
 
 **I just need some simple inline styles ... What's the most basic way to use inline styles with React?**
