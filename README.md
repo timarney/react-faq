@@ -551,6 +551,11 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 * [Styling in React](https://www.kirupa.com/react/styling_in_react.htm) kirupa
 * [Styling React Components in JavaScript](https://www.youtube.com/watch?v=0aBv8dsZs84) Michael Chan
 
+
+**What about using Bootstrap with React?**
+* [React-Bootstrap](https://react-bootstrap.github.io) - Bootstrap 3 components built with React
+* [bootstrap-loader](https://github.com/shakacode/bootstrap-loader) -Load Bootstrap styles and scripts in your Webpack bundle
+
 ### Component Level Styling
 
 >  There are various approaches for React that allow us to push styling to the component level. -  survivejs.com
@@ -560,6 +565,9 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 
 * [styled-components](https://github.com/styled-components/styled-components) + [Styling React Applications](https://youtu.be/1Urj4TZ5BLI) @mxstbr 
 * [glamor](https://github.com/threepointone/glamor) @threepointone
+* [aphrodite](https://github.com/Khan/aphrodite)- Khan Academy
+
+Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs/comments/5eq8ew/styled_components_or_glamor)
 
 
 **What's the difference between what’s called "inline styles" and what's called “CSS-in-JS”?**
