@@ -561,9 +561,9 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 * [styled-components](https://github.com/styled-components/styled-components) + [Styling React Applications](https://youtu.be/1Urj4TZ5BLI) @mxstbr 
 * [glamor](https://github.com/threepointone/glamor) @threepointone
 
-**What about using CSS Modules for styling?**
-* [css-modules](https://github.com/css-modules/css-modules) @markdalgleish
-* [CSS Modules by Example](http://andrewhfarmer.com/css-modules-by-example) Andrew H Farmer
+
+**What's the difference between what’s called "inline styles" and what's called “CSS-in-JS”**
+*[Writing your styles in JS ≠ writing inline styles](http://mxstbr.blog/2016/11/inline-styles-vs-css-in-js) Max Stoiber @mxstbr
 
 
 **I just need some simple inline styles ... What's the most basic way to use inline styles with React?**
@@ -571,18 +571,22 @@ You can use plain CSS or any preprocessor (Sass, Less etc...) with React.  React
 * [React Docs Inline styles](https://facebook.github.io/react/docs/dom-elements.html#style)
 * [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together. @JedWatson
 
+**What resources are available discussing the pros and cons of inline styles and CSS in JS?**
+* [PANEL ON 'INLINE STYLES'](http://shoptalkshow.com/episodes/180-panel-on-inline-styles) @ShopTalkShow
+* [CSS in JS may not be the solution to all your problems](https://blog.grommet.io/post/2016/08/10/css-in-js-may-not-be-the-solution-to-all-your-problems) Alan Souza
+* [CSS in JS + CSS Modules](http://www.dadsindev.com/12)@dadsindev
+* [CSS in JS tech chat](https://www.youtube.com/watch?v=BXOF_8jDdf8) Kent C. Dodds & Sarah Drasner
+
+**What about using CSS Modules for styling?**
+* [css-modules](https://github.com/css-modules/css-modules) @markdalgleish
+* [CSS Modules by Example](http://andrewhfarmer.com/css-modules-by-example) Andrew H Farmer
+
 **There's too many CSS in JS options how can I compare them?** 
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) Michele Bertoli @MicheleBertoli
 * [Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/tree/master/docs/comparison - radium)
 
 **How can I style/build a component that's very reusable customizable?**
 * [Reusable React Component with Overridable Inline CSS Styles](http://staxmanade.com/2016/06/reusable-react-component-with-overridable-inline-css-styles/)
-
-**What resources are available discussing the pros and cons of inline styles and CSS in JS?**
-* [PANEL ON 'INLINE STYLES'](http://shoptalkshow.com/episodes/180-panel-on-inline-styles) @ShopTalkShow
-* [CSS in JS may not be the solution to all your problems](https://blog.grommet.io/post/2016/08/10/css-in-js-may-not-be-the-solution-to-all-your-problems) Alan Souza
-* [CSS in JS + CSS Modules](http://www.dadsindev.com/12)@dadsindev
-* [CSS in JS tech chat](https://www.youtube.com/watch?v=BXOF_8jDdf8) Kent C. Dodds & Sarah Drasner
 
 
 #Testing
