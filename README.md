@@ -38,6 +38,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [PATENTS](#patents)
 - [Mixins](#mixins)
 - [Internationalization](#internationalization)
+- [Third Party Libraries](#third-party-libraries)
 - [Performance](#performance)
 - [Animations](#animations)
 - [SVG & React](#svg--react)
