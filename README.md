@@ -5,7 +5,8 @@ This guide aims to pull together quality content about React core concepts into 
 Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
 ### Other Languages
-[🇪🇸 Español](https://github.com/xDae/react-faq)
+[🇪🇸 Español](https://github.com/xDae/react-faq)  
+[🇨🇳 简体中文](https://github.com/justjavac/react-faq)
 
 ## Contents
 
