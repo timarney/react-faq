@@ -526,7 +526,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 * [You don’t need Redux if your data never changes. The whole point of it is managing changes.](https://twitter.com/dan_abramov/status/737036433215610880) Dan Abramov @dan_abramov
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.kgnqdp8p6) Dan Abramov @dan_abramov
 * [Redux or MobX: An attempt to dissolve the Confusion](http://www.robinwieruch.de/redux-mobx-confusion/) Robin Wieruch @rwieruch
-A
+
 **How to scale React-Redux apps?**
 
 * [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) Max Stoiber @mxstbr
@@ -541,6 +541,8 @@ A
 * [Migrating Safely to React](https://www.youtube.com/watch?v=sXDZBxbRRag&list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU&index=1) Jamis Charles
 
 #CSS and React
+
+* Watch this 🔥 💯 [Styling React.JS applications](https://www.youtube.com/watch?v=19gqsBc_Cx0) Max Stoiber @mxstbr
 
 **What about styling things in React?**
 
