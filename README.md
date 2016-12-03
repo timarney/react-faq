@@ -85,8 +85,16 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
 **How do I create a new React project?**
 
-* 💯 [create-react-app](https://github.com/facebookincubator/create-react-app)
-* [nwb](https://github.com/insin/nwb) if you need more control of the setup / config
+> That depends on what your looking for out of the box.  No config, config, server-rendered etc... here are a few to consider.  Of course you can setup from scratch as well (not covered here).
+
+* [create-react-app](https://github.com/facebookincubator/create-react-app) No configuration or complicated folder structures, just the files you need to build your app.
+* [nwb](https://github.com/insin/nwb) Create React apps with no configuration (until you need it)
+* [next.js](https://github.com/zeit/next.js) A minimalistic framework for universal server-rendered React applications
+* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
+* [create-react-pwa](https://github.com/jeffposnick/create-react-pwa create-react-app) + Progressive Web App goodness
+
+Also see these [projects](https://github.com/facebookincubator/create-react-app#alternatives)
+
 
 **Where can I find videos for using React Create App?**
 
