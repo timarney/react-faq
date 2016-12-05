@@ -90,6 +90,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 * [create-react-app](https://github.com/facebookincubator/create-react-app) No configuration or complicated folder structures, just the files you need to build your app.
 * [nwb](https://github.com/insin/nwb) Create React apps with no configuration (until you need it)
 * [next.js](https://github.com/zeit/next.js) A minimalistic framework for universal server-rendered React applications
+* [react-server](https://github.com/redfin/react-server) Batteries-included Server-rendered React applications. Note: also see [React 30 -> 002 - Streaming React](https://www.youtube.com/watch?v=XW_c60NCkI4)
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate) A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
 * [create-react-pwa](https://github.com/jeffposnick/create-react-pwa create-react-app) + Progressive Web App goodness
 * [gatsby](https://github.com/gatsbyjs/gatsby) Transform plain text into dynamic blogs and websites using React.js
