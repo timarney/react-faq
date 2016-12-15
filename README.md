@@ -653,7 +653,7 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 #React Fiber
 
 **Why, What, and How?**
-* [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://www.youtube.com/watch?v=crM1iRVGpGQ)
+* [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://youtu.be/crM1iRVGpGQ?list=PLV5CVI1eNcJi8sor_aQ2AzOeQ3On3suOr)
 
 **What is React Fiber?**
 
