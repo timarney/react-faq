@@ -179,6 +179,7 @@ https://twitter.com/acdlite/status/779693791607336960
 
 * [What makes an 'Element' an 'Element' vs a component?](https://twitter.com/timarney/status/790540834466701312) Tim Arney @timarney
 * [Understanding the Difference Between React Elements and Components](https://quickleft.com/blog/understanding-the-difference-between-react-elements-and-components) Alex Johnson
+* [React Elements vs React Components](https://tylermcginnis.com/react-elements-vs-react-components) Tyler McGinnis
 
 #Components
 > Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. - [React Docs](https://facebook.github.io/react/docs/components-and-props.html)
