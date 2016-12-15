@@ -445,6 +445,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 **What are some React Gotchas?**
 
 * [React Gotchas](https://daveceddia.com/react-gotchas) Dave Ceddia
+* [How to Render Components Outside the Main ReactJS App](https://blog.komand.com/how-to-render-components-outside-the-main-react-app)
 
 #PATENTS
 
