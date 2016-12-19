@@ -140,13 +140,14 @@ Also see these [projects](https://github.com/facebookincubator/create-react-app#
 
 **What does JSX really do for me?**
 
-[This is the sort of stuff JSX saves you from having to manage](https://gist.github.com/insin/8e72bed793772d82ca8d) Jonny Buchanan ‏@jbscript
+[This is the sort of stuff JSX saves you from having to manage](https://gist.github.com/insin/8e72bed793772d82ca8d) Jonny Buchanan @jbscript
 
 #The Virtual DOM
 
 >The Virtual DOM provides a lightweight implementation of the DOM and events system. Instead of dealing with the browser, you manipulate an in-memory version of the DOM.
 
 **What is the Virtual DOM?**
+* 💯  [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.q3jxayda5) @rajaraodv
 * [React's diff algorithm](http://calendar.perfplanet.com/2013/diff/) Christopher Chedeau @vjeux
 * [The one thing that no one properly explains about React — Why Virtual DOM](https://hashnode.com/post/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom-cisczhfj41bmssp53mvfwmgrq) Sai Kishore Komanduri @saiki
 * [Pete Hunt: The Secrets of React's Virtual DOM (FutureJS 2014)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
