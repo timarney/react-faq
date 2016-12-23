@@ -76,6 +76,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes) this is a slightly dated but still really good starter
 * [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) Eric W. Greene / Microsoft Virtual Academy
 * [Complete Intro to React - React, Webpack, Babel, Redux, React Router, SSR](https://btholt.github.io/complete-intro-to-react/) Brian Holt(@holtbt) for Frontend Masters worshop
+* [React "Aha" Moments](https://tylermcginnis.com/react-aha-moments) Tyler McGinnis @tylermcginnis33
 * [Books](#books)
 
 #History
