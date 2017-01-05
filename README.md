@@ -334,6 +334,10 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 
 * [How to decouple state and UI](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7l8ji1wer) Michel Weststrate @mweststrate
 
+
+**Coming from jQuery... how do I adjust my mental modal to work with React / State?**
+* [Thinking Statefully](https://daveceddia.com/thinking-statefully) Dave Ceddia @dceddia
+
 #Children API
 
 * [ReactCasts #3 - React's Children API](https://www.youtube.com/watch?v=DJ53-G8EbxE) Cassio Zen @cassiozen
