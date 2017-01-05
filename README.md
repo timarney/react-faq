@@ -338,6 +338,9 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 **Coming from jQuery... how do I adjust my mental modal to work with React / State?**
 * [Thinking Statefully](https://daveceddia.com/thinking-statefully) Dave Ceddia @dceddia
 
+**I heard you can pass a function to setState when should do that?**
+* [Using a function in `setState` instead of an object](https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1#.h3fokbh9a) Sophia Shoemaker
+
 #Children API
 
 * [ReactCasts #3 - React's Children API](https://www.youtube.com/watch?v=DJ53-G8EbxE) Cassio Zen @cassiozen
