@@ -77,6 +77,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 * [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) Eric W. Greene / Microsoft Virtual Academy
 * [Complete Intro to React - React, Webpack, Babel, Redux, React Router, SSR](https://btholt.github.io/complete-intro-to-react/) Brian Holt(@holtbt) for Frontend Masters worshop
 * [React "Aha" Moments](https://tylermcginnis.com/react-aha-moments) Tyler McGinnis @tylermcginnis33
+* [The 5 Things You Need To Know To Understand React](https://medium.com/@sachagreif/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.uii8of7um) Sacha Greif
 * [Books](#books)
 
 #History
