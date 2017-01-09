@@ -8,7 +8,27 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 [🇪🇸 Español](https://github.com/xDae/react-faq)  
 [🇨🇳 简体中文](https://github.com/justjavac/react-faq)
 
-## Contents
+#Start
+>There's lots to learn but if you break it down there are some key concepts to focus on. JSX, React elements, Components, Lifecycle Methods, Props and State.  These articles will start you on you path :) .
+
+**I don't know React what should I watch / read before I start?**
+* [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
+* 🔥 [Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87#.q8cyvryw1) Eric Clemmons @ericclemmons
+* 🔥 [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react)  @kjendrzyca
+* [The 5 Things You Need To Know To Understand React](https://medium.com/@sachagreif/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.uii8of7um) Sacha Greif
+
+**Official React Docs are a great resource**
+* [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)
+
+**Additional information to start with**
+* [Pete Hunt: React: Rethinking best practices (JSConf EU 2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+* [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes) this is a slightly dated but still really good starter
+* [Complete Intro to React - React, Webpack, Babel, Redux, React Router, SSR](https://btholt.github.io/complete-intro-to-react/) Brian Holt(@holtbt) for Frontend Masters worshop
+* [React "Aha" Moments](https://tylermcginnis.com/react-aha-moments) Tyler McGinnis @tylermcginnis33
+* [All the terrible things I did the first time I wrote a complex React App ](https://youtu.be/Fk--XUEorvc?t=20666) Raquel @raquelxmoss
+* [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) Eric W. Greene / Microsoft Virtual Academy
+
+## Resources
 
 - [Start](#start)
 - [History](#history)
@@ -64,21 +84,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Tools](#tools)
 - [Server-Side Rendering](#server-side-rendering)
 
-
-#Start
-
-**I don't know React what should I watch / read before I start?**
-* [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)
-* [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
-* [Pete Hunt: React: Rethinking best practices (JSConf EU 2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-* 🔥 [All the terrible things I did the first time I wrote a complex React App ](https://youtu.be/Fk--XUEorvc?t=20666) Raquel @raquelxmoss
-* [Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87#.q8cyvryw1) Eric Clemmons @ericclemmons
-* [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes) this is a slightly dated but still really good starter
-* [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) Eric W. Greene / Microsoft Virtual Academy
-* [Complete Intro to React - React, Webpack, Babel, Redux, React Router, SSR](https://btholt.github.io/complete-intro-to-react/) Brian Holt(@holtbt) for Frontend Masters worshop
-* [React "Aha" Moments](https://tylermcginnis.com/react-aha-moments) Tyler McGinnis @tylermcginnis33
-* [The 5 Things You Need To Know To Understand React](https://medium.com/@sachagreif/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.uii8of7um) Sacha Greif
-* [Books](#books)
 
 #History
 * [JSConfUS 2013 - Tom Occhino and Jordan Walke: JS Apps at Facebook](https://www.youtube.com/watch?v=GW0rj4sNH2w&index=10&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx) The one where React became #OSS
