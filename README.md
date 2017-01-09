@@ -30,7 +30,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
 ## Resources
 
-- [Start](#start)
 - [History](#history)
 - [Creating a React Project](#creating-a-react-project)
 - [Why use React?](#why-use-react)
