@@ -9,7 +9,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 [🇨🇳 简体中文](https://github.com/justjavac/react-faq)
 
 #Start
->There's lots to learn but if you break it down there are some key concepts to focus on. JSX, React elements, Components, Lifecycle Methods, Props and State.  These articles will start you on you path :) .
+>There's lots to learn but if you break it down there are some key concepts to focus on. JSX, React elements, Components, Lifecycle Methods, Props and State.  These articles will start you down the path to learning React.
 
 **I don't know React what should I watch / read before I start?**
 * [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
