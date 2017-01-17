@@ -73,7 +73,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Universal React](#universal-react)
 - [Deep Dive](#deep-dive)
 - [React Fiber](#react-fiber)
-- [Video Courses](#video-courses)
+- [Video Courses](#videos--courses)
 - [A11Y](#a11y)
 - [Talks](#talks)
 - [Training](#training)
