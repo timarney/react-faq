@@ -67,7 +67,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Adding React to an existing app](#adding-react-to-an-existing-app)
 - [CSS and React](#css-and-react)
 - [Testing](#testing)
-- [Conference Videos](#conference-videos)
 - [Contributing to React JS](#contributing-to-react-js)
 - [Core Notes](#core-notes)
 - [Universal React](#universal-react)
@@ -637,7 +636,6 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 **How can I style/build a component that's very reusable customizable?**
 * [Reusable React Component with Overridable Inline CSS Styles](http://staxmanade.com/2016/06/reusable-react-component-with-overridable-inline-css-styles/)
 
-
 #Testing
 * [Testing React Applications with Max Stoiber](https://www.youtube.com/watch?v=59Ndb3YkLKA) Max Stoiber @mxstbr
 * [Testing React Applications w/Jack Franklin](https://www.youtube.com/watch?v=eWN8F_WOBAQ) Jack Franklin
@@ -645,11 +643,6 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 * [Worthwhile Testing: What to test in a React app (and why)](https://daveceddia.com/what-to-test-in-react-app)  Dave Ceddia @dceddia
 * [Getting Started with TDD in React](https://daveceddia.com/getting-started-with-tdd-in-react)  Dave Ceddia @dceddia
 * [Set up a testing environment with React + enzyme + Mocha](http://blog.ricardofilipe.com/post/react-enzyme-tdd-tutorial) – Ricardo Magalhães
-
-#Conference Videos
-* [React.js Conf 2016](https://www.youtube.com/watch?v=MGuKhcnrqGA&list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
-* [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
-* [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 
 #Contributing to React JS
 
@@ -702,6 +695,8 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 * https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
 * https://www.udemy.com/react-redux
 * https://www.awesomereact.com
+
+Also see [Conference Videos](https://www.awesomereact.com/conferences)
 
 #A11Y
 
