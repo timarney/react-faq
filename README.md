@@ -689,10 +689,9 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 **How can I contribute to Fiber?**
 * [Fiber Principles: Contributing To Fiber](https://github.com/facebook/react/issues/7942)
 
-#Video Courses
+#Videos & Courses
 
-**What are some good video resources/courses to learn React?**
-
+**What are some good video resources / courses to learn React?**
 * https://egghead.io/courses/react-fundamentals FREE (+ paid for others)
 * https://reactforbeginners.com
 * https://app.pluralsight.com/courses/react-redux-react-router-es6
@@ -701,7 +700,8 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 * http://courses.reactjsprogram.com/courses/reactjsprogrambundle
 * https://LearnRedux.com
 * https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
-* https://www.udemy.com/react-redux/
+* https://www.udemy.com/react-redux
+* https://www.awesomereact.com
 
 #A11Y
 
