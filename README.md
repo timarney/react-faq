@@ -654,6 +654,7 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 
 **Where can I find out what's going on with React / Upcoming versions?**
 * [core-notes](https://github.com/reactjs/core-notes/)
+* [React 15.5 and React 16 roadmap](https://github.com/facebook/react/issues/8854)
 
 #Universal React
 
