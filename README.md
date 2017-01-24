@@ -469,7 +469,7 @@ Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http:
 
 * [React Gotchas](https://daveceddia.com/react-gotchas) Dave Ceddia @dceddia 
 * [How to Render Components Outside the Main ReactJS App](https://blog.komand.com/how-to-render-components-outside-the-main-react-app)
-* [Watch Out for Undefined State](https://daveceddia.com/watch-out-for-undefined-state Dave) Ceddia @dceddia 
+* [Watch Out for Undefined State](https://daveceddia.com/watch-out-for-undefined-state) Dave Ceddia @dceddia 
 
 #PATENTS
 
