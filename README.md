@@ -78,7 +78,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Newsletters](#newsletters)
 - [Interview Questions](#interview-questions)
 - [Tools](#tools)
-- [Server-Side Rendering](#server-side-rendering)
+- [Server-Side Rendering](server-side-rendering.md)
 
 
 #History
@@ -785,9 +785,3 @@ Also see [Conference Videos](https://www.awesomereact.com/conferences)
 * [React Developer Tools](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) - Puts your console on blast when React is making unnecessary updates.
 * [Performance Tools](https://facebook.github.io/react/docs/perf.html)
-
-#Server-Side Rendering
-
-**Do I need to Server-Side Render?**
-* [Should I use React Server-Side Rendering?](http://andrewhfarmer.com/server-side-render/)
-* [React on the Server for Beginners](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app) Luciano Mammino @loige
