@@ -73,7 +73,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Video Courses](#videos--courses)
 - [A11Y](#a11y)
 - [Talks](#talks)
-- [Training](#training)
+- [Training](training.md)
 - [Books](books.md)
 - [Newsletters](newsletters.md)
 - [Interview Questions](interview-questions.md)
@@ -730,19 +730,3 @@ Also see [Conference Videos](https://www.awesomereact.com/conferences)
 #Talks
 * [React to the Future - Slide Deck](http://elijahmanor.com/talks/react-to-the-future/dist) Elijah Manor @elijahmanor
 * [React Things - PDF Slides](https://react.rocks/blog/images/React_Intro_sept_2016.pdf) Jeff Winkler @winkler1
-
-#Training
-
-**Where can I get React training?**
-<hr>
-
-*Micheal Jackson* @mjackson & *Ryan Florence* @ryanflorence
-
-* https://reactjs-training.com
-
-<hr>
-*Brian Holt* @holtbt
-
-* https://btholt.github.io/es6-react-pres
-* https://btholt.github.io/complete-intro-to-react
-* https://github.com/btholt/react-redux-workshop
