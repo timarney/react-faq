@@ -75,7 +75,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Talks](#talks)
 - [Training](#training)
 - [Books](#books)
-- [Newsletters](#newsletters)
+- [Newsletters](newsletters.md)
 - [Interview Questions](interview-questions.md)
 - [Tools](tools.md)
 - [Server-Side Rendering](server-side-rendering.md)
@@ -755,13 +755,3 @@ Also see [Conference Videos](https://www.awesomereact.com/conferences)
 * [Build your first real world React.js application](http://academy.plot.ly/#react) Max Stoiber @mxstbr
 * [SurviveJS React](http://survivejs.com/react/introduction)
 * [Fullstack React](https://www.fullstackreact.com)
-
-#Newsletters
-
-**Where can I find React specific newsletters?**
-
-* [React.js Newsletter](http://reactjsnewsletter.com)
-* [React Status](http://react.statuscode.com)
-* [Fullstack React](http://newsletter.fullstackreact.com)
-* [This Week In React](https://thisweekinreact.com)
-* [React Digest](http://reactdigest.net)
