@@ -233,13 +233,16 @@ class Welcome extends React.Component {
   }
 }
 ```
-
 Components can be used (composed) in many ways see the following links for patterns and thoughts on creating Components.
 
 **How do I decide what type of Component to use?**
 
 >This comes down to a few factors... a primary one being you need to decide what a component should do.  
 See: [Some Thoughts on Function Components in React](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7#.2oazdyli1) from A. Sharif @sharifsbeat for some help deciding.
+
+<hr>
+
+> In this video [React Component Patterns by Michael Chan](https://www.youtube.com/watch?v=YaZg8wg39QQ) @chantastic breaks down some of the component types in a less technical way (using circles).
 
 Also:
 
