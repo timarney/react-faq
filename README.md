@@ -72,7 +72,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [React Fiber](#react-fiber)
 - [Video Courses](#videos--courses)
 - [A11Y](#a11y)
-- [Talks](#talks)
+- [Talks](talks.md)
 - [Training](training.md)
 - [Books](books.md)
 - [Newsletters](newsletters.md)
@@ -726,7 +726,3 @@ Also see [Conference Videos](https://www.awesomereact.com/conferences)
 **How do I handle A11y in React**
 * [Excerpt from React.js Conf 2015 - Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631) Ryan Florence
 * [Bringing the Web Back to the Blind by Ryan Florence ](https://www.youtube.com/watch?v=YuzS-g6Qvq8) *Note:* not specific to React
-
-#Talks
-* [React to the Future - Slide Deck](http://elijahmanor.com/talks/react-to-the-future/dist) Elijah Manor @elijahmanor
-* [React Things - PDF Slides](https://react.rocks/blog/images/React_Intro_sept_2016.pdf) Jeff Winkler @winkler1
