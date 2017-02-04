@@ -70,7 +70,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Core Notes](#core-notes)
 - [Deep Dive](#deep-dive)
 - [React Fiber](#react-fiber)
-- [Video Courses](videos--courses.md)
+- [Video Courses](videos-courses.md)
 - [A11Y](a11y.md)
 - [Talks](talks.md)
 - [Training](training.md)
