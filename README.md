@@ -722,6 +722,7 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 * https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
 * https://www.udemy.com/react-redux
 * https://www.awesomereact.com
+* https://learnreact.com FREE (for now)
 
 Also see [Conference Videos](https://www.awesomereact.com/conferences)
 
