@@ -56,7 +56,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Patterns](#patterns)
 - [Gotchas](#gotchas)
 - [PATENTS](#patents)
-- [Mixins](#mixins)
 - [Internationalization](#internationalization)
 - [Third Party Libraries](#third-party-libraries)
 - [Performance](#performance)
@@ -69,7 +68,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Testing](#testing)
 - [Contributing to React JS](#contributing-to-react-js)
 - [Core Notes](#core-notes)
-- [Universal React](#universal-react)
 - [Deep Dive](#deep-dive)
 - [React Fiber](#react-fiber)
 - [Video Courses](#videos--courses)
@@ -287,6 +285,20 @@ Also:
 * [React Components Catalog](https://github.com/brillout/awesome-react-components)
 * [React Rocks](https://react.rocks)
 
+#Controlled Components
+
+**What is a controlled component?**
+
+Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components)
+
+>A controlled component has two aspects:
+
+1. Controlled components have functions to govern the data going into them on every onChange event, rather than grabbing the data only once, e.g. when a user clicks a submit button. This 'governed' data is then saved to state (in this case, the parent/container component's state).
+
+2. Data displayed by a controlled component is received through props passed down from it's parent/container component.
+
+> This is a one-way loop – from (1) child component input (2) to parent component state and (3) back down to the child component via props – is what is meant by unidirectional data flow in React.js application architecture.
+
 #Props
 
 **What are props?**
@@ -438,20 +450,6 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 * [react-validation](https://github.com/vacuumlabs/react-validation)
 
 
-#Controlled Components
-
-**What is a controlled component?**
-
-Via Loren Stewart @lorenstewart111 [React.js Forms: Controlled Components](http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components)
-
->A controlled component has two aspects:
-
-1. Controlled components have functions to govern the data going into them on every onChange event, rather than grabbing the data only once, e.g. when a user clicks a submit button. This 'governed' data is then saved to state (in this case, the parent/container component's state).
-
-2. Data displayed by a controlled component is received through props passed down from it's parent/container component.
-
-> This is a one-way loop – from (1) child component input (2) to parent component state and (3) back down to the child component via props – is what is meant by unidirectional data flow in React.js application architecture.
-
 #React Ajax
 
 **What is the best practice for getting server data into React components?**
@@ -502,12 +500,6 @@ More info and Sublime Text snippet here: http://wesbos.com/react-jsx-comments @w
 
 * [Some links to point people to when they misinterpret PATENTS clause or spread false claims](https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc) Dan Abramov @dan_abramov
 * [React’s license: necessary and open?](http://lu.is/blog/2016/10/31/reacts-license-necessary-and-open) Luis Villa @luis_in_140
-
-#Mixins
-
-**Why are Mixins Considered Harmful?**
-
-* [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html) Dan Abramov @dan_abramov
 
 #Internationalization
 
@@ -682,9 +674,6 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 * [core-notes](https://github.com/reactjs/core-notes/)
 * [React 15.5 and React 16 roadmap](https://github.com/facebook/react/issues/8854)
 
-#Universal React
-
-* [React on the Server for Beginners](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app) Luciano Mammino @loige
 
 #Deep Dive
 * [Implementation Notes - How React Really Works](https://facebook.github.io/react/contributing/implementation-notes.html) Dan Abramov @dan_abramov
@@ -801,3 +790,4 @@ Also see [Conference Videos](https://www.awesomereact.com/conferences)
 
 **Do I need to Server-Side Render?**
 * [Should I use React Server-Side Rendering?](http://andrewhfarmer.com/server-side-render/)
+* [React on the Server for Beginners](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app) Luciano Mammino @loige
