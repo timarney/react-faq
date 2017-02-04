@@ -74,7 +74,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [A11Y](#a11y)
 - [Talks](#talks)
 - [Training](#training)
-- [Books](#books)
+- [Books](books.md)
 - [Newsletters](newsletters.md)
 - [Interview Questions](interview-questions.md)
 - [Tools](tools.md)
@@ -746,12 +746,3 @@ Also see [Conference Videos](https://www.awesomereact.com/conferences)
 * https://btholt.github.io/es6-react-pres
 * https://btholt.github.io/complete-intro-to-react
 * https://github.com/btholt/react-redux-workshop
-
-#Books
-
-**Where can I find some good books about React?**
-
-* [React Enlightenment ](http://www.reactenlightenment.com) Cody Lindley @codylindley
-* [Build your first real world React.js application](http://academy.plot.ly/#react) Max Stoiber @mxstbr
-* [SurviveJS React](http://survivejs.com/react/introduction)
-* [Fullstack React](https://www.fullstackreact.com)
