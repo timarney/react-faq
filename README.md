@@ -68,8 +68,8 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Testing](#testing)
 - [Contributing to React JS](#contributing-to-react-js)
 - [Core Notes](#core-notes)
-- [Deep Dive](#deep-dive)
-- [React Fiber](#react-fiber)
+- [Deep Dive](deep-dive.md)
+- [React Fiber](react-fiber.md)
 - [Video Courses](videos-courses.md)
 - [A11Y](a11y.md)
 - [Talks](talks.md)
@@ -675,9 +675,4 @@ Note: Also see - [Styled components or Glamor?](https://www.reddit.com/r/reactjs
 * [React 15.5 and React 16 roadmap](https://github.com/facebook/react/issues/8854)
 
 
-#Deep Dive
-* [Implementation Notes - How React Really Works](https://facebook.github.io/react/contributing/implementation-notes.html) Dan Abramov @dan_abramov
-* [Building React From Scratch](https://www.youtube.com/watch?v=_MAD4Oly9yg) Paul O'Shannessy @zpao
-* [React Architecture – OSCON](http://blog.vjeux.com/2014/javascript/react-architecture-oscon.html) Christopher Chedeau @vjeux
-* [ReactJS: Under The Hood](https://www.youtube.com/watch?v=xsKYAa1ZXpQ) Boris Dinkevich @BorisDinkevich
-* [REACT INTERNALS](https://zackargyle.github.io/react-internals-slides/#/?_k=7f19z9) Zack Argyle @ZackArgyle
+
