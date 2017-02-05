@@ -66,8 +66,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Adding React to an existing app](#adding-react-to-an-existing-app)
 - [CSS and React](css.md)
 - [Testing](testing.md)
-- [Contributing to React JS](#contributing-to-react-js)
-- [Core Notes](#core-notes)
 - [Deep Dive](deep-dive.md)
 - [React Fiber](react-fiber.md)
 - [Video Courses](videos-courses.md)
@@ -592,18 +590,6 @@ More info and Sublime Text snippet here: http://wesbos.com/react-jsx-comments @w
 * [How to Sprinkle ReactJS into an Existing Web Application](https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application) Andrew Del Prete @andrewdelprete
 * [Don't Rewrite, React!](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) Ryan Florence
 * [Migrating Safely to React](https://www.youtube.com/watch?v=sXDZBxbRRag&list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU&index=1) Jamis Charles
-
-#Contributing to React JS
-
-**Where can I learn about Contributing to React JS?**
-
-* [Contributing to React JS](https://www.youtube.com/watch?v=wUpPsEcGsg8) Kent C. Dodds
-
-#Core Notes
-
-**Where can I find out what's going on with React / Upcoming versions?**
-* [core-notes](https://github.com/reactjs/core-notes/)
-* [React 15.5 and React 16 roadmap](https://github.com/facebook/react/issues/8854)
 
 
 
