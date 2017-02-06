@@ -362,6 +362,7 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 #Children API
 
 * [ReactCasts #3 - React's Children API](https://www.youtube.com/watch?v=DJ53-G8EbxE) Cassio Zen @cassiozen
+* [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive) Max Stoiber @mxstbr
 
 #Binding
 >The JavaScript bind method has several uses. Typically, it is used to preserve execution context for a function that executes in another context.
