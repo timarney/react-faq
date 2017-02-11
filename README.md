@@ -199,6 +199,8 @@ https://twitter.com/acdlite/status/779693791607336960
 
 See :  https://twitter.com/mxstbr/status/790084862954864640 Max Stoiber @mxstbr
 
+*Also some best practices here:* [Our Best Practices for Writing React Components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8?imm_mid=0ed2ce&cmp=em-web-na-na-newsltr_20170208#.emb0wf1tl) @ MuseFind
+
 #Lifecycle Methods
 
 >Components have several "lifecycle methods" that allow you to override / run code at particular times.
