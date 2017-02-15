@@ -12,7 +12,8 @@
 class App extends React.Component {
   state = {clicks: 6}
 
-  handleClick = () => {
+  handleClick = (e) => {
+    console.log(e.target.dataset.id)
     this.setState(prevState => {
       return {clicks: prevState.clicks + 1}
     })
@@ -24,7 +25,7 @@ class App extends React.Component {
         <div>
           Click Count: {this.state.clicks}
         </div>
-        <button
+        <button data-id={1}
           onClick={this.handleClick}
         >
           Click Me!
@@ -34,10 +35,7 @@ class App extends React.Component {
   }
 }
 
-
 ```
-
-
 
 **What should you use for binding methods in React classes?**
 * [To bind or not to bind?](https://twitter.com/dan_abramov/status/790612782471319553) Dan Abramov @dan_abramov
