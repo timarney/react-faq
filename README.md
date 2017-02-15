@@ -5,7 +5,7 @@ This guide aims to pull together quality content about React core concepts into 
 Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
 ### Other Languages
-[🇪🇸 Español](https://github.com/xDae/react-faq)  
+[🇪🇸 Español](https://github.com/xDae/react-faq)
 [🇨🇳 简体中文](https://github.com/justjavac/react-faq)
 
 #Start
@@ -30,12 +30,12 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
 ## Resources
 
-- [History](#history)
-- [Creating a React Project](#creating-a-react-project)
-- [Why use React?](#why-use-react)
-- [JSX](#jsx)
-- [The Virtual DOM](#the-virtual-dom)
-- [React elements](#react-elements)
+- [History](history.md)
+- [Creating a React Project](creating-a-react-project.md)
+- [Why use React?](why-use-react.md)
+- [JSX](jsx.md)
+- [The Virtual DOM](the-virtual-dom.md)
+- [React elements](react-elements.md)
 - [Components](#components)
   - [Lifecycle Methods](#lifecycle-methods)
   - [Component Types](#component-types)
@@ -49,21 +49,21 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
   - [Events](#events)
   - [Rendering](#rendering)
   - [Keys](#keys)
-  - [Refs](#refs)
-- [Context](#context)
-- [Forms](#forms)
-- [React Ajax](#react-ajax)
-- [Patterns](#patterns)
-- [Gotchas](#gotchas)
-- [PATENTS](#patents)
-- [Internationalization](#internationalization)
-- [Third Party Libraries](#third-party-libraries)
-- [Performance](#performance)
+  - [Refs](refs.md)
+- [Context](context.md)
+- [Forms](forms.md)
+- [React Ajax](react-ajax.md)
+- [Patterns](patterns.md)
+- [Gotchas](gotchas.md)
+- [PATENTS](patents.md)
+- [Internationalization](internationalization.md)
+- [Third Party Libraries](third-party-libraries.md)
+- [Performance](performance.md)
 - [Animations](animations.md)
-- [SVG & React](#svg--react)
-- [React Style Guides](#react-style-guides)
-- [Redux and Mobx](#redux-and-mobx)
-- [Adding React to an existing app](#adding-react-to-an-existing-app)
+- [SVG & React](svg-react.md)
+- [React Style Guides](style-guides.md)
+- [Redux and Mobx](redux-mobx.md)
+- [Adding React to an existing app](add-to-existing-app.md)
 - [CSS and React](css.md)
 - [Testing](testing.md)
 - [Deep Dive](deep-dive.md)
@@ -78,110 +78,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Tools](tools.md)
 - [Server-Side Rendering](server-side-rendering.md)
 
-
-#History
-* [JSConfUS 2013 - Tom Occhino and Jordan Walke: JS Apps at Facebook](https://www.youtube.com/watch?v=GW0rj4sNH2w&index=10&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx) The one where React became #OSS
-* [Our First 50,000 Stars](https://facebook.github.io/react/blog/2016/09/28/our-first-50000-stars.html) Vjeux @vjeux
-
-#Creating a React Project
-
-**How do I create a new React project?**
-
-> That depends on what your looking for out of the box.  No config, config, server-rendered etc... here are a few to consider.  Of course you can setup from scratch as well (not covered here).
-
-* [create-react-app](https://github.com/facebookincubator/create-react-app) No configuration or complicated folder structures, just the files you need to build your app.
-* [nwb](https://github.com/insin/nwb) Create React apps with no configuration (until you need it)
-* [next.js](https://github.com/zeit/next.js) A minimalistic framework for universal server-rendered React applications
-* [react-server](https://github.com/redfin/react-server) Batteries-included Server-rendered React applications. Note: also see [React 30 -> 002 - Streaming React](https://www.youtube.com/watch?v=XW_c60NCkI4)
-* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
-* [create-react-pwa](https://github.com/jeffposnick/create-react-pwa create-react-app) + Progressive Web App goodness
-* [gatsby](https://github.com/gatsbyjs/gatsby) Transform plain text into dynamic blogs and websites using React.js
-
-Also see these [projects](https://github.com/facebookincubator/create-react-app#alternatives)
-
-
-**Where can I find videos for using React Create App?**
-
-[React Create App + Express](https://www.youtube.com/watch?v=gbVhmaW04bc&feature=youtu.be) @sprjrx @ladyleet
-
-
-**Can I play around with React Online?**
-
-* [extends React.Component style](http://codepen.io/Arney/pen/OXYqWb)
-* [React.createClass style](http://codepen.io/Arney/pen/QERoaQ)
-* [React JSBin](http://react.jsbin.com/?html,css,js,output)
-* [WebpackBin](http://www.webpackbin.com/EkscblgMM)
-
-#Why use React?
-
->
-* Composable components
-* Easy to use with existing projects
-* Declarative
-* Functional / Immutable friendly
-
-
-**Is it fast?**
-* [Is React.js fast? Faster than {framework}? … or are there more relevant questions to be asking?](https://medium.com/react-weekly/is-react-js-fast-faster-than-framework-or-are-there-more-relevant-questions-to-be-asking-bcf40211f89b#.ll2aubhbi) Jeff Barczewski @jeffbski
-
-**What so good about React?**
-
-* [7 Strengths of React Every Programmer Should Know About](https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-about) Samuel Hapák @samuha
-* [Design Principles](https://facebook.github.io/react/contributing/design-principles.html)
-
-#JSX
-**What's JSX?**
-
->JSX is a preprocessor step that adds XML syntax to JavaScript. You can definitely use React without JSX but JSX makes React a lot more elegant. - http://buildwithreact.com
-
-* [Tutorial: JSX](http://buildwithreact.com/tutorial/jsx)
-* [JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
-* [React’s JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98#.i5rmd9h07) Cory House @housecor
-* [What does JSX stand for?](https://twitter.com/tomocchino/status/769931611303321601) Tom Occhino @tomocchino
-
-**What does JSX really do for me?**
-
-[This is the sort of stuff JSX saves you from having to manage](https://gist.github.com/insin/8e72bed793772d82ca8d) Jonny Buchanan @jbscript
-
-#The Virtual DOM
-
->The Virtual DOM provides a lightweight implementation of the DOM and events system. Instead of dealing with the browser, you manipulate an in-memory version of the DOM.
-
-**What is the Virtual DOM?**
-* 💯  [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.q3jxayda5) @rajaraodv
-* [React's diff algorithm](http://calendar.perfplanet.com/2013/diff/) Christopher Chedeau @vjeux
-* [The one thing that no one properly explains about React — Why Virtual DOM](https://hashnode.com/post/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom-cisczhfj41bmssp53mvfwmgrq) Sai Kishore Komanduri @saiki
-* [Pete Hunt: The Secrets of React's Virtual DOM (FutureJS 2014)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
-
-**Is the Virtual DOM all about speed?**
-
-*No*
-
-See :
-
-https://twitter.com/dan_abramov/status/790326092582252544
-https://twitter.com/acdlite/status/779693791607336960
-
-> I wonder if we can reclaim the VDOM term to mean "Value DOM", as in Value Type, instead of "Virtual DOM"...? More accurate. **@sebmarkbage**
-<hr>
-> It doesn't improve perf over hand written DOM code but it's hard to write on scale. React scales well. **@dan_abramov**
-<hr>
-> React ultimately has to call browser APIs at some point, it can't possibly be faster than writing the same exact calls by hand **@dan_abramov**
-<hr>
->React will not do anything that you cannot. By definition everything it does can be reproduced (and some people have with other libraries/frameworks that follow similar conventions). The point is not that React does something that you can't, but rather that by introducing React to your application you are relieved of having to worry about manually handling your DOM, manually determining how to update it efficiently, minimizing traversals, etc. - [Sean Grogg](https://www.quora.com/Is-ReactJS-faster-than-direct-DOM-manipulation-with-JavaScript-or-jQuery)
-
-**Key Takeaway:**
-
-> React keeps your product reasonably fast without you having to think about it all the time, or to jump through the hoops **@dan_abramov**
-
-#React elements
-> Elements are the smallest building blocks of React apps.
-> Elements are what components are "made of ..."
-— [React Docs](https://facebook.github.io/react/docs/rendering-elements.html)
-
-* [What makes an 'Element' an 'Element' vs a component?](https://twitter.com/timarney/status/790540834466701312) Tim Arney @timarney
-* [Understanding the Difference Between React Elements and Components](https://quickleft.com/blog/understanding-the-difference-between-react-elements-and-components) Alex Johnson
-* [React Elements vs React Components](https://tylermcginnis.com/react-elements-vs-react-components) Tyler McGinnis
 
 #Components
 > Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. - [React Docs](https://facebook.github.io/react/docs/components-and-props.html)
@@ -208,7 +104,7 @@ See :  https://twitter.com/mxstbr/status/790084862954864640 Max Stoiber @mxstbr
 **What are Lifecycle Methods?**
 
 * [React components lifecycle diagram](http://codepen.io/eduardoboucas/full/jqWbdb) Eduardo Bouças @eduardoboucas
-* [React lifecycle cheatsheet](https://gist.github.com/bvaughn/923dffb2cd9504ee440791fade8db5f9) @brian_d_vaughn 
+* [React lifecycle cheatsheet](https://gist.github.com/bvaughn/923dffb2cd9504ee440791fade8db5f9) @brian_d_vaughn
 * [Going further with React lifecycle methods](https://medium.com/@notrab/going-further-with-react-lifecycle-methods-2ffdc5bdf52c#.bu0ufrosb) Jamie Barton
 * [Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
 * [My #reactjs component lifecycle cheatsheet for quick reference](https://twitter.com/pbesh/status/738008776805060608) Peter Beshai @pbesh
@@ -235,7 +131,7 @@ Components can be used (composed) in many ways see the following links for patte
 
 **How do I decide what type of Component to use?**
 
->This comes down to a few factors... a primary one being you need to decide what a component should do.  
+>This comes down to a few factors... a primary one being you need to decide what a component should do.
 See: [Some Thoughts on Function Components in React](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7#.2oazdyli1) from A. Sharif @sharifsbeat for some help deciding.
 
 <hr>
@@ -420,154 +316,6 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 **What are some examples where I should manually change a key?**
 
 * [The key is using key](https://twitter.com/timarney/status/730785238654287873) Tim Arney @timarney
-
-#Refs
->The ref attribute makes it possible to store a reference to a particular React element or component returned by the component render() configuration function. This can be valuable when you need a reference, from within a component, to some element or component contained within the render() function. - reactenlightenment.com
-
-**What are refs and are string refs are bad?**
-
-* [Refs to Components](https://facebook.github.io/react/docs/more-about-refs.html)
-* [Why do you use findDOMNode()?](https://twitter.com/dan_abramov/status/752936646602031104) Dan Abramov @dan_abramov
-* [String refs are bad in quite a few ways](https://news.ycombinator.com/edit?id=12093234) Dan Abramov @dan_abramov
-
-#Context
-⚠️ Context is an **advanced and experimental** feature. The API is likely to change in future releases. The rumours of its existence are true but be careful!
-
-* [ReactCasts #4 - Context (Part 1)](https://www.youtube.com/watch?v=lxq938kqIss&t=1s) Cassio Zen @cassiozen
-* [ReactCasts #5 - Context (Part 2)](https://www.youtube.com/watch?v=mwYHDXS6uSc&feature=youtu.be) Cassio Zen @cassiozen
-* [How to handle React context in a reliable way](https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwgxxy0d) Osmel Mora @osmel_mora
-* [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.m6v9tsgub) Michel Weststrate @mweststrate
-* [Context all the things with React](https://www.youtube.com/watch?v=k9AhBMwj1w4) Stephen Rivas Jr. (@sprjrx)
-
-#Forms
-
-**How can I build forms with React?**
-
-* [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms) James K Nelson @james_k_nelson
-
-**How can I validate form input?**
-* [Elegant Form Validation Using React](https://spin.atomicobject.com/2016/10/05/form-validation-react) Jordan Schaenzle
-* [Building validated forms with great UX in React](https://youtu.be/1Urj4TZ5BLI?t=2437) Marcela Hrdá
-* [react-validation](https://github.com/vacuumlabs/react-validation)
-
-
-#React Ajax
-
-**What is the best practice for getting server data into React components?**
->It depends! See: [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) Andrew H Farmer @ahfarmer
-
-* [Loading and Using External Data in React](http://mediatemple.net/blog/tips/loading-and-using-external-data-in-react) Chris Coyier @chriscoyier
-
-#Patterns
-
-* [React Patterns](http://reactpatterns.com) @chantastic
-* [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns) Krasimir Tsonev
-* [Patterns For Style Composition In React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react) Brent Jackson @jxnblk
-* [Make Your React Components Pretty](https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.ctwfvx379) Mark Brouch @markbrouch
-
-#Gotchas
-
-**What are some React Gotchas?**
-
-* [React Gotchas](https://daveceddia.com/react-gotchas) Dave Ceddia @dceddia 
-* [How to Render Components Outside the Main ReactJS App](https://blog.komand.com/how-to-render-components-outside-the-main-react-app)
-* [Watch Out for Undefined State](https://daveceddia.com/watch-out-for-undefined-state) Dave Ceddia @dceddia 
-
-**How do you add comments in JSX?**
-
-```
-render() {
-  return (
-    <div>
-      <!-- Fail -->
-    </div>
-  )
-}
-
-render() {
-  return (
-    <div>
-      {/* Works! */}
-    </div>
-  )
-}
-
-```
-More info and Sublime Text snippet here: http://wesbos.com/react-jsx-comments @wesbos
-
-#PATENTS
-
-**What's all this stuff I hear about Facebook PATENTS clause?**
-
-* [Some links to point people to when they misinterpret PATENTS clause or spread false claims](https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc) Dan Abramov @dan_abramov
-* [React’s license: necessary and open?](http://lu.is/blog/2016/10/31/reacts-license-necessary-and-open) Luis Villa @luis_in_140
-
-#Internationalization
-
-**How should I handle internationalization?**
-
-* [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.bcfxgycwv) Preethi Kasireddy
-
-**What repos should I checkout for internationalization?**
-* [react-intl](https://github.com/yahoo/react-intl)
-* [react-localize](https://github.com/sprjr/react-localize) @sprjrx
-
-#Third Party Libraries
-
-**How do I use third party libraries?**
-
-* [Integration with Third Party Libraries](https://www.youtube.com/watch?v=GWVjMHDKSfU&feature=youtu.be&a) Rally Coding
-
-#Performance
-
-**How can I make my app faster?**
-
-* [Component Rendering Performance in React](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.gvyat7vkb) Grgur Grisogono
-* [Don‘t use PureComponent everywhere. Measure](https://twitter.com/dan_abramov/status/759383530120110080) Dan Abramov @dan_abramov
-* [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.hewsz120q)
-* [Should I use shouldComponentUpdate?](http://jamesknelson.com/should-i-use-shouldcomponentupdate) James K Nelson @james_k_nelson
-* [Reconciliation](https://facebook.github.io/react/docs/reconciliation.html)
-* [Quick slides on #reactjs performance](http://presentations.survivejs.com/react-performance/#/?_k=ivqhoe) Juho Vepsäläinen @bebraw
-
-#SVG & React
-
-**How do I work with SVG's in React?**
-
-* [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.lmbz3v9ic)
-* [Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react) @sarah_edo
-
-#React Style Guides
-
-**Where can I find some good React  style guides?**
-
-* [Eventbrite React & JSX Coding Style Guide](https://github.com/eventbrite/javascript/tree/master/react)
-* [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-
-
-#Redux and Mobx
-
-**What's (Redux/Mobx)?**
-
-* [Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx)
-
-**Do I need to use (Redux/Mobx)?**
-
-* [You don’t need Redux if your data never changes. The whole point of it is managing changes.](https://twitter.com/dan_abramov/status/737036433215610880) Dan Abramov @dan_abramov
-* [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.kgnqdp8p6) Dan Abramov @dan_abramov
-* [Redux or MobX: An attempt to dissolve the Confusion](http://www.robinwieruch.de/redux-mobx-confusion/) Robin Wieruch @rwieruch
-
-**How to scale React-Redux apps?**
-
-* [About folder structure, styling, data fetching, etc.](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) Max Stoiber @mxstbr
-* [How to choose between Redux's store and React's state?](https://github.com/reactjs/redux/issues/1287)
-
-#Adding React to an existing app
-
-**How do I start adding React to an existing app?**
-
-* [How to Sprinkle ReactJS into an Existing Web Application](https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application) Andrew Del Prete @andrewdelprete
-* [Don't Rewrite, React!](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) Ryan Florence
-* [Migrating Safely to React](https://www.youtube.com/watch?v=sXDZBxbRRag&list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU&index=1) Jamis Charles
 
 
 
