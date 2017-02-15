@@ -56,7 +56,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 - [Context](pages/context.md)
 - [Forms](pages/forms.md)
 - [React Ajax](pages/react-ajax.md)
-- [Testing](pages/testing.md)
+- [Testing / Debug](pages/testing.md)
 - [Server-Side Rendering](pages/server-side-rendering.md)
 - [Gotchas](pages/gotchas.md)
 - [Internationalization](pages/internationalization.md)
