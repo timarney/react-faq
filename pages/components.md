@@ -36,6 +36,21 @@ ReactDOM.render(
   <NumberList numbers={numbers} />,
   document.getElementById('root')
 );
-````
+```
+
+Or embedded style
+```javascript
+function NumberList(props) {
+  const numbers = props.numbers;
+  return (
+    <ul>
+      {numbers.map((number) =>
+        <ListItem key={number.toString()}
+                  value={number} />
+      )}
+    </ul>
+  );
+}
+```
 
 See: [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
