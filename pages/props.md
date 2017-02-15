@@ -29,3 +29,17 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 
 **How do I validate props?**
 * [Better Prop Validation in React](https://medium.com/@MoeSattler/better-prop-validation-in-react-cc83590d311f#.wdhbsrlgj) Moe Sattler @travelperk
+
+#Destructuring Props and defaultProps
+```
+function ExpandableForm({ onExpand, expanded = false, children }) {
+  return (
+    <form style={ expanded ? { height: 'auto' } : { height: 0 } }>
+      {children}
+      <button onClick={onExpand}>Expand</button>
+    </form>
+  )
+}
+```
+
+More info: [Our Best Practices for Writing React Components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8?imm_mid=0ed2ce&cmp=em-web-na-na-newsltr_20170208#.69iorc683)
