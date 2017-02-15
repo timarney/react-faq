@@ -5,6 +5,38 @@
 **How do I bind events (i.e. onClick) in React?**
 > There are several ways to bind things in React [this video](https://egghead.io/lessons/javascript-public-class-fields-with-react-components?pl=javascript-from-kent-ff87bbdb) via Kent C. Dodds + @eggheadio covers multiple ways to bind events showing the benefits and drawbacks for each.
 
+**⭐ React FAQ -> use public class fields**
+```javascript
+
+//see demo: https://jsbin.com/suzubu/1/edit?html,js,output
+class App extends React.Component {
+  state = {clicks: 6}
+
+  handleClick = () => {
+    this.setState(prevState => {
+      return {clicks: prevState.clicks + 1}
+    })
+  }
+
+  render() {
+    return (
+      <div>
+        <div>
+          Click Count: {this.state.clicks}
+        </div>
+        <button
+          onClick={this.handleClick}
+        >
+          Click Me!
+        </button>
+      </div>
+    )
+  }
+}
+
+
+```
+
 
 
 **What should you use for binding methods in React classes?**
