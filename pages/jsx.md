@@ -11,3 +11,8 @@
 **What does JSX really do for me?**
 
 [This is the sort of stuff JSX saves you from having to manage](https://gist.github.com/insin/8e72bed793772d82ca8d) Jonny Buchanan @jbscript
+
+**Can I use JSX for conditionals?**
+> Yes there's a babel plugin for that [jsx-control-statements](https://www.npmjs.com/package/jsx-control-statements)
+
+* [A cleaner solution for conditionals and loops in JSX using Babel 6](https://tomat.blog/a-cleaner-solution-for-conditionals-and-loops-in-jsx-using-babel-6-a67dcaee9b06#.tlsxvz52a)
