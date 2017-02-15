@@ -21,3 +21,10 @@
 **What are some examples where I should manually change a key?**
 
 * [The key is using key](https://twitter.com/timarney/status/730785238654287873) Tim Arney @timarney
+
+
+**Do keys across an app all need to be unique?**
+
+No - Keys used only need to be unique among their siblings.
+
+More info: https://facebook.github.io/react/docs/lists-and-keys.html#keys-must-only-be-unique-among-siblings
