@@ -54,3 +54,11 @@ function NumberList(props) {
 ```
 
 See: [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
+
+**How can I map over an object?**
+
+```javascript
+{Object.keys(yourObject).map(function(key) {
+    return <div>Key: {key}, Value: {yourObject[key]}</div>;
+})}
+```
