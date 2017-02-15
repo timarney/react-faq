@@ -47,6 +47,7 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
   - [Keys](pages/keys.md)
   - [Refs](pages/refs.md)
 - [Patterns](pages/patterns.md)
+- [Reusable React components](component-reuse-maintainable.md)
 
 ## Additional Topics
 - [Why use React?](pages/why-use-react.md)
