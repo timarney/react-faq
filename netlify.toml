@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+  
+[template.environment]
+  NODE_ENV = "production"
+  YARN_VERSION = "0.18.0"

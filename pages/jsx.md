@@ -1,4 +1,9 @@
-#JSX
+
+---
+JSX
+---
+
+
 **What's JSX?**
 
 >JSX is a preprocessor step that adds XML syntax to JavaScript. You can definitely use React without JSX but JSX makes React a lot more elegant. - http://buildwithreact.com
