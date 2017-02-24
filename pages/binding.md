@@ -1,7 +1,12 @@
-#Binding
+
+---
+Binding
+---
+
 >The JavaScript bind method has several uses. Typically, it is used to preserve execution context for a function that executes in another context.
 
 <hr>
+
 **How do I bind events (i.e. onClick) in React?**
 > There are several ways to bind things in React [this video](https://egghead.io/lessons/javascript-public-class-fields-with-react-components?pl=javascript-from-kent-ff87bbdb) via Kent C. Dodds + @eggheadio covers multiple ways to bind events showing the benefits and drawbacks for each.
 

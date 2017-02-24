@@ -5,6 +5,7 @@ import { prefixLink } from 'gatsby-helpers'
 import Headroom from 'react-headroom'
 import '../css/markdown-styles'
 import styled from 'styled-components';
+import {ReactIcon as Logo} from '../svg/Logo';
 
 import { rhythm } from '../utils/typography';
 
@@ -47,7 +48,10 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              <div style={{color:'white',fontSize:'1.2em'}}>React FAQ</div>
+               <div style={{display:'flex',color:'white',fontSize:'1.2em'}}>
+                 <Logo /> 
+                 <div style={{lineHeight:'60px'}}>React FAQ</div>
+               </div>
             </Link>
           </Container>
         </Headroom>

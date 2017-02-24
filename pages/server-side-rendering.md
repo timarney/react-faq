@@ -1,4 +1,7 @@
-#Server-Side Rendering
+
+---
+Server-Side Rendering
+---
 
 **Do I need to Server-Side Render?**
 * [Should I use React Server-Side Rendering?](http://andrewhfarmer.com/server-side-render/)

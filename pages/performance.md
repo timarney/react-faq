@@ -1,4 +1,7 @@
-#Performance
+
+---
+Performance
+---
 
 **How can I make my app faster?**
 

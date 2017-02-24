@@ -1,4 +1,8 @@
-#React elements
+
+---
+React elements
+---
+
 > Elements are the smallest building blocks of React apps.
 > Elements are what components are "made of ..."
 — [React Docs](https://facebook.github.io/react/docs/rendering-elements.html)

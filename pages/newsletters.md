@@ -1,4 +1,7 @@
-#Newsletters
+
+---
+Newsletters
+---
 
 **Where can I find React specific newsletters?**
 

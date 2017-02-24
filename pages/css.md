@@ -1,4 +1,7 @@
-#CSS and React
+
+---
+CSS and React
+---
 
 * Watch this 🔥 💯 [Styling React.JS applications](https://www.youtube.com/watch?v=19gqsBc_Cx0) Max Stoiber @mxstbr
 

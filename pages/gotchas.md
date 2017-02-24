@@ -1,4 +1,7 @@
-#Gotchas
+
+---
+Gotchas
+---
 
 **What are some React Gotchas?**
 

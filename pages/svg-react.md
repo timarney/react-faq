@@ -1,4 +1,7 @@
-#SVG & React
+
+---
+SVG & React
+---
 
 **How do I work with SVG's in React?**
 

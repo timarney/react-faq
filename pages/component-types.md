@@ -1,7 +1,12 @@
-#Component Types
+
+---
+Component Types
+---
+
 > There are two main types of components **Functional** and **Class Components**.  If you need don't need [lifecycle methods](lifecycle-methods.md) prefer Functional /Stateless Components.
 
 ```javascript
+
 // Functional Component
 function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
@@ -17,19 +22,27 @@ class Welcome extends React.Component {
 
 // Some other patterns you might see:
 
-// Functional Component with Implicit Returns
-const Profile = props => 
-  <div>
-    <h1>{props.name}</h1>
-    <p>{props.bio}</p>
-  </div>;
- 
- // Functional Component with destructuring of props
- const Profile = ({ name, bio }) =>
-  <div>
-    <h1>{name}</h1>
-    <p>{bio}</p>
-  </div>;
+// Functional Component
+
+const Profile = props => {
+  return (
+    <div>
+      <h1>{props.name}</h1>
+      <p>{props.bio}</p>
+    </div>
+  );
+};
+
+// Functional Component with destructuring of props
+
+const Profile = ({ name, bio }) => {
+  return (
+    <div>
+      <h1>{name}</h1>
+      <p>{bio}</p>
+    </div>
+  );
+};
 
 ```
 Components can be used (composed) in many ways see the following links for patterns and thoughts on creating Components.

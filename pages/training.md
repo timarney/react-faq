@@ -1,4 +1,7 @@
-#Training
+
+---
+Training
+---
 
 **Where can I get React training?**
 <hr>

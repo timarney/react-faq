@@ -1,4 +1,7 @@
-#Finding Components
+
+---
+Finding Components
+---
 
 **Where are some good places to find components?**
 

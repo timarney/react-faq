@@ -1,4 +1,9 @@
-#Testing
+
+---
+Testing
+---
+
+
 * [Testing React Applications with Max Stoiber](https://www.youtube.com/watch?v=59Ndb3YkLKA) Max Stoiber @mxstbr
 * [Testing React Applications w/Jack Franklin](https://www.youtube.com/watch?v=eWN8F_WOBAQ) Jack Franklin
 * [People seem to laugh at this but I think it’s actually pretty reasonable](https://twitter.com/dan_abramov/status/762257231471579136) Dan Abramov @dan_abramov
@@ -7,5 +12,5 @@
 * [Set up a testing environment with React + enzyme + Mocha](http://blog.ricardofilipe.com/post/react-enzyme-tdd-tutorial) – Ricardo Magalhães
 * [The Right Way to Test React Components](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22#.zb6v0mtfk) Stephen Scott @suchipi
 
-#Debugging
+## Debugging
 * [Live edit and debug your React apps directly from VS Code — without leaving the editor](https://medium.com/front-end-hacking/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f#.a2j1t98ev)

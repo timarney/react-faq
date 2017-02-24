@@ -1,4 +1,7 @@
-#Why use React?
+
+---
+Why use React?
+---
 
 >
 * Composable components

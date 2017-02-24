@@ -1,4 +1,7 @@
-#Videos & Courses
+
+---
+Videos & Courses
+---
 
 **What are some good video resources / courses to learn React?**
 * https://egghead.io/courses/react-fundamentals FREE (+ paid for others)

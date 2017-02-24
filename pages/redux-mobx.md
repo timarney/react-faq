@@ -1,10 +1,13 @@
-#Redux and Mobx
 
-**What's (Redux/Mobx)?**
+---
+Redux and MobX
+---
+
+**What's (Redux/MobX)?**
 
 * [Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx)
 
-**Do I need to use (Redux/Mobx)?**
+**Do I need to use (Redux/MobX)?**
 
 * [You don’t need Redux if your data never changes. The whole point of it is managing changes.](https://twitter.com/dan_abramov/status/737036433215610880) Dan Abramov @dan_abramov
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.kgnqdp8p6) Dan Abramov @dan_abramov

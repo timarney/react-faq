@@ -1,4 +1,7 @@
-#Adding React to an existing app
+
+---
+Adding React to an existing app
+---
 
 **How do I start adding React to an existing app?**
 

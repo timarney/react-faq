@@ -1,4 +1,7 @@
-#Patterns
+
+---
+Patterns
+---
 
 * [React Patterns](http://reactpatterns.com) @chantastic
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns) Krasimir Tsonev

@@ -2,6 +2,8 @@
 ---
 Components
 ---
+
+
 > Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. - [React Docs](https://facebook.github.io/react/docs/components-and-props.html)
 
 **What are some of your best practices when working with components?**
@@ -34,6 +36,7 @@ function NumberList(props) {
 }
 
 const numbers = [1, 2, 3, 4, 5];
+
 ReactDOM.render(
   <NumberList numbers={numbers} />,
   document.getElementById("root")

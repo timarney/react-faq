@@ -1,4 +1,7 @@
-#React Ajax
+
+---
+React Ajax
+---
 
 **What is the best practice for getting server data into React components?**
 >It depends! See: [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) Andrew H Farmer @ahfarmer

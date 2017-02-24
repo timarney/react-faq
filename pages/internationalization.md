@@ -1,4 +1,7 @@
-#Internationalization
+
+---
+Internationalization
+---
 
 **How should I handle internationalization?**
 

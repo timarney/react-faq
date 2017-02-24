@@ -1,4 +1,7 @@
-#Rendering
+
+---
+Rendering
+---
 
 **What should go in the render function?**
 

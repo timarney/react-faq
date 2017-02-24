@@ -1,4 +1,7 @@
-#Creating a React Project
+
+---
+Creating a React Project
+---
 
 **How do I create a new React project?**
 
@@ -9,7 +12,7 @@
 * [next.js](https://github.com/zeit/next.js) A minimalistic framework for universal server-rendered React applications
 * [react-server](https://github.com/redfin/react-server) Batteries-included Server-rendered React applications. Note: also see [React 30 -> 002 - Streaming React](https://www.youtube.com/watch?v=XW_c60NCkI4)
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate) A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
-* [create-react-pwa](https://github.com/jeffposnick/create-react-pwa create-react-app) + Progressive Web App goodness
+* [create-react-pwa](https://github.com/jeffposnick/create-react-pwa) + Progressive Web App goodness
 * [gatsby](https://github.com/gatsbyjs/gatsby) Transform plain text into dynamic blogs and websites using React.js
 
 Also see these [projects](https://github.com/facebookincubator/create-react-app#alternatives)
@@ -17,7 +20,7 @@ Also see these [projects](https://github.com/facebookincubator/create-react-app#
 
 **Where can I find videos for using React Create App?**
 
-[React Create App + Express](https://www.youtube.com/watch?v=gbVhmaW04bc&feature=youtu.be) @sprjrx @ladyleet
+* [React Create App + Express](https://www.youtube.com/watch?v=gbVhmaW04bc&feature=youtu.be) @sprjrx @ladyleet
 
 
 **Can I play around with React Online?**
