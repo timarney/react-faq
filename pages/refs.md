@@ -1,6 +1,5 @@
-
 ---
-Refs
+title: Refs
 ---
 
 >The ref attribute makes it possible to store a reference to a particular React element or component returned by the component render() configuration function. This can be valuable when you need a reference, from within a component, to some element or component contained within the render() function. - reactenlightenment.com

@@ -1,6 +1,5 @@
-
 ---
-Videos & Courses
+title: Videos & Courses
 ---
 
 **What are some good video resources / courses to learn React?**

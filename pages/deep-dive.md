@@ -1,6 +1,5 @@
-
 ---
-Deep Dive
+title: Deep Dive
 ---
 
 * [Implementation Notes - How React Really Works](https://facebook.github.io/react/contributing/implementation-notes.html) Dan Abramov @dan_abramov

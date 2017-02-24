@@ -1,6 +1,5 @@
-
 ---
-JSX
+title: JSX
 ---
 
 

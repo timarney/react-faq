@@ -1,6 +1,5 @@
-
 ---
-Third Party Libraries
+title: Third Party Libraries
 ---
 
 **How do I use third party libraries?**

@@ -1,6 +1,5 @@
-
 ---
-Props
+title: Props
 ---
 
 **What are props?**

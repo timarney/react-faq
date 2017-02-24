@@ -1,6 +1,5 @@
-
 ---
-Binding
+title: Binding
 ---
 
 >The JavaScript bind method has several uses. Typically, it is used to preserve execution context for a function that executes in another context.

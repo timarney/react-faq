@@ -1,6 +1,5 @@
-
 ---
-State
+title: State
 ---
 
 > In one sense, “state” means the current visual representation of the app on screen... In the React sense, “state” is an object that represents the parts of the app that can change. Each component can maintain its own state, which lives in an object called this.state. - Dave Ceddia

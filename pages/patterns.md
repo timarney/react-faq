@@ -1,6 +1,5 @@
-
 ---
-Patterns
+title: Patterns
 ---
 
 * [React Patterns](http://reactpatterns.com) @chantastic

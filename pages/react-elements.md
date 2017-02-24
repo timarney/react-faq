@@ -1,6 +1,5 @@
-
 ---
-React elements
+title: React elements
 ---
 
 > Elements are the smallest building blocks of React apps.

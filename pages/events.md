@@ -1,6 +1,5 @@
-
 ---
-Events
+title: Events
 ---
 
 **How do I listen for events in React?**

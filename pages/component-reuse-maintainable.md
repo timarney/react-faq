@@ -1,6 +1,5 @@
-
 ---
-Maintainable /Reusable React components
+title: Maintainable /Reusable React components
 ---
 
 **How can I build maintainable /reusable React components?**

@@ -1,6 +1,5 @@
-
 ---
-Component Types
+title: Component Types
 ---
 
 > There are two main types of components **Functional** and **Class Components**.  If you need don't need [lifecycle methods](lifecycle-methods.md) prefer Functional /Stateless Components.

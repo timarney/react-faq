@@ -1,6 +1,5 @@
-
 ---
-Finding Components
+title: Finding Components
 ---
 
 **Where are some good places to find components?**

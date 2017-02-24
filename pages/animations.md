@@ -1,6 +1,5 @@
-
 ---
-Animations
+title: Animations
 ---
 
 **How do I animate things in React?**

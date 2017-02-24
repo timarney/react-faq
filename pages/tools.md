@@ -1,6 +1,5 @@
-
 ---
-Tools
+title: Tools
 ---
 
 **What Developer Tools are available for React?**

@@ -1,6 +1,5 @@
-
 ---
-React Ajax
+title: React Ajax
 ---
 
 **What is the best practice for getting server data into React components?**

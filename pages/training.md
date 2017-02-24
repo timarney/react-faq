@@ -1,6 +1,5 @@
-
 ---
-Training
+title: Training
 ---
 
 **Where can I get React training?**

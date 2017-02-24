@@ -1,6 +1,5 @@
-
 ---
-Interview Questions
+title: Interview Questions
 ---
 
 **Where can I go to find good React interview questions?**

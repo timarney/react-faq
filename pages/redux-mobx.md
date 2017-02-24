@@ -1,6 +1,5 @@
-
 ---
-Redux and MobX
+title: Redux and MobX
 ---
 
 **What's (Redux/MobX)?**

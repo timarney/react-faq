@@ -1,6 +1,5 @@
-
 ---
-Rendering
+title: Rendering
 ---
 
 **What should go in the render function?**

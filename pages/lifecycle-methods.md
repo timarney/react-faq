@@ -1,6 +1,5 @@
-
 ---
-Lifecycle Methods
+title: Lifecycle Methods
 ---
 
 >Components have several "lifecycle methods" that allow you to override / run code at particular times.

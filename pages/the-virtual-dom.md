@@ -1,6 +1,5 @@
-
 ---
-The Virtual DOM
+title: The Virtual DOM
 ---
 
 >The Virtual DOM provides a lightweight implementation of the DOM and events system. Instead of dealing with the browser, you manipulate an in-memory version of the DOM.

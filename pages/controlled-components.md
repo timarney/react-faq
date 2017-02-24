@@ -1,6 +1,5 @@
-
 ---
-Controlled Components
+title: Controlled Components
 ---
 
 **What is a controlled component?**

@@ -1,6 +1,5 @@
-
 ---
-Talks
+title: Talks
 ---
 
 * [React to the Future - Slide Deck](http://elijahmanor.com/talks/react-to-the-future/dist) Elijah Manor @elijahmanor

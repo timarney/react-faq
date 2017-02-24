@@ -1,6 +1,5 @@
-
 ---
-Start
+title: Start
 ---
 This guide aims to pull together quality content about React core concepts into a central location for quick reference.
 

@@ -1,6 +1,5 @@
-
 ---
-Performance
+title: Performance
 ---
 
 **How can I make my app faster?**

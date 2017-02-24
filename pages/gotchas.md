@@ -1,6 +1,5 @@
-
 ---
-Gotchas
+title: Gotchas
 ---
 
 **What are some React Gotchas?**

@@ -1,6 +1,5 @@
-
 ---
-Forms
+title: Forms
 ---
 
 **How can I build forms with React?**

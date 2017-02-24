@@ -1,6 +1,5 @@
-
 ---
-Server-Side Rendering
+title: Server-Side Rendering
 ---
 
 **Do I need to Server-Side Render?**

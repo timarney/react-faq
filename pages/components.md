@@ -1,6 +1,5 @@
-
 ---
-Components
+title: Components
 ---
 
 

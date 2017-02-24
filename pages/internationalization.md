@@ -1,6 +1,5 @@
-
 ---
-Internationalization
+title: Internationalization
 ---
 
 **How should I handle internationalization?**

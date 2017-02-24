@@ -1,6 +1,5 @@
-
 ---
-PATENTS
+title: PATENTS
 ---
 
 **What's all this stuff I hear about Facebook PATENTS clause?**

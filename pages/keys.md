@@ -1,6 +1,5 @@
-
 ---
-Keys
+title: Keys
 ---
 
 >React uses [keys](https://facebook.github.io/react/docs/reconciliation.html#keys) to help with Reconciliation (i.e. how it calculates the DOM diff for each render).

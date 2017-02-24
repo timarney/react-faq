@@ -1,6 +1,5 @@
-
 ---
-Creating a React Project
+title: Creating a React Project
 ---
 
 **How do I create a new React project?**

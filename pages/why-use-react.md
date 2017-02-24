@@ -1,6 +1,5 @@
-
 ---
-Why use React?
+title: Why use React?
 ---
 
 >

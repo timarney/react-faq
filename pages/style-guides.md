@@ -1,6 +1,5 @@
-
 ---
-React Style Guides
+title: React Style Guides
 ---
 
 **Where can I find some good React  style guides?**

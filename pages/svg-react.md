@@ -1,6 +1,5 @@
-
 ---
-SVG & React
+title: SVG & React
 ---
 
 **How do I work with SVG's in React?**

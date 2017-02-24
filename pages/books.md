@@ -1,6 +1,5 @@
-
 ---
-Books
+title: Books
 ---
 
 **Where can I find some good books about React?**
