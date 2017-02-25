@@ -37,6 +37,12 @@
   transition-duration: 0.3s;
 }
 
+.menu-toggle:hover .one,
+.menu-toggle:hover .two,
+.menu-toggle:hover .three{
+  background: #C64087;
+}
+
 nav ul {
   margin: 0;
   padding: 0;
