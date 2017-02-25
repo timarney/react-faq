@@ -9,7 +9,6 @@ import {ReactIcon as Logo} from '../svg/Logo';
 
 import { rhythm } from '../utils/typography';
 
-
 const Wrapper = styled.a`
   font-size: 1.5em;
   text-align: center;
