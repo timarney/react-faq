@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "classnames": "^2.2.5",
     "front-matter": "^2.1.2",
     "gatsby": "^0.12.36",
     "highlight.js": "^9.8.0",

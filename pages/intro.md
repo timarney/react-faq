@@ -1,6 +1,8 @@
 ---
 title: Start
 ---
+
+## Start
 This guide aims to pull together quality content about React core concepts into a central location for quick reference.
 
 Remember we're all learning.  Read, Try, Mess Up (it's okay).
@@ -47,39 +49,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
   - [Keys](keys/)
   - [Refs](refs/)
 - [Patterns](patterns/)
-- [Reusable React components](component-reuse-maintainable/)
-
-## Additional Topics
-- [Why use React?](why-use-react/)
-- [Adding React to an existing app](add-to-existing-app/)
-- [CSS and React](css/)
-- [Context](context/)
-- [Forms](forms/)
-- [React Ajax](react-ajax/)
-- [Testing / Debug](testing/)
-- [Server-Side Rendering](server-side-rendering/)
-- [Gotchas](gotchas/)
-- [Internationalization](internationalization/)
-- [A11Y](a11y/)
-- [Third Party Libraries](third-party-libraries/)
-- [Performance](performance/)
-- [Animations](animations/)
-- [SVG & React](svg-react/)
-- [React Style Guides](style-guides/)
-- [Redux and Mobx](redux-mobx/)
-- [Deep Dive](deep-dive/)
-- [React Fiber](react-fiber/)
-- [Interview Questions](interview-questions/)
-- [Tools](tools/)
-- [History](history/)
-- [PATENTS](patents/)
-
-## More Resources
-- [Video Courses](videos-courses/)
-- [Talks](talks/)
-- [Training](training/)
-- [Books](books/)
-- [Newsletters](newsletters/)
 
 ### Other Languages
 [🇪🇸 Español](https://github.com/xDae/react-faq)

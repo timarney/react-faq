@@ -2,8 +2,21 @@
 title: Components
 ---
 
-
 > Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. - [React Docs](https://facebook.github.io/react/docs/components-and-props.html)
+
+
+- [Lifecycle Methods](/lifecycle-methods/)
+- [Component Types](/component-types/)
+- [Finding Components](/finding-components/)
+- [Controlled Components](/controlled-components/)
+- [Props](/props/)
+- [State](/state/)
+- [Children API](/children-api/)
+- [Binding](/binding/)
+- [Events](/events/)
+- [Rendering](/rendering/)
+- [Keys](/keys/)
+- [Refs](/refs/)
 
 **What are some of your best practices when working with components?**
 

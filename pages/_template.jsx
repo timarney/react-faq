@@ -8,6 +8,7 @@ import styled from 'styled-components';
 import {ReactIcon as Logo} from '../svg/Logo';
 
 import { rhythm } from '../utils/typography';
+import Menu from "../utils/menu";
 
 const Wrapper = styled.a`
   font-size: 1.5em;
@@ -24,6 +25,8 @@ module.exports = React.createClass({
   render () {
     return (
       <div>
+        <Menu />
+        
         <Headroom
           wrapperStyle={{
             marginBottom: rhythm(1),
@@ -33,6 +36,8 @@ module.exports = React.createClass({
             boxShadow: '0 2px 4px -1px rgba(0,0,0,0.06), 0 4px 5px 0 rgba(0,0,0,0.06), 0 1px 10px 0 rgba(0,0,0,0.08)'
           }}
         >
+          
+          
           <Container
             style={{
               maxWidth: 960,
@@ -40,6 +45,9 @@ module.exports = React.createClass({
               padding: `${rhythm(1)} ${rhythm(3/4)}`,
             }}
           >
+            
+            
+            
             <Link
               to={prefixLink('/')}
               style={{
