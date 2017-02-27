@@ -9,11 +9,13 @@ import {ReactIcon as Logo} from '../svg/Logo';
 
 import { rhythm } from '../utils/typography';
 import Menu from "../utils/menu";
+import Stars from "../utils/stars";
 
-const Wrapper = styled.a`
+const Header = styled.div`
   font-size: 1.5em;
   text-align: center;
   color: palevioletred;
+
 `;
 
 module.exports = React.createClass({
@@ -40,21 +42,31 @@ module.exports = React.createClass({
             style={{
               maxWidth: 960,
               paddingTop: 0,
-              padding: `${rhythm(1)} ${rhythm(1/2)}`,
+              padding: `${rhythm(1)} ${rhythm(1)}`,
+              display:'flex',
+              justifyContent:'flex-start',
+              alignItems:'center',
+              flexDirection:'row'
             }}
-          >
-            <Link
-              to={prefixLink('/')}
-              style={{
-                color: 'black',
-                textDecoration: 'none',
-              }}
-            >
-               <div style={{display:'flex',color:'white',fontSize:'1.5em', alignItems: 'center'}}>
-                 <Logo /> 
-                 <div style={{lineHeight:'60px'}}>React FAQ</div>
-               </div>
-            </Link>
+          > 
+            <div>
+              <Link
+                to={prefixLink('/')}
+                style={{
+                  color: 'black',
+                  textDecoration: 'none',
+                  display:'block'
+                }}
+              >
+                <div style={{display:'flex',color:'white',fontSize:'1.5em', alignItems: 'center'}}>
+                  <Logo /> 
+                  <div style={{lineHeight:'60px'}}>React FAQ</div>
+                
+                </div>
+              </Link>
+            </div>
+
+            <Stars/>
           </Container>
         </Headroom>
         <Container
@@ -62,6 +74,7 @@ module.exports = React.createClass({
             maxWidth: 960,
             padding: `${rhythm(1)} ${rhythm(3/4)}`,
             paddingTop: 0,
+            
           }}
         >
           {this.props.children}

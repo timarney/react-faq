@@ -26,9 +26,3 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 * [All the terrible things I did the first time I wrote a complex React App ](https://youtu.be/Fk--XUEorvc?t=20666) Raquel @raquelxmoss
 * [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) Eric W. Greene / Microsoft Virtual Academy
 </details>
-
-<hr>
-
-### Other Languages
-[🇪🇸 Español](https://github.com/xDae/react-faq)
-[🇨🇳 简体中文](https://github.com/justjavac/react-faq)

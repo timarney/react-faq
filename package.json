@@ -25,7 +25,8 @@
     "styled-components": "1.4.3",
     "toml-js": "0.0.8",
     "typography": "^0.15.8",
-    "typography-plugin-code": "^0.15.0"
+    "typography-plugin-code": "^0.15.0",
+    "unfetch": "2.1.1"
   },
   "devDependencies": {
     "gh-pages": "^0.12.0"
