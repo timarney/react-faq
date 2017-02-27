@@ -17,24 +17,26 @@ class Menu extends Component {
     let showNavClass = classNames({ hidden: !on });
 
     return (
-      <div className={menuSectionClass}>
+      <div className="menu">
         <div className={menuToggleClass} onClick={this.handleClick}>
           <div className="one" />
           <div className="two" />
           <div className="three" />
         </div>
-        <nav>
-          <ul role="navigation" className={showNavClass}>
-            <li><a href="/creating-a-react-project/">Creating a React Project</a></li>
-            <li><a href="/jsx/">JSX</a></li>
-            <li><a href="/the-virtual-dom/">The Virtual DOM</a></li>
-            <li><a href="/react-elements/">React elements</a></li>
-            <li><a href="/components/">Components</a></li>
-            <li><a href="/patterns/">Patterns</a></li>
-            <li><a href="/additional-topics/">Additional Topics</a></li>
-            <li><a href="/more-resources/">More Resources</a></li>
-          </ul>
-        </nav>
+        <div className={menuSectionClass}>
+            <nav>
+            <ul role="navigation" className={showNavClass}>
+                <li><a href="/creating-a-react-project/">Creating a React Project</a></li>
+                <li><a href="/jsx/">JSX</a></li>
+                <li><a href="/the-virtual-dom/">The Virtual DOM</a></li>
+                <li><a href="/react-elements/">React elements</a></li>
+                <li><a href="/components/">Components</a></li>
+                <li><a href="/patterns/">Patterns</a></li>
+                <li><a href="/additional-topics/">Additional Topics</a></li>
+                <li><a href="/more-resources/">More Resources</a></li>
+            </ul>
+            </nav>
+        </div>
       </div>
     );
   }

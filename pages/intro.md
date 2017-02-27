@@ -29,27 +29,6 @@ Remember we're all learning.  Read, Try, Mess Up (it's okay).
 
 <hr>
 
-## Main Reference
-
-- [Creating a React Project](creating-a-react-project/)
-- [JSX](jsx/)
-- [The Virtual DOM](the-virtual-dom/)
-- [React elements](react-elements/)
-- [Components](components/)
-  - [Lifecycle Methods](lifecycle-methods/)
-  - [Component Types](component-types/)
-  - [Finding Components](finding-components/)
-  - [Controlled Components](controlled-components/)
-  - [Props](props/)
-  - [State](state/)
-  - [Children API](children-api/)
-  - [Binding](binding/)
-  - [Events](events/)
-  - [Rendering](rendering/)
-  - [Keys](keys/)
-  - [Refs](refs/)
-- [Patterns](patterns/)
-
 ### Other Languages
 [🇪🇸 Español](https://github.com/xDae/react-faq)
 [🇨🇳 简体中文](https://github.com/justjavac/react-faq)

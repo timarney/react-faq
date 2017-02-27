@@ -40,7 +40,7 @@ module.exports = React.createClass({
             style={{
               maxWidth: 960,
               paddingTop: 0,
-              padding: `${rhythm(1)} ${rhythm(3/4)}`,
+              padding: `${rhythm(1)} ${rhythm(1/2)}`,
             }}
           >
             <Link
@@ -50,7 +50,7 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-               <div style={{display:'flex',color:'white',fontSize:'1.2em'}}>
+               <div style={{display:'flex',color:'white',fontSize:'1.5em', alignItems: 'center'}}>
                  <Logo /> 
                  <div style={{lineHeight:'60px'}}>React FAQ</div>
                </div>
