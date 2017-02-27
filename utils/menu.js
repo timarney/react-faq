@@ -26,7 +26,7 @@ class Menu extends Component {
         <div className={menuSectionClass}>
             <nav>
             <ul role="navigation" className={showNavClass}>
-                <li><a href="/creating-a-react-project/">Creating a React Project</a></li>
+                <li><a href="/creating-a-react-project/">Setup</a></li>
                 <li><a href="/jsx/">JSX</a></li>
                 <li><a href="/the-virtual-dom/">The Virtual DOM</a></li>
                 <li><a href="/react-elements/">React elements</a></li>

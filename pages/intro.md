@@ -5,7 +5,14 @@ title: Start
 ## Start
 This guide aims to pull together quality content about React core concepts into a central location for quick reference.
 
-Remember we're all learning.  Read, Try, Mess Up (it's okay).
+Remember we're all learning.  Read, Try, Mess Up (it's okay).  If you find this guide helpful let me know [@timarney](https://twitter.com/timarney).
+
+```
+ReactDOM.render(
+  <h1>Learn React</h1>,
+  document.getElementById('root')
+);
+```
 
 >There's lots to learn but if you break it down there are some key concepts to focus on. JSX, React Elements, Components, Lifecycle Methods, Props and State.  These articles will start you down the path to learning React.
 

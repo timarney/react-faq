@@ -61,7 +61,6 @@ module.exports = React.createClass({
                 <div style={{display:'flex',color:'white',fontSize:'1.5em', alignItems: 'center'}}>
                   <Logo /> 
                   <div style={{lineHeight:'60px'}}>React FAQ</div>
-                
                 </div>
               </Link>
             </div>
