@@ -17,6 +17,7 @@
   cursor: pointer;
   z-index: 11;
 }
+
 .menu-toggle.on .one {
   -moz-transform: rotate(45deg) translate(7px, 7px);
   -ms-transform: rotate(45deg) translate(7px, 7px);
@@ -79,6 +80,15 @@ nav ul a {
     nav ul a {
       font-size: 1.5em;
       line-height: 1.5;
+    }
+
+    .menu-toggle::before {
+      content: "Menu";
+      width: 500px;
+      position: absolute;
+      left: -55px;
+      top: 4px;
+      color: #fff;
     }
 }
 

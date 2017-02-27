@@ -18,13 +18,13 @@ class Menu extends Component {
 
     return (
       <div className="menu">
-        <div className={menuToggleClass} onClick={this.handleClick}>
+       <div className={menuToggleClass} onClick={this.handleClick}>
           <div className="one" />
           <div className="two" />
           <div className="three" />
         </div>
         <div className={menuSectionClass}>
-            <nav>
+            <nav> 
             <ul role="navigation" className={showNavClass}>
                 <li><a href="/creating-a-react-project/">Setup</a></li>
                 <li><a href="/jsx/">JSX</a></li>
