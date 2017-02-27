@@ -13,6 +13,7 @@ title: Creating a React Project
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate) A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
 * [create-react-pwa](https://github.com/jeffposnick/create-react-pwa) + Progressive Web App goodness
 * [gatsby](https://github.com/gatsbyjs/gatsby) Transform plain text into dynamic blogs and websites using React.js
+* [The Minimal React Webpack Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup) @rwieruch
 
 Also see these [projects](https://github.com/facebookincubator/create-react-app#alternatives)
 
