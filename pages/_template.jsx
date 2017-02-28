@@ -5,9 +5,11 @@ import Headroom from "react-headroom";
 import "../css/markdown-styles";
 import styled from "styled-components";
 import { rhythm } from "../utils/typography";
-import Menu from "../components/menu";
+import MenuMobile from "../components/menu-mobile";
+import MenuDesktop from "../components/menu-desktop";
 import Stars from "../components/stars";
 import Logo from "../components/logo";
+import '../css/main.css';
 
 import MenuItems from "../components/menu-items";
 
@@ -15,7 +17,6 @@ const Header = styled.div`
   font-size: 1.5em;
   text-align: center;
   color: palevioletred;
-
 `;
 
 module.exports = React.createClass({
@@ -27,8 +28,7 @@ module.exports = React.createClass({
   render() {
     return (
       <div>
-        <Menu />
-
+        <MenuMobile />
         <Headroom
           wrapperStyle={{
             marginBottom: rhythm(1)
@@ -43,7 +43,7 @@ module.exports = React.createClass({
             style={{
               maxWidth: 960,
               paddingTop: 0,
-              padding: `${rhythm(1)} ${rhythm(1)}`,
+              padding: `${rhythm(1)} ${rhythm(1/2)}`,
               display: "flex",
               justifyContent: "flex-start",
               alignItems: "center"
@@ -54,6 +54,17 @@ module.exports = React.createClass({
           </Container>
 
         </Headroom>
+
+        <Container
+          className="menu-desktop"
+          style={{
+            maxWidth: 960,
+            paddingTop: 0
+          }}
+        >
+        <MenuDesktop />
+        </Container>
+
         <Container
           style={{
             maxWidth: 960,

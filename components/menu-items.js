@@ -1,18 +1,42 @@
 import React from "react";
+import { Link } from "react-router";
+import { prefixLink } from "gatsby-helpers";
+
+function href(p, txt) {
+  const path = `${prefixLink("/")}${p}/`;
+  return path;
+}
+
+const items = [
+  { href: "creating-a-react-project", text: "Setup" },
+  { href: "jsx", text: "JSX" },
+  { href: "the-virtual-dom", text: "Virtual DOM" },
+  { href: "react-elements", text: "React Elements" },
+  { href: "components", text: "Components" },
+  { href: "patterns", text: "Patterns" },
+  { href: "additional-topics", text: "Additional Topics" },
+  { href: "more-resources", text: "Resources" }
+];
 
 function MenuItems(props) {
-  const {showNavClass} = props;
+  const { showNavClass, handleClick } = props;
   return (
     <nav>
       <ul role="navigation" className={showNavClass}>
-        <li><a href="/creating-a-react-project/">Setup</a></li>
-        <li><a href="/jsx/">JSX</a></li>
-        <li><a href="/the-virtual-dom/">The Virtual DOM</a></li>
-        <li><a href="/react-elements/">React elements</a></li>
-        <li><a href="/components/">Components</a></li>
-        <li><a href="/patterns/">Patterns</a></li>
-        <li><a href="/additional-topics/">Additional Topics</a></li>
-        <li><a href="/more-resources/">More Resources</a></li>
+        {items.map(item => {
+          return (
+            <li key={item.text}>
+              <Link
+                onClick={handleClick}
+                activeClassName="active"
+                to={href(item.href)}
+              >
+                {item.text}
+              </Link>
+            </li>
+          );
+        })}
+
       </ul>
     </nav>
   );
