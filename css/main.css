@@ -1,0 +1,23 @@
+@media (max-width: 550px) {
+  .header{
+    flex-direction:column;
+  }
+}
+
+.menu-desktop{
+    display: none;
+}
+
+@media (min-width: 990px) {
+  .menu-desktop{
+    display: block;
+  }
+
+  .menu-mobile{
+      display: none;
+  }
+}
+
+#icon{
+    margin:10px;
+}
