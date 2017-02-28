@@ -8,8 +8,6 @@
   left: 0;
   right: 0;
   bottom: 0;
-
-
   position:fixed;
   background-color: rgba(55, 61, 73, 0.9);
 }
@@ -17,11 +15,15 @@
 .menu-toggle {
   width: 30px;
   height: 30px;
-  position:fixed;
+  position: absolute;
   top: 40px;
   right: 25px;
   cursor: pointer;
   z-index: 11;
+}
+
+.menu-toggle.on{
+  position:fixed;
 }
 
 .menu-toggle.on .one {
