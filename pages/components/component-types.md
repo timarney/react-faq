@@ -87,6 +87,22 @@ Also:
 * [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5) Merrick Christensen @iammerrick
 * [I've mentioned this before, but I'm a big fan of child functions in React](https://twitter.com/brian_d_vaughn/status/779362701596164097) Brian Vaughn @brian_d_vaughn
 
+
+**What is a Pure Component?**
+
+Pure Components are any Component declared as a function that has no state and returns the same markup given the same props.
+
+```javascript
+import React from ‘react’;
+
+const HelloWorld = ({name}) => (
+ <div>{`Hi ${name}`}</div>
+);
+
+export default HelloWorld;
+```
+
+
 **What types of components are there?**
 
 * [React Component Jargon as of August 2016](https://blog.anthonycomito.com/react-component-jargon-as-of-august-2016-28451d8ceb1d#.a417p5u26) Anthony Comito @a_comito
