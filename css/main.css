@@ -4,6 +4,10 @@
   }
 }
 
+.header{
+    align-items: "flex-start";
+}
+
 .menu-desktop{
     display: none;
 }
@@ -13,11 +17,15 @@
     display: block;
   }
 
+  .header{
+    align-items: "center";
+  }
+
   .menu-mobile{
       display: none;
   }
 }
 
 #icon{
-    margin:10px;
+    margin-right:10px;
 }

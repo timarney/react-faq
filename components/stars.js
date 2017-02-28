@@ -1,12 +1,10 @@
 import React, { Component } from "react";
-
 import styled from "styled-components";
 import fetch from 'unfetch'
 
 const Wrapper = styled.div`
   display:flex;
   flex: 1;
-  margin-left:1em;
   border: 1px solid #fff;
   background-image: linear-gradient(#fcfcfc, #eee);
   border-radius: 3px;
@@ -16,6 +14,11 @@ const Wrapper = styled.div`
   &:hover {
     background-image: linear-gradient(#fcfcfc, #ccc);
   }
+
+  @media screen and (min-width: 600px) {
+    margin-left:1em;
+  }
+
 `;
 
 const GitLink = styled.a`
@@ -40,9 +43,7 @@ const StarCount = styled.div`
 
 class Stars extends Component {
   state = { count: '' };
-
   
-
   componentDidMount() {
 
     fetch('https://api.github.com/repos/timarney/react-faq')

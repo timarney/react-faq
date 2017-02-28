@@ -45,8 +45,7 @@ module.exports = React.createClass({
               paddingTop: 0,
               padding: `${rhythm(1)} ${rhythm(1/2)}`,
               display: "flex",
-              justifyContent: "flex-start",
-              alignItems: "center"
+              justifyContent: "flex-start"
             }}
           >
             <Logo />
