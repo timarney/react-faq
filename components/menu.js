@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import classNames from "classnames";
 import '../css/menu.css';
+import MenuItems from '../components/menu-items';
 
 class Menu extends Component {
   state = { on: false };
@@ -24,18 +25,7 @@ class Menu extends Component {
           <div className="three" />
         </div>
         <div className={menuSectionClass}>
-            <nav> 
-            <ul role="navigation" className={showNavClass}>
-                <li><a href="/creating-a-react-project/">Setup</a></li>
-                <li><a href="/jsx/">JSX</a></li>
-                <li><a href="/the-virtual-dom/">The Virtual DOM</a></li>
-                <li><a href="/react-elements/">React elements</a></li>
-                <li><a href="/components/">Components</a></li>
-                <li><a href="/patterns/">Patterns</a></li>
-                <li><a href="/additional-topics/">Additional Topics</a></li>
-                <li><a href="/more-resources/">More Resources</a></li>
-            </ul>
-            </nav>
+           <MenuItems showNavClass={showNavClass}/>
         </div>
       </div>
     );

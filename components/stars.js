@@ -56,11 +56,14 @@ class Stars extends Component {
   render() {
     const { count } = this.state;
 
+    if(count == ''){
+      return null;
+    }
+
     return (
 
       <GitLink href="https://github.com/timarney/react-faq">
       <Wrapper>
-        
         <svg
           aria-hidden="true"
           height="16"
@@ -72,10 +75,7 @@ class Stars extends Component {
             d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"
           />
         </svg>
-        
-
         <StarCount>Star {count}</StarCount>
-        
       </Wrapper>
       </GitLink>
     );
