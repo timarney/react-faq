@@ -50,7 +50,7 @@ module.exports = React.createClass({
           >
             <Logo />
             <div id="search-box">
-              <input id="search" type="text" placeholder="search docs..." />
+              <input id="search" type="text" placeholder="search questions..." />
             </div>
             <Stars />
           </Container>
