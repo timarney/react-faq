@@ -1,4 +1,4 @@
-@media (max-width: 550px) {
+@media (max-width: 670px) {
   .header{
     flex-direction:column;
   }
@@ -30,6 +30,22 @@
     margin-right:10px;
 }
 
-#search{
-  display:none;
+#search-box{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height:60px;
+ margin-left:20px;
+ margin-right:10px;
+}
+
+#search-box input{
+  border-radius: 5px;
+  border:1px solid #666666;
+  color:#666666;
+  padding:5px;
+  text-align: center;
+  min-width: 200px;
+  height:34px;
+  line-height: 60px;
 }

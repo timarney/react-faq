@@ -9,7 +9,7 @@ import MenuMobile from "../components/menu-mobile";
 import MenuDesktop from "../components/menu-desktop";
 import Stars from "../components/stars";
 import Logo from "../components/logo";
-import '../css/main.css';
+import "../css/main.css";
 
 import MenuItems from "../components/menu-items";
 
@@ -43,12 +43,15 @@ module.exports = React.createClass({
             style={{
               maxWidth: 960,
               paddingTop: 0,
-              padding: `${rhythm(1)} ${rhythm(1/2)}`,
+              padding: `${rhythm(1)} ${rhythm(1 / 2)}`,
               display: "flex",
               justifyContent: "flex-start"
             }}
           >
             <Logo />
+            <div id="search-box">
+              <input id="search" type="text" placeholder="search docs..." />
+            </div>
             <Stars />
           </Container>
 
@@ -61,7 +64,8 @@ module.exports = React.createClass({
             paddingTop: 0
           }}
         >
-        <MenuDesktop />
+          <MenuDesktop />
+
         </Container>
 
         <Container

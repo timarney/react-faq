@@ -88,7 +88,7 @@
   display: block;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 670px) {
     .menu-mobile nav ul a {
       font-size: 1.5em;
       line-height: 1.5;

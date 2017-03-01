@@ -7,8 +7,7 @@ class MenuDesktop extends Component {
   render() {
     return (
       <div className="menu-desktop">
-        <MenuItems />
-        <input id="search" type="text"/>        
+        <MenuItems />  
       </div>
     );
   }
