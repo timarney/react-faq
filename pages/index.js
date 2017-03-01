@@ -13,8 +13,8 @@ export default class Index extends React.Component {
         <Helmet
           title={config.siteTitle}
           meta={[
-            { name: "description", content: "Sample" },
-            { name: "keywords", content: "sample, something" }
+            { name: "description", content: "Quality content about React core concepts into a central location for quick reference" },
+            { name: "keywords", content: "React, FAQ" }
           ]}
         />
         <div dangerouslySetInnerHTML={{ __html: d.body }} />

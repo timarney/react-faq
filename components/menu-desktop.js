@@ -8,6 +8,7 @@ class MenuDesktop extends Component {
     return (
       <div className="menu-desktop">
         <MenuItems />
+        <input id="search" type="text"/>        
       </div>
     );
   }
