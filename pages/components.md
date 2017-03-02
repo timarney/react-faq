@@ -79,3 +79,6 @@ See: [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
     return <div>Key: {key}, Value: {yourObject[key]}</div>;
 })}
 ```
+
+**How can I load API data into my Component?**
+* [Loading data from APIs in React](http://javascriptplayground.com/blog/2017/01/http-requests-reactjs/) Jack Franklin @Jack_Franklin
