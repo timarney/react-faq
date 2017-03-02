@@ -25,3 +25,4 @@ title: Animations
 * [velocity-react](https://github.com/twitter-fabric/velocity-react)
 * [state-transitions](https://github.com/jacobp100/state-transitions)
 * [react-tween](https://github.com/clari/react-tween)
+* [data-driven-motion](https://github.com/tkh44/data-driven-motion)
