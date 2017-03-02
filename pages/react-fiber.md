@@ -15,3 +15,6 @@ title: React Fiber
 
 **How can I contribute to Fiber?**
 * [Fiber Principles: Contributing To Fiber](https://github.com/facebook/react/issues/7942)
+
+**Where can I find out more about React Fiber?**
+* [react-fiber-resources](https://github.com/koba04/react-fiber-resources) @koba04 
