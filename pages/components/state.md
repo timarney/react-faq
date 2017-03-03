@@ -8,6 +8,49 @@ title: State
 
 * [A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react) Dave Ceddia @dceddia
 
+```javascript
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+
+    // Must initialize state first
+    this.state = { count: 0 };
+  }
+
+  handleClick() {
+    // Increment the count when the button is clicked
+    this.setState({
+      count: this.state.count + 1
+    }, function() {
+      // setState is asynchronous! This function gets called
+      // when it's finished.
+      console.log("Job's done");
+    });
+  }
+
+  render() {
+    return (
+      <div className="app">
+        <div className="click-count">
+          Button presses: {this.state.count}
+        </div>
+        <button onClick={this.handleClick.bind(this)}>
+          Add One
+        </button>
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(
+  <App />,
+  document.getElementById('container')
+);
+```
+
+**What is lifting up state?**
+* [Lifting State Up](https://facebook.github.io/react/docs/lifting-state-up.html)
+
 **How do I handle state?**
 
 * [The 5 Types Of React Application State](http://jamesknelson.com/5-types-react-application-state) James K Nelson @james_k_nelson

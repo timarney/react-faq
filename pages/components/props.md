@@ -9,7 +9,40 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 
 **How do I pass props?**
 
-* [Transferring Props](https://facebook.github.io/react/docs/transferring-props.html)
+```javascript
+// manual transfer
+ReactDOM.render(
+  <div>
+    <Shirt color="steelblue" num="3.14" size="medium"/>
+  </div>,
+  document.querySelector("#container")
+);
+
+```
+
+```javascript
+// using JSX spread attributes
+<Component {...this.props} more="values" />
+```
+
+```javascript
+// destructuring assignment with rest properties
+// ensures that you pass down all the props EXCEPT the ones you're consuming yourself
+function FancyCheckbox(props) {
+  var { checked, ...other } = props;
+  var fancyClass = checked ? 'FancyChecked' : 'FancyUnchecked';
+  // `other` contains { onClick: console.log } but not the checked property
+  return (
+    <div {...other} className={fancyClass} />
+  );
+}
+ReactDOM.render(
+  <FancyCheckbox checked={true} onClick={console.log.bind(console)}>
+    Hello world!
+  </FancyCheckbox>,
+  document.getElementById('example')
+);
+```
 
 **How do I pass boolean values?**
 
@@ -32,7 +65,7 @@ See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-v
 **How do I validate props?**
 * [Better Prop Validation in React](https://medium.com/@MoeSattler/better-prop-validation-in-react-cc83590d311f#.wdhbsrlgj) Moe Sattler @travelperk
 
-## Destructuring Props and defaultProps
+## Destructuring Props and DefaultProps
 ```
 function ExpandableForm({ onExpand, expanded = false, children }) {
   return (

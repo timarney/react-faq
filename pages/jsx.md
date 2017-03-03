@@ -5,7 +5,24 @@ title: JSX
 
 **What's JSX?**
 
->JSX is a preprocessor step that adds XML syntax to JavaScript. You can definitely use React without JSX but JSX makes React a lot more elegant. - http://buildwithreact.com
+>JSX is a preprocessor step that adds XML syntax to JavaScript. You can definitely use React without JSX but JSX makes React a lot more elegant. - http://buildwithreact.com/tutorial/jsx
+
+```javascript
+// This is JSX
+<DashboardUnit data-index="2">
+  <h1>Scores</h1>
+  <Scoreboard className="results" scores={gameScores} />
+</DashboardUnit>;
+
+// When compiled it gets turned into a function
+React.createElement(
+  DashboardUnit,
+  { "data-index": "2" },
+  React.createElement("h1", null, "Scores"),
+  React.createElement(Scoreboard, { className: "results", scores: gameScores })
+);
+
+```
 
 * [Tutorial: JSX](http://buildwithreact.com/tutorial/jsx)
 * [JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
