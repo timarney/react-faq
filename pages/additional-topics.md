@@ -4,6 +4,7 @@ title: Additional Topics
 - [Maintainable /Reusable React components](/component-reuse-maintainable/)
 - [Why use React?](/why-use-react/)
 - [Adding React to an existing app](/add-to-existing-app/)
+- [React in production](/react-production)
 - [CSS and React](/css/)
 - [Context](/context/)
 - [Forms](/forms/)

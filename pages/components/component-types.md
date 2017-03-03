@@ -102,6 +102,8 @@ const HelloWorld = ({name}) => (
 export default HelloWorld;
 ```
 
+* [Building User Interfaces with Pure Functions and Function Composition in React](https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js) @tylermcginnis33
+
 
 **What types of components are there?**
 
