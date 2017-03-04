@@ -48,8 +48,60 @@ ReactDOM.render(
 );
 ```
 
+## Lifting State Up
+
 **What is lifting up state?**
 * [Lifting State Up](https://facebook.github.io/react/docs/lifting-state-up.html)
+
+
+## Asynchronous Updates & setState()
+
+**I heard you can pass a function to setState when should do that?**
+
+> Because this.props and this.state may be updated asynchronously, you should not rely on their values for calculating the next state.  — Rect Docs
+
+> If you know you’re going to use setState to update your component and you know you’re going to need the current state or the current props of your component to calculate the next state, passing in a function as the first parameter of this.setState instead of an object is the recommended solution. — Sophia Shoemaker
+
+
+```javascript
+// state updates may be asynchronous
+
+// Wrong
+this.setState({
+  counter: this.state.counter + this.props.increment,
+});
+
+// Correct
+this.setState((prevState, props) => ({
+  counter: prevState.counter + props.increment
+}));
+
+```
+
+* 💯 [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.didjv52tx)
+
+```javascript
+// see post :: Using a function in `setState` instead of an object
+
+// outside your component class
+function increaseScore (state, props) {
+  return {score : state.score + 1}
+}
+class User{
+  ...
+// inside your component class
+  handleIncreaseScore () {
+    this.setState( increaseScore)
+  }
+  ...
+}
+
+```
+
+
+*  [Using a function in `setState` instead of an object](https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1#.h3fokbh9a) Sophia Shoemaker
+
+## Handling State
 
 **How do I handle state?**
 
@@ -70,5 +122,3 @@ ReactDOM.render(
 **Coming from jQuery... how do I adjust my mental modal to work with React / State?**
 * [Thinking Statefully](https://daveceddia.com/thinking-statefully) Dave Ceddia @dceddia
 
-**I heard you can pass a function to setState when should do that?**
-* [Using a function in `setState` instead of an object](https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1#.h3fokbh9a) Sophia Shoemaker
