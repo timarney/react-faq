@@ -5,6 +5,8 @@ title: Start
 ## Start
 This guide aims to pull together quality content about React core concepts into a central location for quick reference.
 
+> **Tip:** 🤔 Learn React before you try to jumping into things like Redux, MobX 
+
 Remember we're all learning.  Read, Try, Mess Up (it's okay).  If you find this guide helpful let me know [@timarney](https://twitter.com/timarney).
 
 ```
@@ -15,6 +17,8 @@ ReactDOM.render(
 ```
 
 >There's lots to learn but if you break it down there are some key concepts to focus on. JSX, React Elements, Components, Lifecycle Methods, Props and State.  These articles will start you down the path to learning React.
+
+
 
 **I don't know React what should I watch / read before I start?**
 * [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
