@@ -80,5 +80,63 @@ See: [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
 })}
 ```
 
+## Loading Data
+
 **How can I load API data into my Component?**
 * [Loading data from APIs in React](http://javascriptplayground.com/blog/2017/01/http-requests-reactjs/) Jack Franklin @Jack_Franklin
+
+## Async / Await support in create-react-app
+
+[Support async/await #327](https://github.com/facebookincubator/create-react-app/pull/327)
+
+```javascript
+// note: create-react-app supports using async await
+
+function status(response) {  
+  if (response.status >= 200 && response.status < 300) {  
+    return Promise.resolve(response)  
+  } else {
+    return Promise.reject(new Error(response.status))  
+  }  
+}
+
+function json(response) {  
+  return response.json()  
+}
+
+function getData(endpoint){
+ return fetch(`${root}${endpoint}`)
+  .then(status)  
+  .then(json)
+  .then((data) => data.title)
+  .catch((err) => err.message);
+}
+
+class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = { message: 'nothing to see here' };
+  }
+
+  async componentDidMount() {
+    this.state = { message: 'loading...' };
+    try {
+      let d = await getData('/posts/1');
+      this.setState({ message: d });
+    } catch (err) {
+      this.setState({ message: err });
+    }
+  }
+  
+  render() {
+    let { message } = this.state;
+    return (
+      <div className="App">
+        <p className="App-intro">
+          { message }
+        </p>
+      </div>
+    );
+  }
+} 
+```
