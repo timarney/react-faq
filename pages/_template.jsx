@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Component } from "react";
 import { Container } from "react-responsive-grid";
 import { prefixLink } from "gatsby-helpers";
 import Headroom from "react-headroom";
@@ -10,6 +10,9 @@ import MenuDesktop from "../components/menu-desktop";
 import Stars from "../components/stars";
 import Logo from "../components/logo";
 import "../css/main.css";
+import classNames from "classnames";
+
+import "../css/menu-mobile.css";
 
 import MenuItems from "../components/menu-items";
 
@@ -18,22 +21,44 @@ const Header = styled.div`
   text-align: center;
   color: palevioletred;
 `;
+class Layout extends Component {
+  state = { on: false };
 
-module.exports = React.createClass({
-  propTypes() {
-    return {
-      children: React.PropTypes.any
-    };
-  },
+  handleClick = e => {
+    const { on } = this.state;
+    this.setState({ on: !on });
+  };
+
+  renderUp(menuSectionClass, showNavClass) {
+    return (
+      <div className="menu-mobile">
+      <div className={menuSectionClass}>
+        <MenuItems handleClick={this.handleClick} showNavClass={showNavClass} />
+      </div>
+      </div>
+    );
+  }
+
   render() {
+    let { on } = this.state;
+    let menuToggleClass = classNames({ on: on, "menu-toggle": true });
+    let menuSectionClass = classNames({ on: on, "menu-section": true });
+    let showNavClass = classNames({ hidden: !on });
+
     return (
       <div>
-        <MenuMobile />
+       
+        {this.renderUp(menuSectionClass, showNavClass)}
+        
         <Headroom
+          upTolerance={5}
+          downTolerance={0}
           wrapperStyle={{
             marginBottom: rhythm(1)
           }}
           style={{
+            position:'relative',
+            zIndex:100,
             background: "rgba(55,61,73,0.975)",
             boxShadow: "0 2px 4px -1px rgba(0,0,0,0.06), 0 4px 5px 0 rgba(0,0,0,0.06), 0 1px 10px 0 rgba(0,0,0,0.08)"
           }}
@@ -50,11 +75,21 @@ module.exports = React.createClass({
           >
             <Logo />
             <div id="search-box">
-              <input id="search" type="text" placeholder="search questions..." />
+              <input
+                id="search"
+                type="text"
+                placeholder="search questions..."
+              />
             </div>
             <Stars />
-          </Container>
 
+             <MenuMobile
+          menuToggleClass={menuToggleClass}
+          menuSectionClass={menuSectionClass}
+          showNavClass={showNavClass}
+          handleClick={this.handleClick}
+        />
+          </Container>
         </Headroom>
 
         <Container
@@ -80,4 +115,6 @@ module.exports = React.createClass({
       </div>
     );
   }
-});
+}
+
+module.exports = Layout;

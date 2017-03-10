@@ -49,3 +49,22 @@
   height:34px;
   line-height: 60px;
 }
+
+summary {
+ display: block;
+}
+
+summary::-webkit-details-marker {
+ display: none;
+}
+
+summary::before {
+ content: '\25B6';
+ padding-right: 0.5em;
+ color:#C64087;
+}
+
+details[open] > summary::before {
+ content: '\25BC';
+ color:#666666;
+}

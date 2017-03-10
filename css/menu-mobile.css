@@ -69,7 +69,7 @@
   padding: 0;
   
   list-style: none;
-  margin: 6em auto;
+  margin: 12em auto;
   text-align: center;
 }
 
@@ -92,6 +92,10 @@
     .menu-mobile nav ul a {
       font-size: 1.5em;
       line-height: 1.5;
+    }
+
+    .menu-mobile nav ul {
+      margin: 8em auto;
     }
 
     .menu-mobile .menu-toggle::before {
