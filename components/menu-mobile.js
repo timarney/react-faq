@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 
-
-
 class MenuMobile extends Component {
-  
-
   render() {
-    const { menuToggleClass, menuSectionClass, showNavClass, handleClick } = this.props;
+    const {
+      menuToggleClass,
+      menuSectionClass,
+      showNavClass,
+      handleClick
+    } = this.props;
     return (
       <div className="menu-mobile">
         <div className={menuToggleClass} onClick={handleClick}>
@@ -14,7 +15,7 @@ class MenuMobile extends Component {
           <div className="two" />
           <div className="three" />
         </div>
-       {this.props.children}
+        {this.props.children}
       </div>
     );
   }

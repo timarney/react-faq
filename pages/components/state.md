@@ -122,3 +122,34 @@ class User{
 **Coming from jQuery... how do I adjust my mental modal to work with React / State?**
 * [Thinking Statefully](https://daveceddia.com/thinking-statefully) Dave Ceddia @dceddia
 
+
+> **Tip:** 🤔 Use derived state when possible see code sample below:
+
+```javascript
+class NameWithInitials extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      firstName: "",
+      lastName: "",
+      // Avoid creating state that can be derived from other state.
+      // Example: The user's initials can be derived from the two items above.
+      initials: ""
+    };
+  }
+
+  render() {
+    const { firstName, lastName } = this.state;
+    // Instead generate the user's initials on the fly like this.
+    // Or do so in a seperate function above
+    return (
+      <div>
+        Initials: {firstName.charAt(0)} + {" "} + {lastName.charAt(0)}
+      </div>
+    );
+  }
+}
+```
+
+via @housecor - [twitter link](https://twitter.com/housecor/status/839125277842231298).
+

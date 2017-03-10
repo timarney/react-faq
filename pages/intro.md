@@ -1,6 +1,11 @@
 ---
 title: Start
 ---
+## Notable
+<div class="notable">
+ 🔥 <a href="http://conf.reactjs.org">React Conf 2017</a>  March 13 & 14. The conference will be livestreamed both days, and the talks will also be recorded.
+</div>
+
 
 ## Start
 This guide aims to pull together quality content about React core concepts into a central location for quick reference.
@@ -8,7 +13,6 @@ This guide aims to pull together quality content about React core concepts into 
 > **Tip:** 🤔 Learn React before you try using things like Redux, MobX.
 
 Remember we're all learning.  Read, Try, Mess Up (it's okay).  If you find this guide helpful let me know [@timarney](https://twitter.com/timarney).
-
 
 
 ```

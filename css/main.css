@@ -1,3 +1,17 @@
+
+.notable{
+  background-color:#a6e22e;
+  padding:10px;
+  margin-bottom:2em;
+  color:#2f6daa;
+  font-size: 0.9em;
+}
+
+.notable a{
+  text-decoration: underline;
+  font-size: 1em;
+}
+
 @media (max-width: 670px) {
   .header{
     flex-direction:column;
