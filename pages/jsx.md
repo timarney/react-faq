@@ -7,22 +7,28 @@ title: JSX
 
 >JSX is a preprocessor step that adds XML syntax to JavaScript. You can definitely use React without JSX but JSX makes React a lot more elegant. - http://buildwithreact.com/tutorial/jsx
 
+> **Tip:** 🤔 You can play around with JSX [here](https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-0&targets=&browsers=&builtIns=false&code=function%20hello()%20%7B%0A%20%20return%20%3Cdiv%20className%3D%22myclass%22%3EHello%20world!%3C%2Fdiv%3E%3B%0A%7D).
+
 ```javascript
 // This is JSX
-<DashboardUnit data-index="2">
-  <h1>Scores</h1>
-  <Scoreboard className="results" scores={gameScores} />
-</DashboardUnit>;
+function hello() {
+  return <div className="myclass">Hello world!</div>;
+}
 
 // When compiled it gets turned into a function
-React.createElement(
-  DashboardUnit,
-  { "data-index": "2" },
-  React.createElement("h1", null, "Scores"),
-  React.createElement(Scoreboard, { className: "results", scores: gameScores })
-);
+"use strict";
+
+function hello() {
+  return React.createElement(
+    "div",
+    { className: "myclass" },
+    "Hello world!"
+  );
+}
 
 ```
+
+
 
 * [Tutorial: JSX](http://buildwithreact.com/tutorial/jsx)
 * [JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
