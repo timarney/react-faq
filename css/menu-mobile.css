@@ -9,6 +9,7 @@
   bottom: 0;
   position:fixed;
   background-color: rgba(55, 61, 73, 0.9);
+  overflow:scroll;
 }
 
 .menu-mobile .menu-toggle {
