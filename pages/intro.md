@@ -3,7 +3,7 @@ title: Start
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="http://conf.reactjs.org">React Conf 2017</a>  March 13 & 14. The conference will be livestreamed both days, and the talks will also be recorded.
+ 🔥 <a href="http://conf.reactjs.org">React Conf 2017</a>  March 13 & 14. The conference will be <a href="http://conf.reactjs.org/livestream">livestreamed</a> both days, and the talks will also be recorded.
 </div>
 
 
