@@ -1,7 +1,7 @@
 ---
 title: Patterns
 ---
-
+* [React patterns, techniques, tips and tricks](https://github.com/vasanthk/react-bits) @vasanth_k 
 * [React Patterns](http://reactpatterns.com) @chantastic
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns) Krasimir Tsonev
 * [Patterns For Style Composition In React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react) Brent Jackson @jxnblk
