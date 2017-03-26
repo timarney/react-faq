@@ -3,7 +3,7 @@ title: Start
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="https://github.com/vasanthk/react-bits">React Bits</a> A compilation of React Patterns, techniques, tips and tricks.
+ 🔥 <a href="https://github.com/vasanthk/react-bits">React Bits</a> a compilation of React Patterns, techniques, tips and tricks.
 </div>
 
 
