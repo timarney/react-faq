@@ -3,7 +3,7 @@ title: Start
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0">React Conf 2017</a> videos are now on YouTube.  Tons of great talks to watch and learn from.
+ 🔥 <a href="https://github.com/vasanthk/react-bits">React Bits</a> A compilation of React Patterns, techniques, tips and tricks.
 </div>
 
 
