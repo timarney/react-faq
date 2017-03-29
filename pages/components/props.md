@@ -5,7 +5,7 @@ title: Props
 **What are props?**
 >props (short for properties) are a Component's configuration, its options if you may. They are received from above and immutable as far as the Component receiving them is concerned. - react-guide
 
-See : [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+See : [State vs Props & Application Data](https://youtu.be/qh3dYM6Keuw?t=290) also [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md) 
 
 **How do I pass props?**
 
