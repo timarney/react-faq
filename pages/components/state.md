@@ -56,6 +56,8 @@ ReactDOM.render(
 
 ## Asynchronous Updates & setState()
 
+* [setState is asynchronous](https://medium.learnreact.com/setstate-is-asynchronous-52ead919a3f0) Michael Chan @chantastic
+
 **I heard you can pass a function to setState when should do that?**
 
 > Because this.props and this.state may be updated asynchronously, you should not rely on their values for calculating the next state.  — Rect Docs
