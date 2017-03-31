@@ -26,3 +26,4 @@ title: Animations
 * [state-transitions](https://github.com/jacobp100/state-transitions)
 * [react-tween](https://github.com/clari/react-tween)
 * [data-driven-motion](https://github.com/tkh44/data-driven-motion)
+* [animate-components](https://github.com/nitin42/animate-components)
