@@ -25,7 +25,7 @@ npm start
 * [react-server](https://github.com/redfin/react-server) Batteries-included Server-rendered React applications. Note: also see [React 30 -> 002 - Streaming React](https://www.youtube.com/watch?v=XW_c60NCkI4)
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate) A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
 * [create-react-pwa](https://github.com/jeffposnick/create-react-pwa) + Progressive Web App goodness
-* [gatsby](https://github.com/gatsbyjs/gatsby) Transform plain text into dynamic blogs and websites using React.js
+* [Gatsby](https://github.com/gatsbyjs/gatsby) Transform plain text into dynamic blogs and websites using React.js (used for this website!)
 * [The Minimal React Webpack Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup) @rwieruch
 
 Also see these [projects](https://github.com/facebookincubator/create-react-app#alternatives)
