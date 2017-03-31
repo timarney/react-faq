@@ -37,6 +37,7 @@ ReactDOM.render(
 * 🔥 [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react)  @kjendrzyca
 * [The 5 Things You Need To Know To Understand React](https://medium.com/@sachagreif/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.uii8of7um) Sacha Greif
 * [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)
+* [Yes, React is taking over front-end development. The question is why](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) Samer Buna @samerbuna
 
 <details>
  <summary>Additional information to start with</summary>
