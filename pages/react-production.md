@@ -5,7 +5,7 @@ title: React in production
 > Turn Off Development mode [Development and Production Versions](https://facebook.github.io/react/docs/installation.html#development-and-production-versions)
 
 
-** How can I code split at the component level? **
+**How can I code split at the component level?**
 * [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178) James Kyle @thejameskyle
 
 **Where can I find good info on using React in production?**
