@@ -54,7 +54,12 @@ ReactDOM.render(
 
 ## PropTypes
 
+> **Note:** 📌 As of React v15.5.0 prop types are separate package https://www.npmjs.com/package/prop-types + https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html
+
+<hr>
+
 >PropTypes are essentially a dictionary where you define what props your component needs and what type(s) they should be. -  Niels Gerritsen
+
 
 **What are PropTypes?**
 * [What are PropTypes?](https://themeteorchef.com/snippets/what-are-proptypes) Ryan Glover @themeteorchef
