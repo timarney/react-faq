@@ -3,7 +3,7 @@ title: Start
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="https://github.com/vasanthk/react-bits">React Bits</a> a compilation of React Patterns, techniques, tips and tricks.
+ 🔥 <a href="http://reactpatterns.com">http://reactpatterns.com</a> a great collection of React Patterns by @chantastic
 </div>
 
 
