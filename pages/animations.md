@@ -28,3 +28,4 @@ title: Animations
 * [react-tween](https://github.com/clari/react-tween)
 * [data-driven-motion](https://github.com/tkh44/data-driven-motion)
 * [animate-components](https://github.com/nitin42/animate-components)
+* [react-move](https://react-move.js.org)
