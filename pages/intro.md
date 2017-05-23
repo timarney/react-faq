@@ -3,7 +3,7 @@ title: Start
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="http://reactpatterns.com">http://reactpatterns.com</a> a great collection of React Patterns by @chantastic
+ 🔥 <a href="https://storybooks.js.org">React Storybook</a>  UI development environment for your React components.
 </div>
 
 
