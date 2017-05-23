@@ -156,7 +156,7 @@ class NameWithInitials extends React.Component {
 via @housecor - [twitter link](https://twitter.com/housecor/status/839125277842231298).
 
 
-## Handling Intial State
+## Handling Initial State
 
 **How do I handle Intial state?**
 
