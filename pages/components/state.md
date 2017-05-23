@@ -155,3 +155,43 @@ class NameWithInitials extends React.Component {
 
 via @housecor - [twitter link](https://twitter.com/housecor/status/839125277842231298).
 
+
+## Handling Intial State
+
+**How do I handle Intial state?**
+
+Use the constructor method also see tip below.
+
+```javascript
+class MyComponent1 extends React.Component{
+    constructor(props){
+        super(props);
+        this.state = {myVal: 'val'}
+    }
+}
+```
+
+> **Tip:** 🤔 You don't need to declare a constructor in your React component to initialize state via @housecor:
+
+```javascript
+
+// via @housecor https://twitter.com/housecor/status/866651617998897152
+// Traditional way
+class MyComponent1 extends React.Component{
+    constructor(props){
+        super(props);
+        this.state = {myVal: 'val'}
+    }
+}
+
+//Using public class field
+class MyComponent2 extends React.Component{
+    state = {
+        myVal: 'val'
+    }
+}
+
+```
+
+
+
