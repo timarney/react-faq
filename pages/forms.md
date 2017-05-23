@@ -4,6 +4,7 @@ title: Forms
 
 **How can I build forms with React?**
 
+* [Forms In React](http://presentations.survivejs.com/forms-in-react) Juho Vepsäläinen @bebraw
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms) James K Nelson @james_k_nelson
 
 **How can I validate form input?**
