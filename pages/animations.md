@@ -29,3 +29,5 @@ title: Animations
 * [data-driven-motion](https://github.com/tkh44/data-driven-motion)
 * [animate-components](https://github.com/nitin42/animate-components)
 * [react-move](https://react-move.js.org)
+* [gsap](https://www.npmjs.com/package/gsap) not React specific but works great see [Using TweenMax with React](https://egghead.io/lessons/react-using-tweenmax-with-react) + talks from @sarah_edo mention
+* [react-transition-group-plus](https://www.npmjs.com/package/react-transition-group-plus)
