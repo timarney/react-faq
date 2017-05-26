@@ -8,3 +8,4 @@ title: Patterns
 * [react-pattern-match](https://twitter.com/tkh44/status/827605381337735168/photo/1) @tkh44
 * [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.nz1zzh6qf) @D__Gilbertson
 * [Use Property Initializers for Cleaner React Components](https://www.fullstackreact.com/articles/use-property-initializers-for-cleaner-react-components) Anthony Accomazzo
+* [React Patterns and Practices](http://elijahmanor.com/talks/react-patterns-practices) @elijahmanor
