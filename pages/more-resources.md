@@ -6,3 +6,7 @@ title: More Resources
 - [Training](/training/)
 - [Books](/books/)
 - [Newsletters](/newsletters/)
+
+
+## Podcast
+https://5minreact.audio
