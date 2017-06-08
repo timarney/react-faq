@@ -83,11 +83,14 @@ Also:
 * [Real World Examples of Higher-Order Components](http://rea.tech/reactjs-real-world-examples-of-higher-order-components/) Mehdi Mollaverdi @mehdimollaverdi
 * [Understanding Higher Order Components](https://medium.freecodecamp.com/understanding-higher-order-components-6ce359d761b) @tmeasday
 
-**Function as Child Components** [```<Code />```](http://reactpatterns.com/#function-as-children)
+**Function as Child Components / Render callbacks** [```<Code />```](http://reactpatterns.com/#function-as-children)
 
 * [ReactCasts #2 - Function as Child Components](https://www.youtube.com/watch?v=WE3XAt9P8Ek) Cassio Zen @cassiozen
 * [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.10fbiyqc5) Merrick Christensen @iammerrick
 * [I've mentioned this before, but I'm a big fan of child functions in React](https://twitter.com/brian_d_vaughn/status/779362701596164097) Brian Vaughn @brian_d_vaughn
+* [Simplifying life with React render callbacks](https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55) @AdamRackis
+* [React Patterns - Render Callback](https://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback) @leogcrespo
+
 
 
 **What is a Pure Component?**
