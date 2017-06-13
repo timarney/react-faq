@@ -193,5 +193,8 @@ class MyComponent2 extends React.Component{
 
 ```
 
+**How do I handle making state immutable in React?**
+* [Handling State in React: Four Immutable Approaches to Consider](https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5) @housecor
+
 
 
