@@ -3,7 +3,7 @@ title: Start
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="https://storybooks.js.org">React Storybook</a>  UI development environment for your React components.
+ 🔥 <a href="https://5minreact.audio">5 minutes of React podcast</a> Podcast about React hot topics and JavaScript ecosystem.
 </div>
 
 
@@ -38,6 +38,7 @@ ReactDOM.render(
 * [The 5 Things You Need To Know To Understand React](https://medium.com/@sachagreif/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.uii8of7um) Sacha Greif
 * [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)
 * [Yes, React is taking over front-end development. The question is why](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) Samer Buna @samerbuna
+* [React Out of the Box - React for Newbies](https://www.youtube.com/watch?v=100pKUE3OPI) Rob Merrill @robgmerrill 
 
 <details>
  <summary>Additional information to start with</summary>
