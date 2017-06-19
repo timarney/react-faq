@@ -10,4 +10,4 @@ title: Patterns
 * [Use Property Initializers for Cleaner React Components](https://www.fullstackreact.com/articles/use-property-initializers-for-cleaner-react-components) Anthony Accomazzo
 * [React Patterns and Practices](http://elijahmanor.com/talks/react-patterns-practices) @elijahmanor
 * [React Binding Patterns: 5 Approaches for Handling `this`](https://medium.freecodecamp.com/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56) @housecor
-* [Techniques for decomposing React components](https://medium.com/@Dvtng/techniques-for-decomposing-react-components-e8a1081ef5da)David Tang @Dvtng
+* [Techniques for decomposing React components](https://medium.com/@Dvtng/techniques-for-decomposing-react-components-e8a1081ef5da) David Tang @Dvtng
