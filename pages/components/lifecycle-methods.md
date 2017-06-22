@@ -13,6 +13,12 @@ title: Lifecycle Methods
 * [My #reactjs component lifecycle cheatsheet for quick reference](https://twitter.com/pbesh/status/738008776805060608) Peter Beshai @pbesh
 * [React component’s lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.w7v5cw6tk) Osmel Mora @osmel_mora
 
+**Where can I find information about React Lifecycle Methods without the jargon?**
+* [React Lifecycle](https://gist.github.com/jcreamer898/aeaf4b7a08b9871c3a48ad4bb7ccb35c) @jcreamer898 
+
 **How do I use React Lifecycle Methods them?**
 
 * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) Scott Domes @scottdomes
+
+
+
