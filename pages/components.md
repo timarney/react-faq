@@ -18,6 +18,12 @@ title: Components
 - [Keys](/components/keys/)
 - [Refs](/components/refs/)
 
+
+**When should I split my code out into a component?**
+Front End Center — Single Responsibility Components: Object-Oriented Design in React @glenmaddern @frontendcenter
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pSdp92Up8O8" frameborder="0" allowfullscreen></iframe>
+
+
 **What are some of your best practices when working with components?**
 
 * Keep it [F]ocused.
