@@ -31,3 +31,4 @@ title: Animations
 * [react-move](https://react-move.js.org)
 * [gsap](https://www.npmjs.com/package/gsap) not React specific but works great see [Using TweenMax with React](https://egghead.io/lessons/react-using-tweenmax-with-react) + talks from @sarah_edo mention
 * [react-transition-group-plus](https://www.npmjs.com/package/react-transition-group-plus)
+* [Popmotion x React](https://popmotion.io/api/react)
