@@ -13,5 +13,8 @@ title: More Resources
 ## Podcast
 https://5minreact.audio
 
+## Fun
+- [Fun React Projects](/fun/)
+
 
 
