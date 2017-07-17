@@ -7,6 +7,7 @@ title: Deep Dive
 * [React Architecture – OSCON](http://blog.vjeux.com/2014/javascript/react-architecture-oscon.html) Christopher Chedeau @vjeux
 * [ReactJS: Under The Hood](https://www.youtube.com/watch?v=xsKYAa1ZXpQ) Boris Dinkevich @BorisDinkevich
 * [REACT INTERNALS](https://zackargyle.github.io/react-internals-slides/#/?_k=7f19z9) Zack Argyle @ZackArgyle
+* [Under the hood: ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS) @bliashenko
 
 ## Contributing to React JS
 
