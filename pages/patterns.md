@@ -23,3 +23,6 @@ title: Patterns
 * [Avoiding deeply nested component trees](https://medium.com/@RubenOostinga/avoiding-deeply-nested-component-trees-973edb632991) Ruben Oostinga @RubenOostinga
 
 
+**How can I extract logic out of my components**
+* [Extracting Logic from React Components](https://javascriptplayground.com/blog/2017/07/react-extracting-logic) @Jack_Franklin
+
