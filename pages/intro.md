@@ -52,3 +52,4 @@ ReactDOM.render(
 * [All the terrible things I did the first time I wrote a complex React App ](https://youtu.be/Fk--XUEorvc?t=20666) Raquel @raquelxmoss
 * [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) Eric W. Greene / Microsoft Virtual Academy
 </details>
+* [A few things every new React developer should know part 1](https://medium.com/deepscan/a-few-things-every-new-react-developer-should-know-part-1-93940e11800a) @pieceoflena
