@@ -28,6 +28,8 @@ title: Patterns
 
 
 **How can I move rendering logic out of my components?**
+
 Ryan Florence - Compound Components
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEGg-3pIHlE" frameborder="0" allowfullscreen></iframe>
 
