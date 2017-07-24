@@ -10,7 +10,7 @@ title: Start
 ## Start
 This guide aims to pull together quality content about React core concepts into a central location for quick reference.
 
-> **Tip:** 🤔 Learn React before you try using things like Redux, MobX.
+> **Tip:** 🤔 Learn React before you try using things like Redux, MobX.  See: [8 things to learn in React before using Redux](https://www.robinwieruch.de/learn-react-before-using-redux/) @rwieruch
 
 Remember we're all learning.  Read, Try, Mess Up (it's okay).  If you find this guide helpful let me know [@timarney](https://twitter.com/timarney).
 
