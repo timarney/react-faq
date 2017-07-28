@@ -96,3 +96,10 @@ See: [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
 ## Async / Await support in create-react-app
 
 [Support async/await #327](https://github.com/facebookincubator/create-react-app/pull/327)
+
+## Error Handling
+
+[Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html) Dan Abramov @dan_abramov
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here’s some errors you won’t ever see again.</p>&mdash; Dan Abramov (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/890357529494073348">July 26, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
