@@ -3,7 +3,7 @@ title: Start
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="https://5minreact.audio">5 minutes of React podcast</a> Podcast about React hot topics and JavaScript ecosystem.
+ 🔥 <a href="https://github.com/facebook/react/issues/10294">Try the React 16 beta</a> .
 </div>
 
 
