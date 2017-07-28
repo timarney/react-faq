@@ -13,3 +13,8 @@ title: React in production
 * [Improving first time load of a Production React App (Part 1 of 2)](https://hackernoon.com/improving-first-time-load-of-a-production-react-app-part-1-of-2-e7494a7c7ab0#.2yvoqi46t) Kanav Arora
 
 * [How OkCupid organizes its multi-page React app](https://tech.okcupid.com/how-okcupid-organizes-its-multi-page-react-app) Morley Zhi
+
+
+**How can I setup my app to work in multiple environments?**
+
+[Using React in Multiple Environments](https://daveceddia.com/multiple-environments-with-react) @dceddia
