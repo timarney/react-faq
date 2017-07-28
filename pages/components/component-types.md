@@ -92,6 +92,7 @@ Also:
 * [I've mentioned this before, but I'm a big fan of child functions in React](https://twitter.com/brian_d_vaughn/status/779362701596164097) Brian Vaughn @brian_d_vaughn
 * [Simplifying life with React render callbacks](https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55) @AdamRackis
 * [React Patterns - Render Callback](https://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback) @leogcrespo
+* [Sharing stateful UI logic in React apps using Render Callback components](https://trevordmiller.com/blog/react-render-callback-components) @trevordmiller
 
 
 
