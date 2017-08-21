@@ -10,7 +10,7 @@ title: PATENTS
 * [Open Source Community Over-REACTs to X Rated Code](https://heathermeeker.com/2017/08/19/open-source-community-over-reacts-to-x-rated-code/amp)
 * [Explaining React's license](https://code.facebook.com/posts/112130496157735/explaining-react-s-license)
 
-> [ No problem with react.js](https://lists.gnu.org/archive/html/directory-discuss/2017-01/msg00025.html) "After studying the patent grant that covers React.js, I see it is not a problem after all.  That program is ok to list". **Dr Richard Stallman** 
+> "After studying the patent grant that covers React.js, I see it is not a problem after all.  That program is ok to list". **Dr Richard Stallman** - [ No problem with react.js](https://lists.gnu.org/archive/html/directory-discuss/2017-01/msg00025.html)
 
 
 
