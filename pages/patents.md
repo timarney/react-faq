@@ -13,5 +13,9 @@ title: PATENTS
 
 > "After studying the patent grant that covers React.js, I see it is not a problem after all.  That program is ok to list". **Dr Richard Stallman** - [ No problem with react.js](https://lists.gnu.org/archive/html/directory-discuss/2017-01/msg00025.html)
 
+* [Automattic Will Continue to Use React.js in Calypso Despite Patent Clause](https://wptavern.com/automattic-will-continue-to-use-react-js-in-calypso-despite-patent-clause)
+
+> According to Sieminski, “The companies with the greatest concern are those that have large patent portfolios and engage in offensive patent litigation, especially against Facebook.”
+
 
 
