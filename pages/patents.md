@@ -22,5 +22,8 @@ title: PATENTS
 
 > Meanwhile, in private business, there is little controversy about using code under the BSD+patent terms. Most companies have examined the marginal legal risk of this license compared to others (like Apache 2.0) and considered it underwhelming. Unless a company decides to sue Facebook (or accuse its products), the termination trigger has no actual effect. 
 
+**Where can I find answers to common questions about the additional patent grant?**
+* [Facebook - Open Source License FAQ](https://code.facebook.com/pages/850928938376556)
+
 
 
