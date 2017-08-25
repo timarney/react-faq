@@ -18,4 +18,9 @@ title: PATENTS
 > According to Sieminski, “The companies with the greatest concern are those that have large patent portfolios and engage in offensive patent litigation, especially against Facebook.”
 
 
+* [Don’t Over-REACT to the Facebook Patents License](https://blog.fossa.io/dont-over-react-to-the-facebook-patents-license-629f708f2221)
+
+> Meanwhile, in private business, there is little controversy about using code under the BSD+patent terms. Most companies have examined the marginal legal risk of this license compared to others (like Apache 2.0) and considered it underwhelming. Unless a company decides to sue Facebook (or accuse its products), the termination trigger has no actual effect. 
+
+
 
