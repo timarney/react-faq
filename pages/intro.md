@@ -3,7 +3,7 @@ title: Start
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="https://github.com/facebook/react/issues/10294">Try the React 16 beta</a> .
+ 🔥 <a href="https://reactfaq.site/react16">New - React 16 resources</a> .
 </div>
 
 
