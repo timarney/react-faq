@@ -1,7 +1,4 @@
 var plugins = [{
-      plugin: require('/Users/timarney/Desktop/faq/react-faq/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
-      options: {"plugins":[]},
-    },{
       plugin: require('/Users/timarney/Desktop/faq/react-faq/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
     },{

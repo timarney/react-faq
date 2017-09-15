@@ -24,15 +24,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "additional-topics.json",
-        "path": "/additional-topics/"
+        "jsonName": "add-to-existing-app.json",
+        "path": "/add-to-existing-app/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "add-to-existing-app.json",
-        "path": "/add-to-existing-app/"
+        "jsonName": "additional-topics.json",
+        "path": "/additional-topics/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -45,8 +45,22 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "books.json",
+        "path": "/books/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "component-reuse-maintainable.json",
         "path": "/component-reuse-maintainable/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "components.json",
+        "path": "/components/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -66,22 +80,8 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "books.json",
-        "path": "/books/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "css.json",
         "path": "/css/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "components.json",
-        "path": "/components/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -101,6 +101,13 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "fun.json",
+        "path": "/fun/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "gotchas.json",
         "path": "/gotchas/"
     },
@@ -115,15 +122,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "fun.json",
-        "path": "/fun/"
+        "jsonName": "internationalization.json",
+        "path": "/internationalization/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "internationalization.json",
-        "path": "/internationalization/"
+        "jsonName": "interview-questions.json",
+        "path": "/interview-questions/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -143,13 +150,6 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "interview-questions.json",
-        "path": "/interview-questions/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "more-resources.json",
         "path": "/more-resources/"
     },
@@ -164,6 +164,13 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "patents.json",
+        "path": "/patents/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "patterns.json",
         "path": "/patterns/"
     },
@@ -173,13 +180,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "performance.json",
         "path": "/performance/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "patents.json",
-        "path": "/patents/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -227,6 +227,13 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "server-side-rendering.json",
+        "path": "/server-side-rendering/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "style-guides.json",
         "path": "/style-guides/"
     },
@@ -236,13 +243,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "svg-react.json",
         "path": "/svg-react/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "server-side-rendering.json",
-        "path": "/server-side-rendering/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -262,15 +262,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "third-party-libraries.json",
-        "path": "/third-party-libraries/"
+        "jsonName": "the-virtual-dom.json",
+        "path": "/the-virtual-dom/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "the-virtual-dom.json",
-        "path": "/the-virtual-dom/"
+        "jsonName": "third-party-libraries.json",
+        "path": "/third-party-libraries/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -318,13 +318,6 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "components-component-types.json",
-        "path": "/components/component-types/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "components-controlled-components.json",
         "path": "/components/controlled-components/"
     },
@@ -334,6 +327,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "components-events.json",
         "path": "/components/events/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "components-component-types.json",
+        "path": "/components/component-types/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -360,15 +360,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "components-props.json",
-        "path": "/components/props/"
+        "jsonName": "components-refs.json",
+        "path": "/components/refs/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "components-refs.json",
-        "path": "/components/refs/"
+        "jsonName": "components-props.json",
+        "path": "/components/props/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

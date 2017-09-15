@@ -15,12 +15,12 @@
                 },
                 {
                     "node": {
-                        "path": "/additional-topics/"
+                        "path": "/add-to-existing-app/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/add-to-existing-app/"
+                        "path": "/additional-topics/"
                     }
                 },
                 {
@@ -30,7 +30,17 @@
                 },
                 {
                     "node": {
+                        "path": "/books/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/component-reuse-maintainable/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/components/"
                     }
                 },
                 {
@@ -45,17 +55,7 @@
                 },
                 {
                     "node": {
-                        "path": "/books/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/css/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/components/"
                     }
                 },
                 {
@@ -70,6 +70,11 @@
                 },
                 {
                     "node": {
+                        "path": "/fun/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/gotchas/"
                     }
                 },
@@ -80,12 +85,12 @@
                 },
                 {
                     "node": {
-                        "path": "/fun/"
+                        "path": "/internationalization/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/internationalization/"
+                        "path": "/interview-questions/"
                     }
                 },
                 {
@@ -100,11 +105,6 @@
                 },
                 {
                     "node": {
-                        "path": "/interview-questions/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/more-resources/"
                     }
                 },
@@ -115,17 +115,17 @@
                 },
                 {
                     "node": {
+                        "path": "/patents/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/patterns/"
                     }
                 },
                 {
                     "node": {
                         "path": "/performance/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/patents/"
                     }
                 },
                 {
@@ -160,17 +160,17 @@
                 },
                 {
                     "node": {
+                        "path": "/server-side-rendering/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/style-guides/"
                     }
                 },
                 {
                     "node": {
                         "path": "/svg-react/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/server-side-rendering/"
                     }
                 },
                 {
@@ -185,12 +185,12 @@
                 },
                 {
                     "node": {
-                        "path": "/third-party-libraries/"
+                        "path": "/the-virtual-dom/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/the-virtual-dom/"
+                        "path": "/third-party-libraries/"
                     }
                 },
                 {
@@ -225,17 +225,17 @@
                 },
                 {
                     "node": {
-                        "path": "/components/component-types/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/components/controlled-components/"
                     }
                 },
                 {
                     "node": {
                         "path": "/components/events/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/components/component-types/"
                     }
                 },
                 {
@@ -255,12 +255,12 @@
                 },
                 {
                     "node": {
-                        "path": "/components/props/"
+                        "path": "/components/refs/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/components/refs/"
+                        "path": "/components/props/"
                     }
                 },
                 {

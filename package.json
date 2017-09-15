@@ -10,7 +10,6 @@
     "classnames": "^2.2.5",
     "gatsby": "^1.8.12",
     "gatsby-link": "^1.6.8",
-    "gatsby-plugin-google-analytics": "^1.0.4",
     "gatsby-plugin-manifest": "^1.0.4",
     "gatsby-plugin-offline": "^1.0.4",
     "gatsby-plugin-preact": "^1.0.3",
@@ -32,16 +31,14 @@
     "typeface-merriweather": "^0.0.35",
     "typeface-montserrat": "^0.0.37",
     "typography-plugin-code": "^0.15.11",
-    "typography-theme-wordpress-2016": "^0.15.1",
     "unfetch": "^3.0.0"
   },
   "devDependencies": {
-    "gh-pages": "^0.12.0",
     "prettier": "^1.6.1"
   },
   "homepage": "https://reactfaq.site",
   "keywords": [
-    "gatsby"
+    "React FAQ"
   ],
   "license": "MIT",
   "main": "n/a",

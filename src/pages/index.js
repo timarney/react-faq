@@ -18,11 +18,9 @@ class BlogIndex extends React.Component {
             post.node.path !== "/404/" &&
             post.node.frontmatter.path === "/intro/"
           ) {
-            console.log(post.node);
-
             const title = get(post, "node.frontmatter.title") || post.node.path;
             return (
-              <div class="markdown" key={post.node.frontmatter.path}>
+              <div className="markdown" key={post.node.frontmatter.path}>
                 <p dangerouslySetInnerHTML={{ __html: post.node.html }} />
               </div>
             );

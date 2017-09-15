@@ -37,6 +37,9 @@ jspm_packages
 .node_repl_history
 
 
+.cache/*
+
+
 build/*
 .idea
 
