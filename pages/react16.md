@@ -13,6 +13,7 @@ title: React 16
 *Error Handling*
 * [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html) Dan Abramov @dan_abramov
 * [Error Handling using Error Boundaries in React 16](https://egghead.io/lessons/react-error-handling-using-error-boundaries-in-react-16) Nik Graf @nikgraf
+* [2 Minutes to Learn React 16's componentDidCatch Lifecycle Method](https://medium.com/@sgroff04/2-minutes-to-learn-react-16s-componentdidcatch-lifecycle-method-d1a69a1f753) Sean Groff @_SeanGroff
 
 *DOM Attributes*
 * [DOM Attributes in React 16](https://facebook.github.io/react/blog/2017/09/08/dom-attributes-in-react-16.html) Dan Abramov @dan_abramov
