@@ -11,12 +11,13 @@ const items = [
   { href: "intro", text: "Start" },
   { href: "creating-a-react-project", text: "Setup" },
   { href: "jsx", text: "JSX" },
-  { href: "the-virtual-dom", text: "Virtual DOM" },
-  { href: "react-elements", text: "React Elements" },
+  { href: "the-virtual-dom", text: "VDOM" },
+  { href: "react-elements", text: "Elements" },
   { href: "components", text: "Components" },
   { href: "patterns", text: "Patterns" },
   { href: "additional-topics", text: "Additional Topics" },
-  { href: "more-resources", text: "Resources" }
+  { href: "more-resources", text: "Resources"},
+  { href: "react16", text: "React 16" }
 ];
 
 function MenuItems(props) {
