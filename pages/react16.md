@@ -23,7 +23,11 @@ title: React 16
 * DEMO rendering Portals using ReactDOM.createPortal -> https://codesandbox.io/s/3r7zxqzx55
 
 *Async Mode*
-* need some content
+
+**Lin Clark - A Cartoon Intro to Fiber - React Conf 2017**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZCuYPiUIONs" frameborder="0" allowfullscreen></iframe>
+
+Additional Fiber info here https://reactfaq.site/react-fiber
 
 
 *Fragments*
