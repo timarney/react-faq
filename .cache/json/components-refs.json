@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/components/refs.md absPath of file >>> MarkdownRemark",
+            "html": "<blockquote>\n<p>The ref attribute makes it possible to store a reference to a particular React element or component returned by the component render() configuration function. This can be valuable when you need a reference, from within a component, to some element or component contained within the render() function. - reactenlightenment.com</p>\n</blockquote>\n<p><strong>What are refs and are string refs are bad?</strong></p>\n<ul>\n<li><a href=\"https://facebook.github.io/react/docs/more-about-refs.html\">Refs to Components</a></li>\n<li><a href=\"https://facebook.github.io/react/docs/refs-and-the-dom.html\">Refs and the DOM</a></li>\n<li><a href=\"https://twitter.com/dan_abramov/status/752936646602031104\">Why do you use findDOMNode()?</a> Dan Abramov @dan_abramov</li>\n<li><a href=\"https://news.ycombinator.com/edit?id=12093234\">String refs are bad in quite a few ways</a> Dan Abramov @dan_abramov</li>\n</ul>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-javascript\"><code><span class=\"token comment\" spellcheck=\"true\">// use ref to easily add autofocus</span>\n\n<span class=\"token keyword\">class</span> <span class=\"token class-name\">Input</span> <span class=\"token keyword\">extends</span> <span class=\"token class-name\">Component</span> <span class=\"token punctuation\">{</span>\n  <span class=\"token function\">focus</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">{</span>\n    <span class=\"token keyword\">this</span><span class=\"token punctuation\">.</span>el<span class=\"token punctuation\">.</span><span class=\"token function\">focus</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n  <span class=\"token punctuation\">}</span>\n\n  <span class=\"token function\">render</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">{</span>\n    <span class=\"token keyword\">return</span> <span class=\"token punctuation\">(</span>\n      <span class=\"token operator\">&lt;</span>input\n        ref<span class=\"token operator\">=</span><span class=\"token punctuation\">{</span>el<span class=\"token operator\">=></span> <span class=\"token punctuation\">{</span> <span class=\"token keyword\">this</span><span class=\"token punctuation\">.</span>el <span class=\"token operator\">=</span> el<span class=\"token punctuation\">;</span> <span class=\"token punctuation\">}</span><span class=\"token punctuation\">}</span>\n      <span class=\"token operator\">/</span><span class=\"token operator\">></span>\n    <span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n  <span class=\"token punctuation\">}</span>\n<span class=\"token punctuation\">}</span>\n</code></pre>\n      </div>",
+            "frontmatter": {
+                "title": "Refs"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/components/refs/"
+    }
+}

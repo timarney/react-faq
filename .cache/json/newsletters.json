@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/newsletters.md absPath of file >>> MarkdownRemark",
+            "html": "<p><strong>Where can I find React specific newsletters?</strong></p>\n<ul>\n<li><a href=\"http://reactjsnewsletter.com\">React.js Newsletter</a></li>\n<li><a href=\"http://react.statuscode.com\">React Status</a></li>\n<li><a href=\"http://newsletter.fullstackreact.com\">Fullstack React</a></li>\n<li><a href=\"https://thisweekinreact.com\">This Week In React</a></li>\n<li><a href=\"http://reactdigest.net\">React Digest</a></li>\n</ul>",
+            "frontmatter": {
+                "title": "Newsletters"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/newsletters/"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/components/children-api.md absPath of file >>> MarkdownRemark",
+            "html": "<ul>\n<li><a href=\"https://www.youtube.com/watch?v=DJ53-G8EbxE\">ReactCasts #3 - React’s Children API</a> Cassio Zen @cassiozen</li>\n<li><a href=\"https://mxstbr.blog/2017/02/react-children-deepdive\">A deep dive into children in React</a> Max Stoiber @mxstbr</li>\n</ul>",
+            "frontmatter": {
+                "title": "Children API"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/components/children-api/"
+    }
+}

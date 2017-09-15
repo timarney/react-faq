@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/books.md absPath of file >>> MarkdownRemark",
+            "html": "<p><strong>Where can I find some good books about React?</strong></p>\n<ul>\n<li><a href=\"http://www.reactenlightenment.com\">React Enlightenment </a> Cody Lindley @codylindley</li>\n<li><a href=\"http://academy.plot.ly/#react\">Build your first real world React.js application</a> Max Stoiber @mxstbr</li>\n<li><a href=\"http://survivejs.com/react/introduction\">SurviveJS React</a></li>\n<li><a href=\"https://www.fullstackreact.com\">Fullstack React</a></li>\n</ul>",
+            "frontmatter": {
+                "title": "Books"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/books/"
+    }
+}

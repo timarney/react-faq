@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/why-use-react.md absPath of file >>> MarkdownRemark",
+            "html": "<blockquote>\n</blockquote>\n<ul>\n<li>Composable components</li>\n<li>Easy to use with existing projects</li>\n<li>Declarative</li>\n<li>Functional / Immutable friendly</li>\n</ul>\n<p><strong>Is it fast?</strong></p>\n<ul>\n<li><a href=\"https://medium.com/react-weekly/is-react-js-fast-faster-than-framework-or-are-there-more-relevant-questions-to-be-asking-bcf40211f89b#.ll2aubhbi\">Is React.js fast? Faster than {framework}? … or are there more relevant questions to be asking?</a> Jeff Barczewski @jeffbski</li>\n</ul>\n<p><strong>What so good about React?</strong></p>\n<ul>\n<li><a href=\"https://vacuumlabs.com/blog/7-strengths-of-react-every-programmer-should-know-about\">7 Strengths of React Every Programmer Should Know About</a> Samuel Hapák @samuha</li>\n<li><a href=\"https://facebook.github.io/react/contributing/design-principles.html\">Design Principles</a></li>\n</ul>",
+            "frontmatter": {
+                "title": "Why use React?"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/why-use-react/"
+    }
+}

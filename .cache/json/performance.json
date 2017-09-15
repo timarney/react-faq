@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/performance.md absPath of file >>> MarkdownRemark",
+            "html": "<p><strong>How can I make my app faster?</strong></p>\n<ul>\n<li><a href=\"https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.gvyat7vkb\">Component Rendering Performance in React</a> Grgur Grisogono</li>\n<li><a href=\"https://twitter.com/dan_abramov/status/759383530120110080\">Don‘t use PureComponent everywhere. Measure</a> Dan Abramov @dan_abramov</li>\n<li><a href=\"https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.hewsz120q\">React.js pure render performance anti-pattern</a></li>\n<li><a href=\"http://jamesknelson.com/should-i-use-shouldcomponentupdate\">Should I use shouldComponentUpdate?</a> James K Nelson @james<em>k</em>nelson</li>\n<li><a href=\"https://facebook.github.io/react/docs/reconciliation.html\">Reconciliation</a></li>\n<li><a href=\"http://presentations.survivejs.com/react-performance/#/?_k=ivqhoe\">Quick slides on #reactjs performance</a> Juho Vepsäläinen @bebraw</li>\n</ul>",
+            "frontmatter": {
+                "title": "Performance"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/performance/"
+    }
+}

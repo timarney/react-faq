@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/the-virtual-dom.md absPath of file >>> MarkdownRemark",
+            "html": "<blockquote>\n<p>The Virtual DOM provides a lightweight implementation of the DOM and events system. Instead of dealing with the browser, you manipulate an in-memory version of the DOM.</p>\n</blockquote>\n<p><strong>What is the Virtual DOM?</strong></p>\n<ul>\n<li>💯  <a href=\"https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.q3jxayda5\">The Inner Workings Of Virtual DOM</a> @rajaraodv</li>\n<li><a href=\"http://calendar.perfplanet.com/2013/diff/\">React’s diff algorithm</a> Christopher Chedeau @vjeux</li>\n<li><a href=\"https://hashnode.com/post/the-one-thing-that-no-one-properly-explains-about-react-why-virtual-dom-cisczhfj41bmssp53mvfwmgrq\">The one thing that no one properly explains about React — Why Virtual DOM</a> Sai Kishore Komanduri @saiki</li>\n<li><a href=\"https://www.youtube.com/watch?v=-DX3vJiqxm4\">Pete Hunt: The Secrets of React’s Virtual DOM (FutureJS 2014)</a></li>\n</ul>\n<p><strong>Is the Virtual DOM all about speed?</strong></p>\n<ul>\n<li><em>No</em> See : <a href=\"https://twitter.com/dan_abramov/status/790326092582252544\">https://twitter.com/dan_abramov/status/790326092582252544</a> &#x26; <a href=\"https://twitter.com/acdlite/status/779693791607336960\">https://twitter.com/acdlite/status/779693791607336960</a></li>\n</ul>\n<blockquote>\n<p>I wonder if we can reclaim the VDOM term to mean “Value DOM”, as in Value Type, instead of “Virtual DOM”…? More accurate. <strong>@sebmarkbage</strong></p>\n</blockquote>\n<hr>\n<blockquote>\n<p>It doesn’t improve perf over hand written DOM code but it’s hard to write on scale. React scales well.  <strong>@dan_abramov</strong></p>\n</blockquote>\n<hr>\n<blockquote>\n<p>React ultimately has to call browser APIs at some point, it can’t possibly be faster than writing the same exact calls by hand <strong>@dan_abramov</strong></p>\n</blockquote>\n<hr>\n<blockquote>\n<p>React will not do anything that you cannot. By definition everything it does can be reproduced (and some people have with other libraries/frameworks that follow similar conventions). The point is not that React does something that you can’t, but rather that by introducing React to your application you are relieved of having to worry about manually handling your DOM, manually determining how to update it efficiently, minimizing traversals, etc. - <a href=\"https://www.quora.com/Is-ReactJS-faster-than-direct-DOM-manipulation-with-JavaScript-or-jQuery\">Sean Grogg</a></p>\n</blockquote>\n<p><em>Key Takeaway:</em></p>\n<blockquote>\n<p>React keeps your product reasonably fast without you having to think about it all the time, or to jump through the hoops <strong>@dan_abramov</strong></p>\n</blockquote>",
+            "frontmatter": {
+                "title": "The Virtual DOM"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/the-virtual-dom/"
+    }
+}

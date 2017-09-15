@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/testing.md absPath of file >>> MarkdownRemark",
+            "html": "<ul>\n<li><a href=\"https://www.youtube.com/watch?v=59Ndb3YkLKA\">Testing React Applications with Max Stoiber</a> Max Stoiber @mxstbr</li>\n<li><a href=\"https://www.youtube.com/watch?v=eWN8F_WOBAQ\">Testing React Applications w/Jack Franklin</a> Jack Franklin</li>\n<li><a href=\"https://twitter.com/dan_abramov/status/762257231471579136\">People seem to laugh at this but I think it’s actually pretty reasonable</a> Dan Abramov @dan_abramov</li>\n<li><a href=\"https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.nfupyyugz\">Testing React Components Best Practices</a> Tomasz Bak @tomaszbak</li>\n<li><a href=\"https://daveceddia.com/what-to-test-in-react-app\">Worthwhile Testing: What to test in a React app (and why)</a>  Dave Ceddia @dceddia</li>\n<li><a href=\"https://daveceddia.com/getting-started-with-tdd-in-react\">Getting Started with TDD in React</a>  Dave Ceddia @dceddia</li>\n<li><a href=\"http://blog.ricardofilipe.com/post/react-enzyme-tdd-tutorial\">Set up a testing environment with React + enzyme + Mocha</a> – Ricardo Magalhães</li>\n<li><a href=\"https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22#.zb6v0mtfk\">The Right Way to Test React Components</a> Stephen Scott @suchipi</li>\n</ul>\n<h2>Debugging</h2>\n<ul>\n<li><a href=\"https://medium.com/front-end-hacking/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f#.a2j1t98ev\">Live edit and debug your React apps directly from VS Code — without leaving the editor</a></li>\n</ul>",
+            "frontmatter": {
+                "title": "Testing"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/testing/"
+    }
+}

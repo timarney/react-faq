@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/fun.md absPath of file >>> MarkdownRemark",
+            "html": "<p><strong>What are some fun React projects to check out?</strong></p>\n<ul>\n<li><a href=\"https://github.com/nitin42/terminal-in-react\">terminal-in-react</a> @NTulswani</li>\n</ul>",
+            "frontmatter": {
+                "title": "Fun"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/fun/"
+    }
+}

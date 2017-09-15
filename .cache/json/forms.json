@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/forms.md absPath of file >>> MarkdownRemark",
+            "html": "<p><strong>How can I build forms with React?</strong></p>\n<ul>\n<li><a href=\"http://presentations.survivejs.com/forms-in-react\">Forms In React</a> Juho Vepsäläinen @bebraw</li>\n<li><a href=\"http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms\">Learn Raw React: Ridiculously Simple Forms</a> James K Nelson @james<em>k</em>nelson</li>\n</ul>\n<p><strong>How can I validate form input?</strong></p>\n<ul>\n<li><a href=\"https://spin.atomicobject.com/2016/10/05/form-validation-react\">Elegant Form Validation Using React</a> Jordan Schaenzle</li>\n<li><a href=\"https://youtu.be/1Urj4TZ5BLI?t=2437\">Building validated forms with great UX in React</a> Marcela Hrdá</li>\n<li><a href=\"https://github.com/vacuumlabs/react-validation\">react-validation</a></li>\n</ul>",
+            "frontmatter": {
+                "title": "Forms"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/forms/"
+    }
+}

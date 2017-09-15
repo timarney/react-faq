@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/a11y.md absPath of file >>> MarkdownRemark",
+            "html": "<p><strong>What about accessibility?</strong></p>\n<ul>\n<li><a href=\"http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility\">How to design for accessibility</a> <em>Note:</em> not specific to React but a solid primer on the topic</li>\n</ul>\n<hr>\n<p><strong>How do I handle A11y in React</strong></p>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631\">Excerpt from React.js Conf 2015 - Hype!</a> Ryan Florence</li>\n<li><a href=\"https://www.youtube.com/watch?v=YuzS-g6Qvq8\">Bringing the Web Back to the Blind by Ryan Florence </a> <em>Note:</em> not specific to React</li>\n</ul>",
+            "frontmatter": {
+                "title": "A11Y"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/a11y/"
+    }
+}

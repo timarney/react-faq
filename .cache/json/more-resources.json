@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/more-resources.md absPath of file >>> MarkdownRemark",
+            "html": "<ul>\n<li><a href=\"/videos-courses/\">Video Courses</a></li>\n<li><a href=\"/talks/\">Talks</a></li>\n<li><a href=\"/training/\">Training</a></li>\n<li><a href=\"/books/\">Books</a></li>\n<li><a href=\"/newsletters/\">Newsletters</a></li>\n<li><a href=\"https://reactarmory.com\">React Armory</a> @james<em>k</em>nelson</li>\n<li><a href=\"http://www.react.express\">React Express</a> @devinaabbott</li>\n</ul>\n<h2>Podcast</h2>\n<p><a href=\"https://5minreact.audio\">https://5minreact.audio</a></p>\n<h2>Fun</h2>\n<ul>\n<li><a href=\"/fun/\">Fun React Projects</a></li>\n</ul>",
+            "frontmatter": {
+                "title": "More Resources"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/more-resources/"
+    }
+}

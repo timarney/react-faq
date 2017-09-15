@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/component-reuse-maintainable.md absPath of file >>> MarkdownRemark",
+            "html": "<p><strong>How can I build maintainable /reusable React components?</strong></p>\n<ul>\n<li>\n<p><a href=\"https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0#.e9uz9o3e3\">How to Achieve Reusability with React Components\n</a> @walmartlabs</p>\n</li>\n<li>\n<p><a href=\"https://medium.com/walmartlabs/building-react-components-for-multiple-brands-and-applications-7e9157a39db4#.wuirl4nj3\">Building React Components for Multiple Brands and Applications</a> @walmartlabs</p>\n</li>\n<li>\n<p><a href=\"https://blog.callstack.io/4-tips-to-write-maintainable-react-components-7d18278643d0#.qgutp9i5f\">4 tips to write maintainable React components</a> @satya164</p>\n</li>\n<li>\n<p><a href=\"https://www.youtube.com/watch?v=Yy7gFgETp0o\">React plus X: Best Practices for Reusable UI Components</a> | <a href=\"https://speakerdeck.com/marsjosephine/forwardjs-react-plus-x-best-practices-for-reusable-ui-components\">slides</a> | Mars Jullian @marsjosephine</p>\n</li>\n</ul>",
+            "frontmatter": {
+                "title": "Maintainable /Reusable React components"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/component-reuse-maintainable/"
+    }
+}

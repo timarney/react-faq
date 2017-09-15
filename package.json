@@ -1,46 +1,62 @@
 {
   "name": "react-faq",
-  "description": "A collection of links to help answer your questions about React.js",
-  "version": "1.0.0",
+  "description": "React react-faq",
+  "version": "2.0.0",
   "author": "Tim Arney <tim@line37.com>",
+  "bugs": {
+    "url": "https://github.com/timarney/react-faq/issues"
+  },
   "dependencies": {
     "classnames": "^2.2.5",
-    "front-matter": "^2.1.2",
-    "gatsby": "^0.12.36",
-    "highlight.js": "^9.8.0",
-    "history": "^2.0.2",
-    "js-yaml": "^3.8.1",
-    "markdown-it": "^7.0.1",
-    "markdown-it-abbr": "^1.0.3",
-    "markdown-it-attrs": "^0.6.3",
-    "markdown-it-deflist": "^2.0.1",
-    "markdown-it-footnote": "^3.0.1",
-    "markdown-it-sub": "^1.0.0",
-    "object-assign": "^4.1.1",
-    "react-ga": "^2.1.2",
-    "react-headroom": "^2.1.2",
-    "react-helmet": "^3.2.2",
+    "gatsby": "^1.8.12",
+    "gatsby-link": "^1.6.8",
+    "gatsby-plugin-google-analytics": "^1.0.4",
+    "gatsby-plugin-manifest": "^1.0.4",
+    "gatsby-plugin-offline": "^1.0.4",
+    "gatsby-plugin-preact": "^1.0.3",
+    "gatsby-plugin-react-helmet": "^1.0.3",
+    "gatsby-plugin-sharp": "^1.6.2",
+    "gatsby-plugin-typography": "^1.7.6",
+    "gatsby-remark-copy-linked-files": "^1.5.2",
+    "gatsby-remark-images": "^1.5.4",
+    "gatsby-remark-prismjs": "^1.2.1",
+    "gatsby-remark-responsive-iframe": "^1.4.3",
+    "gatsby-remark-smartypants": "^1.4.3",
+    "gatsby-source-filesystem": "^1.4.3",
+    "gatsby-transformer-remark": "^1.7.1",
+    "gatsby-transformer-sharp": "^1.6.1",
+    "lodash": "^4.15.0",
+    "react-headroom": "^2.1.6",
     "react-responsive-grid": "^0.3.3",
-    "react-typography": "^0.15.0",
-    "styled-components": "1.4.3",
-    "toml-js": "0.0.8",
-    "typography": "^0.15.8",
-    "typography-plugin-code": "^0.15.0",
-    "unfetch": "2.1.1"
+    "styled-components": "^2.1.2",
+    "typeface-merriweather": "^0.0.35",
+    "typeface-montserrat": "^0.0.37",
+    "typography-plugin-code": "^0.15.11",
+    "typography-theme-wordpress-2016": "^0.15.1",
+    "unfetch": "^3.0.0"
   },
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "prettier": "^1.6.1"
+  },
+  "homepage": "https://reactfaq.site",
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
   "main": "n/a",
-  "scripts": {
-    "build": "gatsby build",
-    "deploy": "gatsby build --prefix-links && gh-pages -d public",
-    "develop": "gatsby develop",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timarney/react-faq"
+    "url": "git+https://github.com/timarney/react-faq.git"
+  },
+  "scripts": {
+    "dev": "gatsby develop",
+    "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }
 }

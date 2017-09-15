@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/svg-react.md absPath of file >>> MarkdownRemark",
+            "html": "<p><strong>How do I work with SVG’s in React?</strong></p>\n<ul>\n<li><a href=\"https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.lmbz3v9ic\">Icons as React Components</a></li>\n<li><a href=\"https://css-tricks.com/creating-svg-icon-system-react\">Creating an SVG Icon System with React</a> @sarah_edo</li>\n</ul>",
+            "frontmatter": {
+                "title": "SVG & React"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/svg-react/"
+    }
+}

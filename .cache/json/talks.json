@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/talks.md absPath of file >>> MarkdownRemark",
+            "html": "<ul>\n<li><a href=\"http://elijahmanor.com/talks/react-to-the-future/dist\">React to the Future - Slide Deck</a> Elijah Manor @elijahmanor</li>\n<li><a href=\"https://react.rocks/blog/images/React_Intro_sept_2016.pdf\">React Things - PDF Slides</a> Jeff Winkler @winkler1</li>\n</ul>",
+            "frontmatter": {
+                "title": "Talks"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/talks/"
+    }
+}

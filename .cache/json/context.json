@@ -1,0 +1,20 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "title": "React FAQ",
+                "author": "Tim Arney"
+            }
+        },
+        "markdownRemark": {
+            "id": "/Users/timarney/Desktop/faq/react-faq/src/pages/context.md absPath of file >>> MarkdownRemark",
+            "html": "<p>⚠️ Context is an <strong>advanced</strong> feature. It is an experimental API and could break in future releases of React. See: <a href=\"https://facebook.github.io/react/docs/context.html#why-not-to-use-context\">Why Not To Use Context</a></p>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=lxq938kqIss&#x26;t=1s\">ReactCasts #4 - Context (Part 1)</a> Cassio Zen @cassiozen</li>\n<li><a href=\"https://www.youtube.com/watch?v=mwYHDXS6uSc&#x26;feature=youtu.be\">ReactCasts #5 - Context (Part 2)</a> Cassio Zen @cassiozen</li>\n<li><a href=\"https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.rtwgxxy0d\">How to handle React context in a reliable way</a> Osmel Mora @osmel_mora</li>\n<li><a href=\"https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.m6v9tsgub\">How to safely use React context</a> Michel Weststrate @mweststrate</li>\n<li><a href=\"http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications\">Context in ReactJS Applications</a> Jack Franklin @Jack_Franklin</li>\n<li><a href=\"https://www.youtube.com/watch?v=k9AhBMwj1w4\">Context all the things with React</a> Stephen Rivas Jr. (@sprjrx)</li>\n</ul>",
+            "frontmatter": {
+                "title": "Context"
+            }
+        }
+    },
+    "pathContext": {
+        "path": "/context/"
+    }
+}

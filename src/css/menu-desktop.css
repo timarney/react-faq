@@ -1,0 +1,21 @@
+.menu-desktop nav ul{
+    display: flex;
+    margin-left: 15px;
+    list-style-type: none;
+}
+
+.menu-desktop nav ul li a{
+    padding: 4px 10px;
+    margin-left: 5px;
+
+    background-color: #C64087;
+    color:#fff;
+    text-decoration: none;
+
+    border-radius: 2px;
+    transition: background-color .3s ease-in;
+}
+
+.menu-desktop nav ul li a:hover, .menu-desktop nav ul li a.active{
+    background-color: #3C424D;
+}
