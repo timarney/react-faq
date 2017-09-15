@@ -84,8 +84,6 @@ class Template extends React.Component {
                 placeholder="search questions..."
               />
             </div>
-            <Stars />
-
             <MenuMobile
               menuToggleClass={menuToggleClass}
               menuSectionClass={menuSectionClass}
