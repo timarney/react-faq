@@ -9,10 +9,22 @@ title: React 16
 * [React 16 RC #10294](https://github.com/facebook/react/issues/10294)
 
 **Where can I find some good information for React 16?**
+
+*Error Handling*
 * [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html) Dan Abramov @dan_abramov
 * [Error Handling using Error Boundaries in React 16](https://egghead.io/lessons/react-error-handling-using-error-boundaries-in-react-16) Nik Graf @nikgraf
+
+*DOM Attributes*
 * [DOM Attributes in React 16](https://facebook.github.io/react/blog/2017/09/08/dom-attributes-in-react-16.html) Dan Abramov @dan_abramov
 
+*Portals*
+* DEMO rendering Portals using ReactDOM.createPortal -> https://codesandbox.io/s/3r7zxqzx55
+
+*Async Mode*
+* need some content
+
+
+*Fragments*
 
 **How does returning arrays from render work?**
 
