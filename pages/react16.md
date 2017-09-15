@@ -26,6 +26,10 @@ class List extends React.Component {
 
 see: https://codesandbox.io/s/y0rroo6olz
 
+**Note:** You can also return a String https://codesandbox.io/s/oxjo7woo4y
+
+<hr>
+
 
 **Roadmap for React (Fiber and Beyond)**
 <iframe width="640" height="360" src="https://www.youtube.com/embed/QW5TE4vrklU" frameborder="0" allowfullscreen></iframe>
