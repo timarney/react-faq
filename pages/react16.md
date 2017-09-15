@@ -2,6 +2,9 @@
 title: React 16
 ---
 
+
+> This initial React 16.0 release is mostly focused on compatibility with existing apps. It does not enable asynchronous rendering yet. We will introduce an opt-in to the async mode later during React 16.x. We don’t expect React 16.0 to make your apps significantly faster or slower, but we’d love to know if you see improvements or regressions. @bvaughn
+
 **React 16 RC Notes**
 * [React 16 RC #10294](https://github.com/facebook/react/issues/10294)
 
