@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "gatsby-link";
-import { Container } from "react-responsive-grid";
 import MenuMobile from "../components/menu-mobile";
 import MenuDesktop from "../components/menu-desktop";
 import Headroom from "react-headroom";
@@ -51,7 +50,7 @@ class Template extends React.Component {
     const { location, children } = this.props;
 
     return (
-      <div>
+      <div >
         {this.renderUp(menuSectionClass, showNavClass)}
 
         <Headroom
@@ -68,8 +67,8 @@ class Template extends React.Component {
               "0 2px 4px -1px rgba(0,0,0,0.06), 0 4px 5px 0 rgba(0,0,0,0.06), 0 1px 10px 0 rgba(0,0,0,0.08)"
           }}
         >
-          <Container
-            className="header"
+          <div
+            className="header wrap"
             style={{
               maxWidth: 960,
               paddingTop: 0,
@@ -92,20 +91,21 @@ class Template extends React.Component {
               showNavClass={showNavClass}
               handleClick={this.handleClick}
             />
-          </Container>
+          </div>
         </Headroom>
 
-        <Container
-          className="menu-desktop"
+        <div
+          className="menu-desktop wrap"
           style={{
             maxWidth: 960,
             paddingTop: 0
           }}
         >
           <MenuDesktop />
-        </Container>
+        </div>
 
-        <Container
+        <div
+          className="wrap"
           style={{
             maxWidth: 960,
             padding: `${rhythm(1)} ${rhythm(3 / 4)}`,
@@ -113,7 +113,7 @@ class Template extends React.Component {
           }}
         >
           {children()}
-        </Container>
+        </div>
       </div>
     );
   }
