@@ -14,6 +14,7 @@
     "gatsby-plugin-offline": "^1.0.4",
     "gatsby-plugin-preact": "^1.0.3",
     "gatsby-plugin-react-helmet": "^1.0.3",
+    "gatsby-plugin-react-next": "1.0.2",
     "gatsby-plugin-sharp": "^1.6.2",
     "gatsby-plugin-typography": "^1.7.6",
     "gatsby-remark-copy-linked-files": "^1.5.2",

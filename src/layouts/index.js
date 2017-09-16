@@ -14,6 +14,8 @@ import { rhythm, scale } from "../utils/typography";
 
 import MenuItems from "../components/menu-items";
 
+console.log("version", React.version);
+
 const Header = styled.div`
   font-size: 1.5em;
   text-align: center;

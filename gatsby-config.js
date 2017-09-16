@@ -4,6 +4,7 @@ module.exports = {
     author: "Tim Arney"
   },
   plugins: [
+    `gatsby-plugin-react-next`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
