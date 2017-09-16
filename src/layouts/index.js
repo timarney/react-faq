@@ -5,13 +5,13 @@ import MenuDesktop from "../components/menu-desktop";
 import Headroom from "react-headroom";
 import Stars from "../components/stars";
 import Logo from "../components/logo";
-import "../css/main.css";
 import classNames from "classnames";
-import "../css/menu-mobile.css";
 import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
-
 import MenuItems from "../components/menu-items";
+
+import "../css/menu-mobile.css";
+import "../css/main.css";
 
 console.log("version", React.version);
 
@@ -118,11 +118,5 @@ class Template extends React.Component {
     );
   }
 }
-
-Template.propTypes = {
-  children: React.PropTypes.func,
-  location: React.PropTypes.object,
-  route: React.PropTypes.object
-};
 
 export default Template;
