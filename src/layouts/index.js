@@ -91,6 +91,8 @@ class Template extends React.Component {
               showNavClass={showNavClass}
               handleClick={this.handleClick}
             />
+
+            <Stars />
           </div>
         </Headroom>
 

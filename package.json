@@ -9,28 +9,25 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "gatsby": "^1.9.37",
-    "gatsby-link": "^1.6.8",
-    "gatsby-plugin-manifest": "^1.0.4",
-    "gatsby-plugin-offline": "^1.0.4",
-    "gatsby-plugin-preact": "^1.0.3",
-    "gatsby-plugin-react-helmet": "^1.0.3",
-    "gatsby-plugin-react-next": "1.0.2",
-    "gatsby-plugin-sharp": "^1.6.2",
-    "gatsby-plugin-typography": "^1.7.6",
-    "gatsby-remark-copy-linked-files": "^1.5.2",
-    "gatsby-remark-images": "^1.5.4",
-    "gatsby-remark-prismjs": "^1.2.1",
-    "gatsby-remark-responsive-iframe": "^1.4.3",
-    "gatsby-remark-smartypants": "^1.4.3",
-    "gatsby-source-filesystem": "^1.4.3",
-    "gatsby-transformer-remark": "^1.7.1",
-    "gatsby-transformer-sharp": "^1.6.1",
-    "lodash": "^4.15.0",
+    "gatsby-link": "^1.6.16",
+    "gatsby-plugin-manifest": "^1.0.8",
+    "gatsby-plugin-offline": "^1.0.9",
+    "gatsby-plugin-react-helmet": "^1.0.6",
+    "gatsby-plugin-react-next": "1.0.3",
+    "gatsby-plugin-sharp": "^1.6.7",
+    "gatsby-plugin-typography": "^1.7.9",
+    "gatsby-remark-copy-linked-files": "^1.5.7",
+    "gatsby-remark-images": "^1.5.11",
+    "gatsby-remark-prismjs": "^1.2.8",
+    "gatsby-remark-responsive-iframe": "^1.4.7",
+    "gatsby-remark-smartypants": "^1.4.7",
+    "gatsby-source-filesystem": "^1.4.12",
+    "gatsby-transformer-remark": "^1.7.7",
+    "gatsby-transformer-sharp": "^1.6.5",
+    "lodash": "^4.17.4",
     "react-headroom": "^2.1.6",
     "react-responsive-grid": "^0.3.3",
     "styled-components": "^2.1.2",
-    "typeface-merriweather": "^0.0.35",
-    "typeface-montserrat": "^0.0.37",
     "typography-plugin-code": "^0.15.11",
     "unfetch": "^3.0.0"
   },
@@ -45,7 +42,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timarney/react-faq.git"
+    "url": "git+https://github.com/timarney/react-faq"
   },
   "scripts": {
     "dev": "gatsby develop",
@@ -54,7 +51,6 @@
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }
 }
