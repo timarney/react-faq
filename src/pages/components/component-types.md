@@ -94,7 +94,9 @@ Also:
 * [React Patterns - Render Callback](https://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback) @leogcrespo
 * [Sharing stateful UI logic in React apps using Render Callback components](https://trevordmiller.com/blog/react-render-callback-components) @trevordmiller
 
-**Michael Jackson mjackson - Never Write Another HoC**
+<hr id="never-write-another-hoc">
+
+**Michael Jackson @mjackson - Never Write Another HoC**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BcVAq3YFiuc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
