@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
-    "gatsby": "^1.8.12",
+    "gatsby": "^1.9.37",
     "gatsby-link": "^1.6.8",
     "gatsby-plugin-manifest": "^1.0.4",
     "gatsby-plugin-offline": "^1.0.4",
