@@ -85,7 +85,6 @@ Also:
 * [Understanding Higher Order Components](https://medium.freecodecamp.com/understanding-higher-order-components-6ce359d761b) @tmeasday
 * [Why Higher Order Components Make Sense](https://medium.com/javascript-inside/why-higher-order-components-make-sense-fe4145b4e305) @sharifsbeat
 
-
 **Function as Child Components / Render callbacks** [```<Code />```](http://reactpatterns.com/#function-as-children)
 
 * [ReactCasts #2 - Function as Child Components](https://www.youtube.com/watch?v=WE3XAt9P8Ek) Cassio Zen @cassiozen
@@ -94,6 +93,9 @@ Also:
 * [Simplifying life with React render callbacks](https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55) @AdamRackis
 * [React Patterns - Render Callback](https://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback) @leogcrespo
 * [Sharing stateful UI logic in React apps using Render Callback components](https://trevordmiller.com/blog/react-render-callback-components) @trevordmiller
+
+**Michael Jackson mjackson - Never Write Another HoC**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BcVAq3YFiuc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 
