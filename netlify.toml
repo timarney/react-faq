@@ -4,4 +4,3 @@
   
 [template.environment]
   NODE_ENV = "production"
-  YARN_VERSION = "2.0.0"

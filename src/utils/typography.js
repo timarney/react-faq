@@ -2,7 +2,6 @@ import Typography from 'typography'
 import { GoogleFont } from 'react-typography'
 import CodePlugin from 'typography-plugin-code'
 
-
 const options = {
   googleFonts: [
     {

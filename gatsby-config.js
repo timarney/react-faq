@@ -34,6 +34,7 @@ module.exports = {
         ]
       }
     },
+    `gatsby-plugin-lodash`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
