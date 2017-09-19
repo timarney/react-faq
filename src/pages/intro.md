@@ -4,8 +4,9 @@ path: "/intro/"
 ---
 ## Notable
 <div class="notable">
- <p>🔥 <a href="https://reactfaq.site/react16">New - React 16 resources</a> <p>
- <p>Want to find out what's new on React FAQ sign up for the <a href="https://tinyletter.com/timarney">Newsletter</a></p>
+<p style="margin-bottom:0rem">⚡ Want to find out what's new on React FAQ sign up for the <a href="https://tinyletter.com/timarney">Newsletter</a></p>
+ <p style="margin-bottom:0rem">🔥 <a href="https://reactfaq.site/react16">New - React 16 resources</a> <p>
+ 
 </div>
 
 
@@ -31,8 +32,6 @@ ReactDOM.render(
 
 ## These articles will start you down the path to learning React.
 
-
-
 **I don't know React what should I watch / read before I start?**
 * [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
 * 🔥 [Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87#.q8cyvryw1) Eric Clemmons @ericclemmons
@@ -55,4 +54,3 @@ ReactDOM.render(
 * [Introduction to React](https://mva.microsoft.com/en-US/training-courses/introduction-to-react-16635?l=4wrKgdJrC_206218965) Eric W. Greene / Microsoft Virtual Academy
 * [A few things every new React developer should know part 1](https://medium.com/deepscan/a-few-things-every-new-react-developer-should-know-part-1-93940e11800a) @pieceoflena
 </details>
-
