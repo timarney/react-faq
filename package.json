@@ -25,6 +25,7 @@
     "gatsby-source-filesystem": "^1.4.12",
     "gatsby-transformer-remark": "^1.7.7",
     "gatsby-transformer-sharp": "^1.6.5",
+    "lodash": "4.17.4",
     "react-headroom": "^2.1.6",
     "react-responsive-grid": "^0.3.3",
     "styled-components": "^2.1.2",
