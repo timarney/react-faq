@@ -12,19 +12,21 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Helmet title={this.props.data.site.siteMetadata.title} />
-        {posts.map(post => {
+        {posts ? posts.map(post => {
           if (
             post.node.path !== "/404/" &&
             post.node.frontmatter.path === "/intro/"
           ) {
             const title = post.node.frontmatter.title || post.node.path;
+
+            console.log(post.node.frontmatter.path);
             return (
               <div className="markdown" key={post.node.frontmatter.path}>
-                <p dangerouslySetInnerHTML={{ __html: post.node.html }} />
+                <div dangerouslySetInnerHTML={{ __html: post.node.html }} />
               </div>
             );
           }
-        })}
+        }) : <div>:(</div>}
       </div>
     );
   }
