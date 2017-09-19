@@ -2,13 +2,12 @@ import React from "react";
 import Helmet from "react-helmet";
 import "../css/markdown-styles.css";
 import Link from "gatsby-link";
-import get from "lodash/get";
 import { rhythm, scale } from "../utils/typography";
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
-    let siteTitle = get(this.props, "data.site.siteMetadata.title");
+    let siteTitle = this.props.data.site.siteMetadata.title;
     let title = post.frontmatter.title;
     if (typeof siteTitle !== "undefined") {
       title += ` | ${siteTitle}`;
