@@ -8,11 +8,15 @@ import { rhythm, scale } from "../utils/typography";
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
-    const siteTitle = get(this.props, "data.site.siteMetadata.title");
+    let siteTitle = get(this.props, "data.site.siteMetadata.title");
+    let title = post.frontmatter.title;
+    if (typeof siteTitle !== "undefined") {
+      title += ` | ${siteTitle}`;
+    }
 
     return (
       <div className="markdown">
-        <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
+        <Helmet title={`${title} `} />
         <h1>{post.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
