@@ -4,7 +4,8 @@ path: "/intro/"
 ---
 ## Notable
 <div class="notable">
- 🔥 <a href="https://reactfaq.site/react16">New - React 16 resources</a> .
+ <p>🔥 <a href="https://reactfaq.site/react16">New - React 16 resources</a> <p>
+ <p>Want to find out what's new on React FAQ sign up for the <a href="https://tinyletter.com/timarney">Newsletter</a></p>
 </div>
 
 
