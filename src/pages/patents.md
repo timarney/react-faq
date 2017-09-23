@@ -3,6 +3,13 @@ title: PATENTS
 path: "/patents/"
 ---
 
+**React - MIT license**
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We&#39;re relicensing React, Jest, Flow, and Immutable.js under the MIT license. <a href="https://t.co/3XD0z49UsS">https://t.co/3XD0z49UsS</a></p>&mdash; React (@reactjs) <a href="https://twitter.com/reactjs/status/911347634069168128">September 22, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* [Relicensing React, Jest, Flow, and Immutable.js](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js)
+
 **What's all this stuff I hear about Facebook PATENTS clause?**
 
 * [Some links to point people to when they misinterpret PATENTS clause or spread false claims](https://gist.github.com/gaearon/df0c4025e67399af72786d7ac7c819cc) Dan Abramov @dan_abramov
