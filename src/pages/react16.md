@@ -3,8 +3,13 @@ title: React 16
 path: "/react16/"
 ---
 
+**Release**
+* 🎉 [React v16.0](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)
 
-🎉 [React v16.0](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)
+**Details**
+* [React 16: A look inside an API-compatible rewrite of our frontend UI library](https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library) Sophie Alpert @sophiebits
+
+<hr>
 
 > This initial React 16.0 release is mostly focused on compatibility with existing apps. It does not enable asynchronous rendering yet. We will introduce an opt-in to the async mode later during React 16.x. We don’t expect React 16.0 to make your apps significantly faster or slower, but we’d love to know if you see improvements or regressions. @bvaughn
 
