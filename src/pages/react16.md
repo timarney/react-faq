@@ -34,6 +34,9 @@ path: "/react16/"
 *Portals*
 * DEMO rendering Portals using ReactDOM.createPortal -> https://codesandbox.io/s/3r7zxqzx55
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Minor neat fix in React 16: “Highlight Updates” in React DevTools now works as expected and skips PureComponents that bailed out. <a href="https://t.co/2kEKJCUToE">pic.twitter.com/2kEKJCUToE</a></p>&mdash; Dan Abramov (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/913730763169914882?ref_src=twsrc%5Etfw">September 29, 2017</a></blockquote>
+
 *Async Mode*
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ever wonder what &quot;async rendering&quot; means? Here&#39;s a demo of how to coordinate an async React tree with non-React work <a href="https://t.co/3snoahB3uV">https://t.co/3snoahB3uV</a> <a href="https://t.co/egQ988gBjR">pic.twitter.com/egQ988gBjR</a></p>&mdash; Andrew Clark (@acdlite) <a href="https://twitter.com/acdlite/status/909926793536094209">September 18, 2017</a></blockquote>
