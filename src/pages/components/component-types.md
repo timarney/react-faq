@@ -93,6 +93,7 @@ Also:
 * [Simplifying life with React render callbacks](https://medium.com/@adamrackis/simplifying-life-with-react-render-callbacks-cb37d58e55) @AdamRackis
 * [React Patterns - Render Callback](https://leoasis.github.io/posts/2017/03/27/react-patterns-render-callback) @leogcrespo
 * [Sharing stateful UI logic in React apps using Render Callback components](https://trevordmiller.com/blog/react-render-callback-components) @trevordmiller
+* [I’m Breaking up with Higher Order Components](https://medium.com/tandemly/im-breaking-up-with-higher-order-components-44b0df2db052) David Atchley
 
 <hr id="never-write-another-hoc">
 
