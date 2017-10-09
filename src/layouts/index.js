@@ -9,7 +9,6 @@ import classNames from "classnames";
 import styled from "styled-components";
 import { rhythm, scale } from "../utils/typography";
 import MenuItems from "../components/menu-items";
-
 import "../css/menu-mobile.css";
 import "../css/main.css";
 
@@ -42,6 +41,15 @@ class Template extends React.Component {
     );
   }
 
+  componentDidMount() {
+    window.docsearch({
+      apiKey: "5b868b4714802ced50cee159ba9fd2a3",
+      indexName: "reactfaq",
+      inputSelector: "#search",
+      debug: true
+    });
+  }
+
   render() {
     let { on } = this.state;
     let menuToggleClass = classNames({ on: on, "menu-toggle": true });
@@ -50,7 +58,7 @@ class Template extends React.Component {
     const { location, children } = this.props;
 
     return (
-      <div >
+      <div>
         {this.renderUp(menuSectionClass, showNavClass)}
 
         <Headroom
