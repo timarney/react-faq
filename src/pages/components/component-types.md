@@ -57,7 +57,7 @@ See: [Some Thoughts on Function Components in React](https://medium.com/javascri
 > In this video [React Component Patterns by Michael Chan](https://www.youtube.com/watch?v=YaZg8wg39QQ) @chantastic breaks down some of the component types in a less technical way (using circles).
 
 Also:
-
+* [7 Reasons to Outlaw React’s Functional Components](https://medium.com/@housecor/7-reasons-to-outlaw-reacts-functional-components-ff5b5ae09b7c) Cory House @housecor
 * [React.Component vs React.createClass](https://reactjsnews.com/composing-components) Naman Goel & Zach Silveira
 * [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component) Todd Motto
 * [4 different kinds of React component styles](https://www.peterbe.com/plog/4-different-kinds-of-react-component-styles) Peter Bengtsson @peterbe
