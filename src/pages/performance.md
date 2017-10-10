@@ -3,6 +3,9 @@ title: Performance
 path: "/performance/"
 ---
 
+**Performance myths vs facts **
+* [React, Inline Functions, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578) Ryan Florence @ryanflorence
+
 **How can I make my app faster?**
 
 * [Component Rendering Performance in React](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.gvyat7vkb) Grgur Grisogono
