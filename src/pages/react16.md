@@ -53,6 +53,8 @@ Additional Fiber info here https://reactfaq.site/react-fiber
 
 **How does returning arrays from render work?**
 
+* [Returning multiple elements the right way in React 16 - Tutorial](https://www.youtube.com/watch?v=cvS5o86wRfE)
+
 ```javascript
 const names = ["Dan", "Kent", "Ryan"];
 
