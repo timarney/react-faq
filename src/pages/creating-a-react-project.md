@@ -32,6 +32,10 @@ npm start
 Also see these [projects](https://github.com/facebookincubator/create-react-app#alternatives)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UggiTEvrL5c" frameborder="0" allowfullscreen></iframe>
+
+
+
 **Where can I find videos for using React Create App?**
 
 * [React Create App + Express](https://www.youtube.com/watch?v=gbVhmaW04bc&feature=youtu.be) @sprjrx @ladyleet
