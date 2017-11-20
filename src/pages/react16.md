@@ -32,6 +32,10 @@ path: "/react16/"
 * [DOM Attributes in React 16](https://facebook.github.io/react/blog/2017/09/08/dom-attributes-in-react-16.html) Dan Abramov @dan_abramov
 
 *Portals*
+
+* [Using a React 16 Portal to do something cool](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202) David Gilbertson @D__Gilbertson
+
+
 * DEMO rendering Portals using ReactDOM.createPortal -> https://codesandbox.io/s/3r7zxqzx55
 
 
