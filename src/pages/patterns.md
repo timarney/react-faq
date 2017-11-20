@@ -16,6 +16,10 @@ path: "/patterns/"
 * [React Patterns and Practices](http://elijahmanor.com/talks/react-patterns-practices) @elijahmanor
 * [Techniques for decomposing React components](https://medium.com/@Dvtng/techniques-for-decomposing-react-components-e8a1081ef5da) David Tang @Dvtng
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best kept React secret: you can declare state changes separately from the component classes. <a href="https://t.co/LczYP7yw2R">pic.twitter.com/LczYP7yw2R</a></p>&mdash; Dan Abramov (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/824308413559668744?ref_src=twsrc%5Etfw">January 25, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 **What are some good patterns for handling binding?**
 * [React Binding Patterns: 5 Approaches for Handling `this`](https://medium.freecodecamp.com/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56) @housecor
