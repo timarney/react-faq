@@ -8,6 +8,7 @@ path: "/react-production/"
 
 **How can I code split at the component level?**
 * [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178) James Kyle @thejameskyle
+* [Impress Your Friends With Code Splitting in React](https://hackernoon.com/impress-your-friends-with-code-splitting-in-react-9f9a3ca2ae6e) Burke H✪lland @burkeholland
 
 **Where can I find good info on using React in production?**
 
