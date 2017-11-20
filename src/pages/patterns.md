@@ -4,6 +4,8 @@ path: "/patterns/"
 ---
 
 **Where can I find common patterns used in React?**
+
+* [React Component Patterns](https://medium.com/gitconnected/react-component-patterns-ab1f09be2c82) Gustavo Matheus
 * [React Patterns](http://reactpatterns.com) @chantastic
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns) Krasimir Tsonev
 * [Patterns For Style Composition In React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react) Brent Jackson @jxnblk
