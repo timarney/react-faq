@@ -18,3 +18,4 @@ path: "/testing/"
 
 ## Debugging
 * [Live edit and debug your React apps directly from VS Code — without leaving the editor](https://medium.com/front-end-hacking/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f#.a2j1t98ev)
+* [Debugging React Like a Champ with VSCode](https://hackernoon.com/debugging-react-like-a-champ-with-vscode-66281760037) James Jeffery @JamesJefferyUK
