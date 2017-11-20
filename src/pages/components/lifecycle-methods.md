@@ -6,7 +6,7 @@ path: "/components/lifecycle-methods/"
 >Components have several "lifecycle methods" that allow you to override / run code at particular times.
 
 **What are React Lifecycle Methods?**
-
+* [componentDidMakeSense — React Lifecycle Explanation](https://medium.com/gitconnected/componentdidmakesense-react-lifecycle-explanation-393dcb19e459) Trey Huffine @TreyHuffine
 * [React components lifecycle diagram](http://codepen.io/eduardoboucas/full/jqWbdb) Eduardo Bouças @eduardoboucas
 * [React lifecycle cheatsheet](https://gist.github.com/bvaughn/923dffb2cd9504ee440791fade8db5f9) @brian_d_vaughn
 * [Going further with React lifecycle methods](https://medium.com/@notrab/going-further-with-react-lifecycle-methods-2ffdc5bdf52c#.bu0ufrosb) Jamie Barton
