@@ -32,7 +32,8 @@ path: "/patterns/"
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Extract your setState calls to pure functions. Test them in isolation. Reuse as desired.<br><br>Handy pattern from <a href="https://twitter.com/MicheleBertoli?ref_src=twsrc%5Etfw">@MicheleBertoli</a><br><br>Slides: &quot;setState ftw&quot;: <a href="https://t.co/Wldm5scpZ6">https://t.co/Wldm5scpZ6</a> <a href="https://twitter.com/hashtag/react?src=hash&amp;ref_src=twsrc%5Etfw">#react</a> <a href="https://t.co/4wpK5jQjgr">pic.twitter.com/4wpK5jQjgr</a></p>&mdash; Cory House 🏠 (@housecor) <a href="https://twitter.com/housecor/status/931530907747577856?ref_src=twsrc%5Etfw">November 17, 2017</a></blockquote>
 
-
+**Patterns for working with PropTypes**
+* [React Pattern: Centralized PropTypes](https://medium.freecodecamp.org/react-pattern-centralized-proptypes-f981ff672f3b) Cory House @housecor
 
 
 **How can I extract logic out of my components?**
