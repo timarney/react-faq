@@ -3,6 +3,8 @@ title: Patterns
 path: "/patterns/"
 ---
 
+> **Tip:** 🤔 Check out these free lectures via @ReactJSTraining https://reacttraining.com/patterns 
+
 **Where can I find common patterns used in React?**
 * [Simple React Patterns - Dealing With Side-Effects In React](http://lucasmreis.github.io/blog/simple-react-patterns) Lucas Reis
 * [React Component Patterns](https://medium.com/gitconnected/react-component-patterns-ab1f09be2c82) Gustavo Matheus
