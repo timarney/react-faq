@@ -45,6 +45,7 @@ ReactDOM.render(
 
 <details>
  <summary>Additional information to start with</summary>
+
 * [I wish I knew these before diving into React](https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488) Canberk Morelli
 * [Pete Hunt: React: Rethinking best practices JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes) this is a slightly dated but still really good starter
