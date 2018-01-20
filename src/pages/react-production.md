@@ -10,9 +10,9 @@ path: "/react-production/"
 * [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178) James Kyle @thejameskyle
 * [Impress Your Friends With Code Splitting in React](https://hackernoon.com/impress-your-friends-with-code-splitting-in-react-9f9a3ca2ae6e) Burke H✪lland @burkeholland
 
-[**How can I code split using React Router?**](#spit-react-router)
+**How can I code split using React Router?**
 
-*[Code Splitting with React and React Router](https://tylermcginnis.com/react-router-code-splitting)
+* <a id="code-split-react-router" href="https://tylermcginnis.com/react-router-code-splitting">Code Splitting with React and React Router]</a>
 
 **Where can I find good info on using React in production?**
 
