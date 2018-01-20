@@ -14,3 +14,8 @@ path: "/server-side-rendering/"
 
 **What If You Don’t Have Node.JS backend?**
 * Proxy Rendering might work see [React.js Efficient Server Rending](https://medium.com/@tigranbs/react-js-efficient-server-rending-5dcb2a0ae14a#.v6cmaof4e) Tigran Bayburtsyan @tigranbs
+
+
+**Are there frameworks that will help me with Server-Side rendering?**
+
+Yes see <a id="server-side-rendering-framework" href="https://github.com/jaredpalmer/after.js">After.js</a> it's a Next.js-like framework for server-rendered React apps built with React Router 4 
