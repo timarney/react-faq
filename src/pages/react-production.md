@@ -12,7 +12,7 @@ path: "/react-production/"
 
 **How can I code split using React Router?**
 
-* <a id="code-split-react-router" href="https://tylermcginnis.com/react-router-code-splitting">Code Splitting with React and React Router]</a>
+* <a id="code-split-react-router" href="https://tylermcginnis.com/react-router-code-splitting">Code Splitting with React and React Router</a>
 
 **Where can I find good info on using React in production?**
 
