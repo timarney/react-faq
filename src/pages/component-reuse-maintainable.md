@@ -11,3 +11,6 @@ path: "/component-reuse-maintainable/"
 * [4 tips to write maintainable React components](https://blog.callstack.io/4-tips-to-write-maintainable-react-components-7d18278643d0#.qgutp9i5f) @satya164
 
 * [React plus X: Best Practices for Reusable UI Components](https://www.youtube.com/watch?v=Yy7gFgETp0o) | [slides](https://speakerdeck.com/marsjosephine/forwardjs-react-plus-x-best-practices-for-reusable-ui-components) | Mars Jullian @marsjosephine
+
+[**Where can I leran from other peoples mistakes**](#mistakes)
+* [React Architecture Confessions](https://benmccormick.org/2018/02/07/react-confessions/)
