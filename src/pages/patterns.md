@@ -49,10 +49,10 @@ Ryan Florence - Compound Components
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEGg-3pIHlE" frameborder="0" allowfullscreen></iframe>
 
-**What are some common patterns in React Router?**
+[**What are some common patterns in React Router?**](#programmatically-navigate)
 * [react-router-programmatically-navigate](https://tylermcginnis.com/react-router-programmatically-navigate)
 
-**How can I debounce events in React?**
+[**How can I debounce events in React?**](#debounce)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXao_qwl05k" frameborder="0" allowfullscreen></iframe>
 
 
