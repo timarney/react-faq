@@ -14,7 +14,8 @@ path: "/react16/"
 > This initial React 16.0 release is mostly focused on compatibility with existing apps. It does not enable asynchronous rendering yet. We will introduce an opt-in to the async mode later during React 16.x. We don’t expect React 16.0 to make your apps significantly faster or slower, but we’d love to know if you see improvements or regressions. @bvaughn
 
 
-
+[**Lastest News**](#news)
+* [What’s new in React 16.3(.0-alpha)](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b)
 
 
 **React 16 RC Notes**
