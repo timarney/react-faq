@@ -12,6 +12,10 @@ path: "/components/refs/"
 * [Why do you use findDOMNode()?](https://twitter.com/dan_abramov/status/752936646602031104) Dan Abramov @dan_abramov
 * [String refs are bad in quite a few ways](https://news.ycombinator.com/edit?id=12093234) Dan Abramov @dan_abramov
 
+
+[**React 16.3 How does React.createRef work?**](#createref)
+* [React.createRef Demo](https://codesandbox.io/s/0yr3r313q0)
+
 ```javascript
 // use ref to easily add autofocus
 
