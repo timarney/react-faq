@@ -4,6 +4,11 @@ path: "/context/"
 ---
 
 
+## Version 16.3 + 
+[React’s ⚛️ new Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) Kent C. Dodds
+
+
+## Archive
 ⚠️ Context is an **advanced** feature. It is an experimental API and could break in future releases of React. See: [Why Not To Use Context](https://facebook.github.io/react/docs/context.html#why-not-to-use-context)
 
 * [ReactCasts #4 - Context (Part 1)](https://www.youtube.com/watch?v=lxq938kqIss&t=1s) Cassio Zen @cassiozen
