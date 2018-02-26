@@ -5,6 +5,10 @@ path: "/components/lifecycle-methods/"
 
 >Components have several "lifecycle methods" that allow you to override / run code at particular times.
 
+
+[**Overview of how React works**](#overview)
+* https://github.com/reactjs/rfcs/issues/26#issuecomment-365744134
+
 **What are React Lifecycle Methods?**
 * [Mastering the React Lifecycle Methods](https://code.tutsplus.com/tutorials/mastering-the-react-lifecycle-methods--cms-29849) Gigi Sayfan
 * [componentDidMakeSense — React Lifecycle Explanation](https://medium.com/gitconnected/componentdidmakesense-react-lifecycle-explanation-393dcb19e459) Trey Huffine @TreyHuffine
@@ -21,9 +25,3 @@ path: "/components/lifecycle-methods/"
 **How do I use React Lifecycle Methods them?**
 
 * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) Scott Domes @scottdomes
-
-
-> Some interesting notes about componentWillMount here https://github.com/reactjs/rfcs/issues/26#issuecomment-365744134
-
-
-
