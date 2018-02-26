@@ -23,4 +23,7 @@ path: "/components/lifecycle-methods/"
 * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) Scott Domes @scottdomes
 
 
+> Some interesting notes about componentWillMount here https://github.com/reactjs/rfcs/issues/26#issuecomment-365744134
+
+
 
