@@ -204,8 +204,12 @@ https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871b
 * [Handling State in React: Four Immutable Approaches to Consider](https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5) @housecor
 
 
-** Can I add state to function components in React?**
+**Can I add state to function components in React?**
 * [Attaching state to stateless function components in React](https://medium.com/@dai_shi/attaching-state-to-stateless-function-components-in-react-db317a9e83ad) @dai_shi
+
+**[Can I set state can use setState in componentDidMount and componentDidUpdate?](#setstate)**
+* Yes [Understanding setState in componentDidMount to Measure Elements Without Transient UI State](https://codedaily.io/screencasts/67/Understanding-setState-in-componentDidMount-to-Measure-Elements-Without-Transient-UI-State
+)
 
 
 
