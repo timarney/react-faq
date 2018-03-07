@@ -35,10 +35,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         _.each(result.data.allMarkdownRemark.edges, edge => {
           createPage({
             path: edge.node.frontmatter.path,
-            component: blogPost,
-            context: {
-              path: edge.node.frontmatter.path,
-            },
+            component: blogPost
           })
         })
       })
