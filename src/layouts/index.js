@@ -42,12 +42,16 @@ class Template extends React.Component {
   }
 
   componentDidMount() {
-    window.docsearch({
-      apiKey: "5b868b4714802ced50cee159ba9fd2a3",
-      indexName: "reactfaq",
-      inputSelector: "#search",
-      debug: true
-    });
+    try {
+      window.docsearch({
+        apiKey: "5b868b4714802ced50cee159ba9fd2a3",
+        indexName: "reactfaq",
+        inputSelector: "#search",
+        debug: true
+      });
+    } catch (e) {
+      console.log(e.message);
+    }
   }
 
   render() {
