@@ -4,10 +4,10 @@ path: "/videos-courses/"
 ---
 
 **What are some good video resources / courses to learn React?**
-* [The beginners guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) @kentcdodds
+* FREE ⭐[The beginners guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)  @kentcdodds
 * [Advanced Component Patterns](https://egghead.io/courses/advanced-react-component-patterns) @kentcdodds
 * [React For Beginners](https://reactforbeginners.com) @wesbos (Updated for React 16.3, ES6, Async + Await, React Router 4 )
-* [Start Learning React](https://egghead.io/courses/react-fundamentals) @egghead FREE (+ paid for others)
+* FREE ⭐(+ paid for others) [Start Learning React](https://egghead.io/courses/react-fundamentals) @egghead 
 * [React: The Big Picture](https://www.pluralsight.com/courses/react-big-picture) Cory House
 * [React Intro](https://frontendmasters.com/courses/react-intro) Frontend Masters (they have a bunch)
 * [Learn Redux](https://LearnRedux.com) @wesbos
