@@ -4,16 +4,20 @@ path: "/videos-courses/"
 ---
 
 **What are some good video resources / courses to learn React?**
-* https://egghead.io/courses/react-fundamentals FREE (+ paid for others)
-* https://reactforbeginners.com
-* https://app.pluralsight.com/courses/react-redux-react-router-es6
-* https://www.pluralsight.com/courses/react-flux-building-applications
-* https://frontendmasters.com/courses/react-intro (they have a bunch)
-* http://courses.reactjsprogram.com/courses/reactjsprogrambundle
-* https://LearnRedux.com
-* https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
-* https://www.udemy.com/react-redux
-* https://www.awesomereact.com
-* https://learnreact.com FREE (for now)
+* [The beginners guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) @kentcdodds
+* [Advanced Component Patterns](https://egghead.io/courses/advanced-react-component-patterns) @kentcdodds
+* [React For Beginners](https://reactforbeginners.com) @wesbos (Updated for React 16.3, ES6, Async + Await, React Router 4 )
+* [Start Learning React](https://egghead.io/courses/react-fundamentals) @egghead FREE (+ paid for others)
+* [React: The Big Picture](https://www.pluralsight.com/courses/react-big-picture) Cory House
+* [React Intro](https://frontendmasters.com/courses/react-intro) Frontend Masters (they have a bunch)
+* [Learn Redux](https://LearnRedux.com) @wesbos
+* [Learn React](https://learnreact.com) FREE (for now)
+* [PLURALSIGGHT - react path](https://www.pluralsight.com/paths/react)
+* [Udemy React - Redux](https://www.udemy.com/react-redux)
 
-Also see [Conference Videos](https://www.awesomereact.com/conferences)
+## Notable
+<div class="notable">
+<p style="margin-bottom:0rem">⚡ Checkout https://www.awesomereact.com for a great React collection of videos  </p>
+</div>
+
+
