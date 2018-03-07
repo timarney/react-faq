@@ -12,7 +12,7 @@ path: "/videos-courses/"
 * [React Intro](https://frontendmasters.com/courses/react-intro) Frontend Masters (they have a bunch)
 * [Learn Redux](https://LearnRedux.com) @wesbos
 * [Learn React](https://learnreact.com) FREE (for now)
-* [PLURALSIGGHT - react path](https://www.pluralsight.com/paths/react)
+* [PLURALSIGHT - react path](https://www.pluralsight.com/paths/react)
 * [Udemy React - Redux](https://www.udemy.com/react-redux)
 
 ## Notable
