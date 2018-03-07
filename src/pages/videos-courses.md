@@ -8,7 +8,9 @@ path: "/videos-courses/"
 * [Advanced Component Patterns](https://egghead.io/courses/advanced-react-component-patterns) @kentcdodds
 * [React For Beginners](https://reactforbeginners.com) @wesbos (Updated for React 16.3, ES6, Async + Await, React Router 4 )
 * FREE ⭐(+ paid for others) [Start Learning React](https://egghead.io/courses/react-fundamentals) @egghead 
-* [React: The Big Picture](https://www.pluralsight.com/courses/react-big-picture) Cory House
+* [React: The Big Picture](https://www.pluralsight.com/courses/react-big-picture) @housecor
+* [Building Apps with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6) @housecor
+* [Creating Reusable React Components](https://www.pluralsight.com/courses/react-creating-reusable-components) @housecor
 * [React Intro](https://frontendmasters.com/courses/react-intro) Frontend Masters (they have a bunch)
 * [Learn Redux](https://LearnRedux.com) @wesbos
 * [Learn React](https://learnreact.com) FREE (for now)
