@@ -33,6 +33,8 @@ ReactDOM.render(
 ## These articles will start you down the path to learning React.
 
 **I don't know React what should I watch / read before I start?**
+* [How to React ⚛️](https://blog.kentcdodds.com/how-to-react--9e87f48414d2)
+* [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 * [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
 * 🔥 [Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87#.q8cyvryw1) Eric Clemmons @ericclemmons
 * 🔥 [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react)  @kjendrzyca
