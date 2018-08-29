@@ -104,3 +104,6 @@ See: [Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here’s some errors you won’t ever see again.</p>&mdash; Dan Abramov (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/890357529494073348">July 26, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Don't convert an arrow function just to add a console.log
+https://twitter.com/thekitze/status/1029369487685021696
